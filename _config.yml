@@ -48,4 +48,3 @@ defaults:
 #      type: "mds-updates"
 #    values:
 #      layout: "mds-updates"
-source:      _source
