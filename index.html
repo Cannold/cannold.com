@@ -126,7 +126,7 @@
 
 			<div class="content-wrap nopadding">
 
-				<div id="section-about" class="center page-section">
+				<div id="section-author" class="center page-section">
 
 					<div class="container clearfix">
 
@@ -213,13 +213,7 @@
 
 					</div>
 
-				</div>
-
-				<section id="content">
-
-					<div class="content-wrap nopadding">
-
-						<div id="section-about" class="center page-section">
+				<div id="section-about" class="center page-section">
 
 							<div class="container clearfix">
 
@@ -242,9 +236,6 @@
                 </div>
 							</div>
 						</div>
-					</div>
-				</div>
-
 
 				<div id="section-services" class="page-section notoppadding">
 
@@ -365,12 +356,10 @@
 							       </div>
 						      </div>
 
-
-
 					<div class="section dark nomargin">
 						<div class="divcenter center" style="max-width: 900px;">
 							<h2 class="nobottommargin t300 ls1">Book Leslie Cannold for your event
-								<a href="mailto:leslie@cannold.com?Subject=Booking%20request%20from"class="button button-border button-circle button-light button-large notopmargin nobottommargin" style="position: relative; top: -3px;">Here   <i class="icon-email"></i></a>
+								<a href="mailto:leslie@cannold.com?Subject=Booking%20request%20from&body=Hello%20Leslie,%0D%0DI%20would%20like%20to%20enquire%20about%20booking%20you%20for%20an%20event" class="button button-border button-circle button-light button-large notopmargin nobottommargin" style="position: relative; top: -3px;">Here   <i class="icon-email"></i></a>
 						</div>
 					</div>
 
@@ -558,6 +547,9 @@
 
 						</div>
 					</div>
+
+			</div>
+
 		</section><!-- #content end -->
 
 		<!-- Footer
@@ -640,8 +632,7 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/plugins.js"></script>
 
-	<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>
-	<script type="text/javascript" src="js/jquery.gmap.js"></script>
+
 
 	<!-- Footer Scripts
 	============================================= -->
@@ -649,105 +640,6 @@
 
 	<script type="text/javascript">
 
-		// Portfolio Script
-		jQuery(window).load(function(){
-
-			var jQuerycontainer = jQuery('#portfolio');
-			jQuerycontainer.isotope({
-				transitionDuration: '0.65s',
-				masonry: {
-					columnWidth: jQuerycontainer.find('.portfolio-item:not(.wide)')[0]
-				}
-			});
-			jQuery(window).resize(function() {
-				jQuerycontainer.isotope('layout');
-				SEMICOLON.portfolio.portfolioDescMargin();
-			});
-			var t = setTimeout(function(){ SEMICOLON.portfolio.portfolioDescMargin(); }, 200);
-
-			// Google Map
-			jQuery('#headquarters-map').gMap({
-				address: 'Melbourne, Australia',
-				maptype: 'ROADMAP',
-				zoom: 14,
-				markers: [
-					{
-						address: "Melbourne, Australia",
-						html: "Melbourne, Australia",
-						icon: {
-							image: "images/icons/map-icon-red.png",
-							iconsize: [32, 32],
-							iconanchor: [14,44]
-						}
-					}
-				],
-				doubleclickzoom: false,
-				controls: {
-					panControl: false,
-					zoomControl: false,
-					mapTypeControl: false,
-					scaleControl: false,
-					streetViewControl: false,
-					overviewMapControl: false
-				},
-				styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#000000"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":17},{"weight":1.2}]},{"featureType":"administrative","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.country","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"labels.text","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.province","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.locality","elementType":"all","stylers":[{"visibility":"simplified"},{"saturation":"-100"},{"lightness":"30"}]},{"featureType":"administrative.neighborhood","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.land_parcel","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"all","stylers":[{"visibility":"simplified"},{"gamma":"0.00"},{"lightness":"74"}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"landscape.man_made","elementType":"all","stylers":[{"lightness":"3"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":16}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":19}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":17}]}]
-			});
-
-		});
-
-		// Owl Carousel
-		jQuery(document).ready(function($) {
-
-			var ocClients = $("#oc-clients");
-			ocClients.owlCarousel({
-				margin: 80,
-				loop: true,
-				nav: false,
-				autoplay: true,
-				dots: false,
-				autoplayHoverPause: true,
-				responsive:{
-					0:{ items:2 },
-					480:{ items:3 },
-					768:{ items:4 },
-					992:{ items:5 },
-					1200:{ items:6 }
-				}
-			});
-
-		});
-
-		// Contact Form
-		$("#template-contactform").validate({
-				submitHandler: function(form) {
-					$('.form-process').fadeIn();
-					$(form).ajaxSubmit({
-						target: '#contact-form-result',
-						success: function() {
-							$('.form-process').fadeOut();
-							$(form).find('.sm-form-control').val('');
-							$('#contact-form-result').attr('data-notify-msg', $('#contact-form-result').html()).html('');
-							SEMICOLON.widget.notifications($('#contact-form-result'));
-						}
-					});
-				}
-			});
-
-			// Widget Subscribe Form
-			$("#widget-subscribe-form").validate({
-				submitHandler: function(form) {
-					$(form).find('.input-group-addon').find('.icon-email2').removeClass('icon-email2').addClass('icon-line-loader icon-spin');
-					$(form).ajaxSubmit({
-						target: '#widget-subscribe-form-result',
-						success: function() {
-							$(form).find('.input-group-addon').find('.icon-line-loader').removeClass('icon-line-loader icon-spin').addClass('icon-email2');
-							$('#widget-subscribe-form').find('.form-control').val('');
-							$('#widget-subscribe-form-result').attr('data-notify-msg', $('#widget-subscribe-form-result').html()).html('');
-							SEMICOLON.widget.notifications($('#widget-subscribe-form-result'));
-						}
-					});
-				}
-			});
 
 		</script>
 
