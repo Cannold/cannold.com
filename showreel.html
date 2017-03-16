@@ -4,16 +4,23 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="author" content="SemiColonWeb" />
-
 	<!-- Stylesheets
 	============================================= -->
-	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,700" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
 	<link rel="stylesheet" href="style.css" type="text/css" />
+
+	<!-- One Page Module Specific Stylesheet -->
+	<link rel="stylesheet" href="onepage.css" type="text/css" />
+	<!-- / -->
+
 	<link rel="stylesheet" href="css/dark.css" type="text/css" />
 	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/et-line.css" type="text/css" />
 	<link rel="stylesheet" href="css/animate.css" type="text/css" />
 	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+
+	<link rel="stylesheet" href="css/fonts.css" type="text/css" />
 
 	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,13 +29,55 @@
 	============================================= -->
 	<title>Blank Page | Canvas</title>
 
+	<style>
+		#header:not(.sticky-header) #logo a { opacity: 0; pointer-events: none; }
+	</style>
+
 </head>
 
-<body class="stretched">
+<body class="stretched overlay-menu dark">
 
 	<!-- Document Wrapper
 	============================================= -->
 	<div id="wrapper" class="clearfix">
+
+		<header id="header" class="full-header transparent-header static-sticky" data-sticky-offset="full" data-sticky-offset-negative="75">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix">
+
+					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+					<!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="index.html" class="standard-logo" data-dark-logo="images/canvasone-dark.png"><img src="images/canvasone.png" alt="Canvas Logo"></a>
+						<a href="index.html" class="retina-logo" data-dark-logo="images/canvasone-dark@2x.png"><img src="images/canvasone@2x.png" alt="Canvas Logo"></a>
+					</div><!-- #logo end -->
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu">
+
+						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
+							<li><a href="#" data-href="#wrapper"><div>Home</div></a></li>
+							<li><a href="#" data-href="#section-about" data-offset="60"><div>About</div></a></li>
+							<li><a href="#" data-href="#section-services"><div>Services</div></a></li>
+							<li><a href="#" data-href="#section-blog"><div>Blog</div></a></li>
+							<li><a href="#" data-href="#section-contact"><div>Contact</div></a></li>
+						</ul>
+
+						<a href="#" id="overlay-menu-close" class="visible-lg-block visible-md-block"><i class="icon-line-cross"></i></a>
+
+					</nav><!-- #primary-menu end -->
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
 
 		<!-- Content
 		============================================= -->
@@ -39,13 +88,20 @@
 				<div class="container center clearfix">
 
 					<div class="heading-block center">
-						<h1>This is a Blank Page</h1>
-						<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, ratione?</span>
+						<h1>Leslie's extended showreel</h1>
+						<span></span>
 					</div>
 
-					<p>Quod aut totam adipisci fugit dolor tempora quasi odit, qui aliquam fuga voluptatibus quas eos earum facilis corporis quibusdam eius! Molestiae dolorum nisi quod aperiam ullam libero qui autem alias laborum totam voluptatibus aliquam commodi nobis ipsum excepturi repellendus nihil labore est possimus magni aliquid, sed culpa ad explicabo! Esse, provident, autem.</p>
+					<div class="col_half">	<iframe width="560" height="315" src="https://www.youtube.com/embed/FxI6HGpaP3Q" frameborder="0" allowfullscreen></iframe>
+						<br></br>
+						<br></br>
+</div>
+					<div class="col_half col_last">	<iframe width="560" height="315" src="https://www.youtube.com/embed/CWZS5-gfcHE" frameborder="0" allowfullscreen> </iframe>
+						<br></br>
+						<br></br>
+</div>
 
-					<a href="index.html" class="btn btn-default topmargin-sm">&lArr; Back to the Demo</a>
+					<a href="index.html" class="btn btn-default topmargin-sm">&lArr; Return to main page</a>
 
 				</div>
 
