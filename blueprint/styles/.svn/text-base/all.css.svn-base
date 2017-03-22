@@ -1,0 +1,935 @@
+/*------------------------------------------------------------------------------
+  Default Blueprint CSS
+
+  This provides the styles for Blueprint's default templates.
+  You can discard it entirely, or simply delete or comment out the irrelevant
+  parts.
+
+  This stylesheet is divided into several sections:
+  + Reset (to give you a blank CSS canvas on which to work)
+  + Sample colours and embellishments (the first bit you should delete - this
+    provides tweaks to make the default templates look nice, and probably
+    isn't relevent when you're putting together a fresh design)
+  + Layout
+  + Basic typography (in ems) with simple table styles
+  + Mimetypes (presentation of download / view links for non-image assets)
+
+  Following these sections, there are styles for each of the default blueprint
+  modules. They are namespaced with the module code (i.e. blg, evt, nws),
+  which is is applied to the body in the main default layout.
+
+  We're always keen to hear about things that might make the default templates
+  easier to comprehend and to use.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+/* For IE */
+img { -ms-interpolation-mode:bicubic; }
+
+a img {
+  border: none;
+}
+
+a, a:link { text-decoration: none; }
+a:visited { }
+a:hover { }
+a:active { }
+
+
+/*------------------------------------------------------------------------------
+>>>> Sample site colours + layout + nudges + small embellishments
+     Beware: some of this stuff isn't IE-friendly.
+     Commenting out this section will give you a vanilla canvas.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+body {
+  color: #07181d;
+  border-top: 2px solid #777;
+  text-shadow: rgba(255, 255, 255, .01) 0px -1px 1px;
+  font-family: Georgia, "Times New Roman", serif;
+	font-size: 87%;
+}
+
+/* Link and link-like colours */
+a,
+#shp p.toggle a.toggleOn,
+.textNav a:hover,
+.textNav a:active,
+.textNav li.active a,
+#slideshow ol li#activeThumb {
+  color: #0C77B2;
+}
+
+.masthead { background: #ccc; }
+.masthead .main, .footer .main { padding-top: 0px; }
+.tabs, .breadcrumbs, .footer, #basket_ { font-family: Helvetica, sans-serif; }
+.tabs a { color: #fff; font-size: 1.1em; background-color: #444; }
+.tabs li.active a span { background: #fff; color: #07181d; }
+ul.tabs li a:hover span { background: #222; color: #eee; }
+.textNav { font-family: Helvetica, sans-serif; }
+.textNav a { color: #222; }
+#sidebar { font-size: 90%; }
+#sidebar > h4:first-child { margin-top: 0px; }
+#sidebar form.searchForm { margin-bottom: 2.5em; }
+#sidebar ul { margin-left: 1.4em; }
+.footer { border-top: 1px solid #ccc; }
+.sitemap a { color: #333; }
+.sitemap a:hover { color: #222; text-decoration: none; }
+
+/* For the big happy opening paragraph */
+#content h1 + p, #mapblg #content p:first-child {
+  font-size: 125%;
+  line-height: 160%;
+  padding-bottom: 0.5em;
+  color: #07181d;
+}
+
+/* Neatening subheadings in posts  */
+
+.post h2 { margin-top: 0px;}
+.post h2 + h3 {
+  margin: -0.7em 0 0.6em 0;
+}
+
+
+
+
+/*------------------------------------------------------------------------------
+>>>> Layout
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*
+    The basic 960px grid layout is provided by Golden Grid (a separate stylesheet
+      included in the head of the layout)
+*/
+
+.container {
+}
+
+.footer {
+  clear:both;
+  font-size: 90%;
+  padding-top: 0.5em;
+  margin-top: 3.0em;
+}
+.byline {
+  padding-top: 0.5em;
+  font-size: 90%;
+  text-align: center;
+}
+
+/*------------------------------------------------------------------------------
+>>>> Masthead, breadcrumbs & tabs
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+.masthead {
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  text-align: left;
+}
+.masthead .title {
+  font-size: 2.5em;
+  margin-top: 30px;
+  text-align: center;
+  padding-bottom: 0.8em;
+  letter-spacing:0.05em;
+}
+.strap { /* Contains breadcrumbs and shoppping cart */
+  height: 2.5em;
+  padding-top: 0;
+}
+.breadcrumbs {
+  padding: 0.5em 0;
+  font-size: 0.8em;
+}
+
+li#home { /* The 'home' link in the main nav */ }
+
+/* Tab-style nav */
+
+ul.tabs, ul.tabs li {
+	list-style: none;
+	margin: 25px 0 0 0;
+	padding: 0;
+}
+ul.tabs {
+	padding: 5px 0 4px;
+  text-align: center; /* Centres tabs in ul.tabs */
+}
+ul.tabs li {
+	display: inline;
+	margin-right: .75em;
+}
+ul.tabs li.last {
+	margin-right: 0;
+}
+ul.tabs li a {
+	padding: 7px 0;
+	text-decoration: none;
+}
+ul.tabs li a span {
+	padding: 7px 1em;
+}
+ul.tabs li a:hover span { }
+
+/* Plain text-link style nav */
+
+ul.textNav {
+  display: block;
+  padding: 0.7em 0;
+  margin: 0 0 0 10px;
+  list-style-type: none;
+}
+ul.textNav li {
+  display: inline;
+  font-size: 90%;
+  padding-right: 1.5em;
+  line-height: 100%;
+  font-weight: bold;
+}
+ul.textNav li#home {
+  text-transform: uppercase;
+}
+
+/* Sidebar subnav */
+
+.subnav ul ul {
+  margin-top: 0.7em;
+  margin-bottom: 0;
+}
+.subnav a.active {
+  font-weight: bold;
+}
+
+
+/*------------------------------------------------------------------------------
+>>>> Basic Typography
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+em, i {
+  font-style:italic;
+}
+b, strong {
+  font-weight: bold;
+}
+
+h1 {
+  font-size:1.8em;
+  margin: 0 0 0.5em 0;
+  letter-spacing:0.05em;
+}
+h2 {
+  font-size: 1.4em;
+  margin-top: 1.8em;
+  margin-bottom: 0.7em;
+}
+h3 {
+  font-size: 1.0em;
+  line-height: 1.25;
+  margin-top: 1.4em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+h4 {
+  margin-top:2.0em;
+  font-size:1em;
+  font-weight:bold;
+  margin-bottom:0.5em;
+}
+h6 {
+  font-size:1em;
+  font-weight:bold;
+}
+p {
+  line-height:150%;
+  margin-bottom:1.0em;
+}
+ul, ol {
+  padding: 0;
+  margin:1.0em 3.0em 1.4em 0;
+}
+ul ul, ol ol {
+  margin-left: 1.8em;
+}
+li {
+  line-height:130%;
+  margin-bottom:0.7em;
+}
+dl {
+  line-height: 130%;
+}
+dt {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+dd {
+  margin-bottom: 2.0em;
+}
+blockquote {
+  margin: 1.6em 0;
+  padding: 0 2.0em;
+  border-left: 1px solid #ccc;
+}
+blockquote p {
+  padding:0;
+  margin:0 0 1.0em 0;
+}
+blockquote cite {
+  font-style:italic;
+  font-weight: bold;
+  font-size:0.9em;
+}
+table {
+  border-collapse: collapse;
+  margin: 1.0em 0;
+  padding: 0;
+  font-size: 0.9em;
+  width: 100%;
+}
+table td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.3em 1.0em 0.3em 0;
+  border-bottom:1px solid #ddd;
+}
+table th {
+  padding: 0.3em 1.0em 0.3em 0;
+  font-weight: bold;
+  text-align: left;
+  border-bottom: 1px solid #222;
+}
+table p {
+  margin: 0.5em 0;
+}
+
+/*------------------------------------------------------------------------------
+>>>> Generally helpful
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+.error, .preview {
+  border: 1px dashed red;
+  padding: 1.0em 1.0em 0 1.0em;
+}
+
+.skip { /* For hidden skip-to-content link */
+  display: none;
+}
+.back { /* Used for back-to-page links for blg, nws, evt */
+  clear: both;
+  padding-top:2.0em;
+}
+.go { /* Link to post or extended article */
+  text-align: right;
+}
+.first { /* For the first item in series */
+  margin-left: 0;
+  padding-left: 0;
+}
+.last { /* For the last item in series */
+  margin-right: 0;
+  padding-right: 0;
+}
+.notFound { /* Where people / products don't have images */
+  background: #ddd;
+  text-align: center;
+  padding: 3.5em 0;
+  width: 100%;
+}
+
+/*
+  For convenience, the basic unit of all post-able blueprints is 'post'.
+  Where there's a standard image associated with the post (products, people), the
+  post is further divided into .image and .body.
+*/
+
+#blg div.post,
+#dir div.post,
+#edn div.post,
+#evt div.post,
+#mapblg div.post,
+#nws div.post,
+#psl div.post,
+#shp div.post {
+  margin-bottom:2.0em;
+}
+
+
+/*------------------------------------------------------------------------------
+>>>> Blog and News (BLG, NWS) pagination + DBY years
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#blg div.pagination,
+#nws div.pagination,
+#dby div.pagination,
+#mapblg div.pagination {
+  margin-top:4.0em;
+  text-align:right;
+  font-size: 90%;
+}
+#blg .pagination ul,
+#nws .pagination ul,
+#dby .pagination ul,
+#mapblg .pagination ul {
+  margin: 0;
+  float: right;
+  list-style: none;
+}
+#blg .pagination ul li,
+#nws .pagination ul li,
+#dby .pagination ul li,
+#mapblg .pagination ul li {
+  border-right: 1px solid #444;
+  padding: 0 0.4em;
+  margin-top: 0.5em;
+  float: left;
+}
+#blg .pagination ul li.currentPage,
+#nws .pagination ul li.currentPage,
+#dby .pagination ul li.currentPage,
+#mapblg .pagination ul li.currentPage {
+  font-weight: bold;
+}
+#blg .pagination ul li.nextPage,
+#nws .pagination ul li.nextPage,
+#dby .pagination ul li.all,
+#mapblg .pagination ul li.all {
+  border-right: 0;
+  padding-right: 0;
+}
+
+
+/*  >> Comments <<   */
+
+#blg p.commentInfo,
+#tlk p.commentInfo,
+#mapblg p.commentInfo { /* Shows if comments are on or off, and how many */
+  margin-top: 2.0em;
+  text-align: right;
+  font-size: 90%;
+  font-weight: bold;
+}
+#blg div.cmt,
+#tlk div.cmt,
+#mapblg div.cmt {
+  margin-bottom: 2.4em;
+  font-size: 90%;
+}
+div.preview h4.commenter {
+  margin-top: 0;
+}
+#blg div.preview a.hide,
+#tlk div.preview a.hide,
+#mapblg div.preview a.hide {
+  color: red;
+}
+
+
+/*------------------------------------------------------------------------------
+>>>> Events (EVT)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*------------------------------------------------------------------------------
+>>>> Search (SCH)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*------------------------------------------------------------------------------
+>>>> Contact form (CTT)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*------------------------------------------------------------------------------
+>>>> Edition (EDN)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#edn div.author {
+  border-top: 1px solid #ccc;
+  padding-top: 0.5em;
+  margin-top: 3.0em;
+  font-size: 85%;
+}
+#edn div.author h4 {
+  margin: 0 0 0.5em 0;
+}
+
+/*------------------------------------------------------------------------------
+>>>> Shop (SHP)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#shp .comparison { /* If regular price > current price */
+  color: red;
+  text-decoration: line-through;
+}
+#shp .available { /* Date available - used especially for upcoming products */
+  font-style: italic;
+}
+#shp img.productImage {
+  width: 100%;
+}
+#shp .purchaseOptions { /* Contains add link, availability and variations */
+  padding: 0.5em 0;
+  margin-bottom: 1.0em;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+#shp .post .purchaseOptions { /* Make it smaller on the index page */
+  font-size: 0.85em;
+  border: 0;
+}
+#shp .purchaseOptions p {
+ margin-bottom: 0;
+}
+
+
+/* The basket-filler provided by add_to_cart_link */
+a.basket_filler { font-weight: bold; }
+a.basket_fillerAdd { }        /* 'Add to cart */
+a.basket_fillerProcessing { } /* 'Adding...' */
+a.basket_fillerCheckout { }   /* 'Go to checkout' */
+
+
+/*
+  The container for the basket - helps when you're positioning the basket
+  relative to something other than the browser window
+*/
+.basketContainer {
+  position: relative;
+}
+
+/* The rest of the basket styles are in basket.css */
+
+/* Freight table */
+table.shpFreightTable {
+}
+table.shpFreightTable th {
+  font-weight:bold;
+  padding-left: 0;
+  border-bottom: 1px solid #ddd;
+}
+p.shpTaxInfo {
+  font-size: 0.9em;
+}
+
+
+/* Checkout (general) */
+
+#shp .checkoutActions {
+  margin-top: 1.5em;
+  font-size: 1.1em;
+}
+#shp .previous {
+  float: left;
+}
+#shp .next {
+  float: right;
+}
+
+
+#basketTable {
+  margin-top: 2.0em;
+}
+#basketTable td {
+  padding: 0.6em 0;
+  vertical-align: middle;
+}
+#basketTable th.title {
+  width:50%;
+}
+#basketTable td.title {
+  font-weight: bold;
+}
+#basketTable th.quantity, #basketTable td.quantity, #basketTable td.quantity input {
+  text-align: center;
+}
+#basketTable th.remove {
+  width:20px;
+  color:red;
+  text-align:center;
+  font-weight:bold;
+}
+#basketTable th.price,
+#basketTable td.price {
+  text-align:right;
+}
+#basketTable tr.summary td.price {
+  font-weight: bold;
+}
+#basketTable tr.total td {
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* Step 1 */
+#shp input.update { /* Update quantities button */
+  font-size: 1.0em;
+}
+
+/* Step 2 */
+#shp p.toggle { /* Toggles for billing/shipping address and remember details */
+  font-size: 0.9em;
+  margin: 1.5em 0;
+  padding: 0.3em 0;
+  line-height: 160%;
+}
+#shp p.toggle a {
+  color: #aaa;
+}
+
+/* Step 3: Paypal */
+
+/* Step 3: Gateway */
+#shp .billingShipping { /* Contains address <p>s */
+  margin: 4.0em 0 2.0 0;
+}
+#shp p.shippingAddress {
+  float: left;
+  width: 45%;
+  margin-right: 5%;
+}
+#shp p.billingAddress {
+  float: left;
+  width: 47%;
+  margin-right: 0;
+}
+
+
+
+/*------------------------------------------------------------------------------
+>>>> Gallery (GLY)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#gly div.image img {
+  width: 100%;
+}
+#gly p.caption {
+  margin-top: 1.0em;
+  font-size: 90%;
+}
+
+
+/*------------------------------------------------------------------------------
+>>>> Map Blog (MAPBLG)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#mapblg #map {
+  border: 1px solid #ccc;
+  height: 400px;
+  margin: 2.0em 0;
+}
+
+
+/*------------------------------------------------------------------------------
+>>>> Membership (MEM)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+#mem_signin_status {
+  line-height: 32px;
+  vertical-align: middle;
+  float: right;
+}
+
+
+/*------------------------------------------------------------------------------
+>>>> Slideshow
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#slideshow div.placeholder {
+  clear: both;
+  width: 100%;
+  overflow: hidden;
+  background: url(/static/images/spinner.gif) center center no-repeat;
+}
+#slideshow #SS_caption {
+  margin-top: 1.0em;
+  font-size: 90%;
+  height: 6.0em; /* You should set a height to stop the scrollbar flicker */
+}
+#slideshow ol li {
+  display: block;
+  padding: 0.1em 1.0em 0.1em 0;
+  float: left;
+  cursor: pointer;
+  font-size: 90%;
+}
+#slideshow ol li a {
+  padding: 0.1em 1.0em 0.1em 0;
+}
+#slideshow ol li#activeThumb { /* The active marker for the slideshow */ }
+
+
+
+
+/*-----------------------------------------------------
+                     >> Images <<
+
+Sizes
+large: 440px
+medium: 200px
+small: 100px
+
+Adjust accordingly!
+
+-----------------------------------------------------*/
+
+.captioned {
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+}
+.captioned blockquote {
+  background:none;
+  margin: 6px 0 0 0;
+  padding: 0;
+  border: 0;
+}
+.captioned blockquote p {
+  font-size: 0.85em;
+  font-style: normal;
+  line-height: 140%;
+}
+img.small, .smallCaptioned {
+  float: left;
+  width: 100px;
+  margin: 0 18px 10px 0;
+}
+img.med, .medCaptioned {
+  float: left;
+  width: 200px;
+  margin: 0 18px 10px 0;
+}
+img.med_right, .med_rightCaptioned {
+  float: right;
+  width: 200px;
+  position: relative;
+  margin-right: -210px;
+}
+img.large, .largeCaptioned {
+  width: 440px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #ddd;
+  background:#fff;
+}
+.largeCaptioned {
+  margin: 1.7em 0;
+  border: none;
+  padding: 0;
+}
+
+.medCaptioned img,
+.med_rightCaptioned img,
+.smallCaptioned img,
+.small_rightCaptioned img,
+.largeCaptioned img {
+  float: none;
+  margin: 0;
+}
+
+p.submit {
+  text-align:center;
+  margin-top:10px;
+  width:100%;
+  overflow:hidden;
+}
+
+.submit input {
+  font-size:16px;
+}
+
+
+
+
+
+
+
+/*------------------------------------------------------------------------------
+>>>> Documents by year (DBY)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+#dby table .downloadDate {
+  width: 7.0em;
+}
+#dby table .downloadContent {
+  width:27em;
+}
+#dby table .downloadLink {
+  width: 7.0em;
+  text-align: right;
+}
+
+
+
+/*------------------------------------------------------------------------------
+>>>> Mime-type display - the default behaviour when a file is inserted in text
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+a.download {
+  display:block;
+  overflow:hidden;
+  border:1px solid #ccc;
+  margin:0;
+  padding:0;
+  background:#eee;
+  position:relative;
+  text-decoration:none;
+}
+a.download:hover {
+  background:#E6F1FF;
+}
+a.download label {
+  margin:20px 0 0 0;
+  padding:0;
+  display:block;
+  line-height:140%;
+  float:left;
+}
+a.download label span {
+  font-weight:bold;
+  font-size:12px;
+}
+a.download img {
+  float:left;
+  margin:0;
+  padding:3px 0;
+  width:64px;
+  height:64px
+}
+
+
+/*------------------------------------------------------------------------------
+>>>> Search and Tags
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+.tagCloud a {
+  margin-right: 2%;
+}
+
+.cloud1 { font-size: 100%; }
+.cloud2 { font-size: 110%; }
+.cloud3 { font-size: 120%; }
+.cloud4 { font-size: 130%; }
+.cloud5 { font-size: 140%; }
+.cloud6 { font-size: 150%; }
+.cloud7 { font-size: 160%; }
+
+
+
+/*------------------------------------------------------------------------------
+>>>> Sitemap
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+ul.sitemap  {
+  overflow:hidden;
+  list-style-type:none;
+  list-style-image:none;
+  padding: 0.7em 0;
+}
+ul.sitemap ul {
+  padding:0;
+  list-style-type:none;
+  list-style-image:none;
+}
+ul.sitemap li {
+  float:left;
+  padding-left:0px;
+  padding: 0.5em 0;
+  font-weight:bold;
+}
+ul.sitemap li span {
+  display:block;
+}
+ul.sitemap ul {
+  margin:8px 0 18px 0px;
+}
+ul.sitemap ul li {
+  float:none;
+  padding:0;
+  margin-bottom: 2px;
+  width:100%;
+  font-weight:normal;
+}
+
+
+
+/*------------------------------------------------------------------------------
+>>>> Uniform overwrites (remove the .uniForm class from forms to disregard)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/* This is the main unit that contains our form elements */
+.uniForm .ctrlHolder { padding: 0; }
+.uniForm .buttonHolder { padding-top: 10px; }
+
+.uniForm .inlineLabels label,
+.uniForm .inlineLabels .label {
+  width: 40%;
+}
+.uniForm .inlineLabels .textInput,
+.uniForm .inlineLabels .fileUpload {
+  width: 54%;
+}
+
+.uniForm .inlineLabels .selectInput,
+.uniForm .inlineLabels select{ width: 54%;  }
+
+.uniForm .inlineLabels textarea{  width: 54%; font-family: Helvetica, Arial, sans-serif; }
+
+.uniForm .inlineLabels .formHint {
+  margin-top: 0;
+  margin-left: 42%;
+  font-size: .9em;
+  color: #777;
+  position: static;
+}
+.uniForm .inlineLabels .multiField {
+  width: 54%;
+  margin: 0 0 .3em 0;
+}
+
+.uniForm label.blockLabel { font-size: 90%; }
+.uniForm .inlineLabels .blockLabel {
+  width: 45%;
+  margin-right: 5%;
+/*  border: 1px solid red;*/
+}
+.uniForm .inlineLabels .expiry label.blockLabel { /* For credit card expiry date #shp */
+  width: 46%;
+}
+.uniForm .inlineLabels .cc label.cardNumber { /* For credit card number #shp */
+  width: 65%;
+}
+.uniForm .inlineLabels .cc label.cvv { /* For credit card expiry date #shp */
+  width: 22%;
+}
+.uniForm .inlineLabels .address .textInput {
+  width: 100%;
+}
+.uniForm .inlineLabels .address label {
+  display: none;
+}
+.uniForm .ctrlHolder {
+  padding: 6px 0;
+  border-bottom: 1px solid #dfdfdf;
+}
+.uniForm .noBorder {
+  border: 0;
+}
+.uniForm .inlineLabels p.formHint {
+  font-size: 80%;
+  padding-top: 0.8em;
+  line-height: 130%;
+}

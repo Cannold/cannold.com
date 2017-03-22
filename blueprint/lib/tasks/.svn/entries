@@ -1,0 +1,40 @@
+8
+
+dir
+274
+http://repo.staging.strategicdata.com.au/sites/cannold.com/templates/lib/tasks
+http://repo.staging.strategicdata.com.au/sites
+
+
+
+2011-03-23T01:18:21.753527Z
+267
+virginiam
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9e0d0b5d-c380-4c06-9a1f-c69cbab85587
+
+importer.rake
+file
+
+
+
+
+2011-03-25T05:29:10.000000Z
+a975be0f6229f2fa116f4d29b7e5e4ed
+2011-03-23T01:18:21.753527Z
+267
+virginiam
+

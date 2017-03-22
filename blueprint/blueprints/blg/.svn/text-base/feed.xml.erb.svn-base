@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><%= "#{@page_title || @page.title} - #{@site.name}" %></title>
+  <link href="<%= absolute_path @page.url %>" rel="self" />
+  <id><%= @page.url %></id>
+  <updated>
+    <%= feed_time(@updated) %> 
+  </updated>
+  <author>
+    <name><%= @site.domain %></name>
+  </author>
+  <% @posts.each do |post| %>
+    <entry>
+      <title><%= post.title %></title>
+      <link 
+        href="<%= absolute_path @page.url(:action => :post, :id => post.slug)%>"
+        rel="alternate" 
+      />
+      <id><%= @page.url(:action => :post, :id => post.slug) %></id>
+      <updated>
+        <%= feed_time(post.created_on) %>
+      </updated>
+      <author>
+        <name><%= post.user ? post.user.public_name : "Unknown author" %></name>
+      </author>
+      <content type="html"><%= feed_up(post.content_markup) %></content>
+    </entry>
+  <% end %>
+</feed>

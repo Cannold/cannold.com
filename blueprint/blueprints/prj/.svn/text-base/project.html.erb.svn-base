@@ -1,0 +1,35 @@
+<% content_for :head do %>
+  <%= javascript_include_tag('slideshow') %>    
+  <%= javascript_tag(
+    "Event.observe(window, 'load', function(){" +
+      "IL.Slideshow.rotate(1, 7000, 'activeThumb')})"
+  ) %>
+<% end %>
+
+<% if !@project.client.blank? && !@project.client_url.blank? %>
+  <% client = link_to(@project.client, @project.client_url)  %>
+<% elsif !@project.client.blank? %>
+  <% client = @project.client %>
+<% end %>
+
+<h1>
+  <%= @project.title %>
+  <%= " &mdash;&nbsp;" + client unless @project.client.blank? %>
+</h1>
+
+<%= content_tag("h2", @project.subtitle) unless @project.subtitle.blank? %>
+
+<%= @project.description_markup %>
+
+<% unless @project.testimonial.blank? %>
+  <blockquote>
+    <%= @project.testimonial_markup %>
+  </blockquote>
+<% end %>
+
+<%# Enable Prototype and Effects in the layout if you use the slideshow: %>
+<%= site_ingredient 'slideshow', :locals => { :images => @project.assets } %>
+
+<p class="back">
+  <%= link_to_page("&#x2190; Back to #{@page.title} index", @page) %>
+</p>

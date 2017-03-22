@@ -1,0 +1,39 @@
+<div class="bodyevents"> 
+
+  <% if @past_events.any? %>
+
+  <% @past_events.each do |event| %>
+
+
+
+  <h2>On <%= event.date_summary %>: <%= event.title %></h2>
+
+  <div class="share"><img src="static/images/share_text.gif" alt="Share" /></div>
+
+  <%= tag(:p) %>
+
+     <%= event.content.truncate_html(100) unless event.content.blank?  %> 
+
+    <% content_tag :span, :class => "more" do -%>
+
+    <%= link_to_event("more", event, :template => 'events') %> <img src="http://cannold.com/images/arrow.gif" width="13" height="9" alt=" ">
+
+     <% end -%>
+
+  <% end %>
+
+<% end %>
+
+
+
+<!--
+
+<p class="back">
+
+  <%= link_to_page("← Back to #{@page.title} index", @page) %>
+
+</p>
+
+-->
+
+     </div>

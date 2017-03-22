@@ -1,0 +1,125 @@
+<%# Uncomment the next line to inspect attributes of this post %>
+<%#= show_attributes(@post) %>
+
+<h1>
+  <%= link_to_blog_post(@post.title, @post) %> &mdash;
+  <%= @post.publish_on.strftime("%d.%m.%Y") %>      
+</h1>
+<%= @post.content_markup %>
+
+<%# LIST OF COMMENTS %>
+<% if @post.comments.legit.any? %>
+  <div class="comments" id="comments">
+    <h2>Comments</h2>
+    <% @post.comments.legit.each do |comment| %>
+      <div class="cmt" id="cmt<%= comment.id %>">
+        <h4 class="commenter">         
+          <% if comment.author_url.blank? %>
+            <%= h(comment.author_name) %>
+          <% else %>
+            <%= link_to(
+              h(comment.author_name), 
+              h(comment.author_url), 
+              :rel => 'nofollow'
+            ) %> 
+          <% end %>
+          &mdash; <%= comment.created_on.strftime("%d %B at %I:%M%p") %>
+        </h4>
+        
+        <div class="comment">
+          <%= comment.content_markup %>   
+        </div>
+      </div>
+    <% end %>
+  </div>
+<% end %>
+
+
+<%# COMMENT FORM %>
+<% if @post.allow_comments? %>    
+
+  <h2>Leave a Comment</h2>
+  <div id="commentErrors">
+    <%= error_messages_for 'comment' %>
+  </div>
+
+  <div id="commentPreview" style="display:none">
+    <h3>Comment preview</h3>
+    <%#= image_tag('/static/images/comment_preview_spinner.gif') %>
+  </div>
+
+  <% form_for(
+    :comment, 
+    @comment, 
+    :url => @page.url(:action => :comment, :id => @post.slug),
+    :html => { :id => "commentForm", :class => "comments uniForm" }
+  ) do |f| %>
+
+    <fieldset class="inlineLabels">
+      <div class="ctrlHolder">
+        <label for="comment_author_name">Your name:</label>
+        <%= text_field(
+          "comment", 
+          "author_name", 
+          :tabindex => 1
+        ) %>
+      </div>
+    
+      <div class="ctrlHolder">
+        <label for="comment_author_email">Your email address:</label>
+        <%= text_field(
+          "comment", 
+          "author_email", 
+          :tabindex=>2
+        ) %>
+      </div>
+    
+      <div class="ctrlHolder">
+        <label for="comment_author_url">Your website:</label>
+        <%= text_field(
+          "comment", 
+          "author_url", 
+          :tabindex => 3
+        ) %>
+      </div>
+
+      <div class="ctrlHolder">
+        <label for="content_comment">Your comment:</label>
+        <%= text_area( 
+          "comment", 
+          "content", 
+          {:rows => 8, :tabindex => 4}
+        ) %>
+        <p class="formHint">
+          Only the comment field is required.
+          Omitting the ID fields increases your risk of being mistaken 
+          for spam.
+        </p>
+      </div>
+    </fieldset>
+  
+    <div class="buttonHolder">
+      <%= link_to_remote(
+        "Preview",
+        :update => 'commentPreview', 
+        :url => @page.url(:action => :preview_comment, :id => @post.id),
+        :with => "Form.serialize($('commentForm'))",
+        :before => "$('commentPreview').update('<h3>Comment Preview</h3>" +
+          "#{image_tag('/static/images/comment_preview_spinner.gif')}');",
+        :after => "$('commentPreview').show()"
+      ) %>
+      or
+      <%= submit_tag "Post comment" %>
+    </div>
+  
+  <% end %>
+<% else %>
+  <p class="commentInfo">
+    Comments are closed for this post.
+  </p>
+<% end %>
+
+<p class="back">
+  <%= link_to_page("&#x2190; Back to #{@page.title} index", @page) %>
+</p>
+

@@ -1,0 +1,28 @@
+<%# 
+  This should be cleaned up and turned into a helper
+  Must be a way to use render_page_in_hierarchy here
+  
+  It should show:
+  
+  - All siblings of the current page
+  - All children (etc) of the current page
+%>
+
+<% if @page.line.first.children.any? %>
+  <div class="subnav">
+    <h4><%= @page.line.first.title %></h4>
+    <ul>
+      <% @page.line.first.children.each do |page| %>
+        <%= render_page_in_hierarchy(page) { |p| 
+          if p.line.size <= 4
+            if (p == @page) 
+              link_to_page(p.title, p, {}, {:class => "active"})
+            else
+              link_to_page(p.title, p)
+            end
+          end
+        } %>
+      <% end %>
+    </ul>
+  </div>
+<% end %>

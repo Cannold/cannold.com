@@ -1,0 +1,19 @@
+<h1><%= @page.title %></h1>
+<%= @page.content_markup %>
+
+<% @posts.each do |post| %>
+  <div class="post">  
+    <h2>
+      <%= link_to_news_post(post.title, post) -%>&mdash;
+      <%= post.publish_on.strftime("%d.%m.%Y") %>     
+    </h2>
+    
+    <%= post.content_markup %>
+    
+  </div>
+<% end %>
+
+<div class="pagination">
+  <strong>Older posts:</strong><br /> 
+  <%= pagination_list @posts %>
+</div>

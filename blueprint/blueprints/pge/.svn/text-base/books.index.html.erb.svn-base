@@ -1,0 +1,14 @@
+
+
+<div id="leftbooks">
+
+        <div class="bodybooks">
+
+        <%= @page.content_markup %>
+
+         </div>       
+
+    </div>
+
+
+

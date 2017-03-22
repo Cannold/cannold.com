@@ -1,0 +1,9 @@
+<div id="left">
+<% @articles.reverse.each do |article| %>
+  
+  <% next if article.tags.any? %>
+  
+  <%= ingredient 'canpub_summary', nil, :article => article %>
+
+<% end %>
+</div>

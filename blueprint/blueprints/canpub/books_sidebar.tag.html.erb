@@ -1,0 +1,8 @@
+<div id="right">
+  <div class="rightbooks">
+    <h2>Books</h2>
+    <% @results.each do |article| %>
+      <%= ingredient 'book_sidebar', nil, :article => article %>
+    <% end %>
+  </div>
+</div>

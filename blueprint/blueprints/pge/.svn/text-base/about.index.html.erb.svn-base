@@ -1,0 +1,17 @@
+
+
+
+
+<div id="left">
+
+        <div class="bodyabout">
+
+        <%= @page.content_markup %>
+
+         </div>       
+
+    </div>
+
+
+
+<%= site_ingredient 'books_sidebar' %>
