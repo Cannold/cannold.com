@@ -1,0 +1,77 @@
+<%# 
+  Pass an array of images to the ingredient to make it work, eg:
+  site_ingredient 'slideshow', :locals => { :images => @page.assets }.
+  
+  The slideshow works best if you have a defined Asset Type setting for the 
+  size of the images you use.
+%>
+
+<%# Enable slideshow.js via the :head yield: %>
+
+<% content_for :head do %>
+  <%= javascript_include_tag('slideshow') %>    
+  <%= javascript_tag(
+    "Event.observe(window, 'load', function(){" +
+      "IL.Slideshow.rotate(1, 7000, 'activeThumb')})"
+  ) %>
+<% end %>
+
+<%# images = images.select {|i| i.image?} # Double-check they're all images %>
+
+<% if images.any? %>
+
+  <div id="slideshow">
+  
+
+    <%# The navigation %>
+    <% if (images.size > 1) %>
+      <ol>
+        <% images.each_with_index do |a, i| %>
+        
+          <%# The caption (for GLY images only) %>
+          <% if a.caption && !a.caption.blank? %>
+            <% 
+              caption = "<strong>" + a.title + "</strong> "
+              caption << a.caption_markup
+              caption << '&nbsp;'
+              caption << link_to_gallery_image("View image &#x2192;", a) 
+            %>
+          <% end %>
+          
+          <%= content_tag(
+           'li',
+           (i+1).to_s,
+           :SS_large => a.public_filename,
+           :SS_caption => caption,
+           :onclick => "
+              IL.Slideshow.stopRotating();
+              showImage(this, 'activeThumb')
+            ",
+           :id => images.first == a ? 'activeThumb' : nil
+          ) if a.image? %>
+        <% end %>
+      </ol>
+    <% end %>
+
+    <%# The images load into here %>
+    <div class="placeholder">
+      <%= image_tag(
+       images.first.public_filename, 
+       {:id => "SS_placeholder"}
+      ) if images.first && images.first.image? %>
+    </div>
+    
+    <%# Captions (only for GLY image objects) %>
+    <% if images.first.caption && !images.first.caption.blank? %>
+      <p id="SS_caption">
+        <strong><%= images.first.title %></strong>
+        <%= images.first.caption -%>&nbsp;
+        <%= link_to_gallery_image("View image &#x2192;", images.first) %>
+      </p>
+    <% end %>
+
+  </div>
+
+<% else %>
+  <p>There are no images in this slideshow.</p>
+<% end %>

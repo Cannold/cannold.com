@@ -26,6 +26,7 @@ exclude:
   - package.json
   - '*.sh'
   - nginx.d
+  - blueprint
 
 defaults:
   -

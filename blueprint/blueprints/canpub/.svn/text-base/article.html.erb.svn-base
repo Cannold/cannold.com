@@ -1,0 +1,62 @@
+<div id="left">
+  
+<div class="body<%= @article.tags.first.phrase %>">
+  
+  <h2><%= @article.title %></h2>
+    
+ <!-- AddThis Button BEGIN -->
+
+ <div class="addthis_toolbox addthis_default_style">
+
+ <a href="http://www.addthis.com/bookmark.php?v=250&username=xa-4bda5adc6c309d35" class="addthis_button_compact share">Share</a>
+   
+  </div>
+
+<!-- AddThis Button END -->
+  
+  <%= tag(:p) %>
+
+   <%= @article.content_markup %><br />
+  <%= link_to(@article.link, @article.link) unless @article.link.blank? %>
+
+<% citations = @article.citations.select {|c| c.citation_type == "Cited"} %>
+<% publications = @article.citations.select {|c| c.citation_type == "Published"} %>
+  <div class="citation">
+<% if citations.any? %>
+  <h4>Citations</h4>
+    <blockquote>
+  <% citations.each do |cite| %>
+  <%= cite.headline %>, <em><%= cite.publication %></em><br />
+  <%= cite.date.strftime("%d %b %Y") %><br />
+  <%= link_to(cite.link, cite.link) unless cite.link.blank? %><br />
+    <%= cite.comment %>
+  <% end %>
+    </blockquote>
+<% end %>
+  </div>
+  <div class="citation">
+<% if publications.any? %>
+  <h4>Publication History</h4>
+    <blockquote>
+  <% publications.each do |cite| %>
+    <%= cite.headline %>, <em><%= cite.publication %></em><br />
+  <%= cite.date.strftime("%d %b %Y") %><br />
+  <%= link_to(cite.link, cite.link) unless cite.link.blank? %><br />
+    <%= cite.comment %>
+  <% end %>
+    </blockquote>
+<% end %>
+  </div>
+
+  </div>
+  
+  <p class="back">
+   <%= link_to_page("← Back to #{@page.title} index", @page) %>
+  </p>
+  
+</div>
+
+
+<%= site_ingredient 'books_sidebar' %>
+
+

@@ -1,0 +1,12 @@
+<%# Available: 
+  @current_events: an array of current events
+  list_events(@current_events): Marked-up list of current events
+  event.title: Name of event
+  event.date_summary: Method that returns a human-readable date or date range
+  event.content_markup: Content
+  event.start_date: Start date (if you don't want to use the date summary)
+%>
+
+
+<%= list_events(@current_events) %>
+

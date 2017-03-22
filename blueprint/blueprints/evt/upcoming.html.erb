@@ -1,0 +1,20 @@
+<%# Available: 
+  @upcoming_events: an array of coming events
+  list_events(@upcoming_events): Marked-up list of upcoming events
+  event.title: Name of event
+  event.date_summary: Method that returns a human-readable date or date range
+  event.content_markup: Content
+  event.start_date: Start date (if you don't want to use the date summary)
+%>
+
+<% if @upcoming_events.any? %>
+  <h4>Upcoming events:</h4>
+  <ul>
+    <% @upcoming_events.each do |event| %>
+      <li>
+        <%= event.date_summary %><br />
+        <%= link_to_event(event.title, event) %>
+      </li>
+    <% end %>
+  </ul>
+<% end %>

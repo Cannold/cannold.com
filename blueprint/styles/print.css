@@ -1,0 +1,10 @@
+/*-----------------------------------------------------
+              >> Blueprint Print CSS <<
+              
+This is the default Blueprint print stylesheet. You're 
+free to modify it as you wish, or replace it entirely.              
+-----------------------------------------------------*/
+
+#nav, .footer, .masthead {
+  display: none;
+}

@@ -1,0 +1,37 @@
+<%#
+  @phrase -> the text of the tag
+  @results -> an array of objects that have this tag
+%>
+
+<h1>Posts tagged with '<%= @phrase  %>':</h1>
+
+<% @results.each do |post| %>
+  <div class="post">  
+    <h2>
+      <%= link_to_blog_post(post.title, post) -%>&mdash;
+      <%= post.publish_on.strftime("%d.%m.%Y") %>     
+    </h2>
+    
+    <%= truncate(post.content_markup, 200) %>
+
+    
+    <p class="commentInfo">
+      <% if post.allow_comments? %>
+        <% number_of_comments = post.comments.legit.size %>
+        <%= link_to_blog_post(
+          number_of_comments.to_s + 
+          " " + 
+          (number_of_comments == 1 ? "comment" : "comments"),
+          post, 
+          :anchor => 'comments'
+        ) %>
+      <% else %>
+        Sorry, comments are not available on this post.
+      <% end %>
+    </p>
+  </div>
+<% end %>
+
+<p class="back">
+  <%= link_to_page("&#x2190; Back to #{@page.title} index", @page) %>
+</p

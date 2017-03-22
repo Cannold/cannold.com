@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sites/!svn/ver/212/cannold.com/templates/blueprints/blg
+END
+post.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sites/!svn/ver/212/cannold.com/templates/blueprints/blg/post.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sites/!svn/ver/212/cannold.com/templates/blueprints/blg/index.html.erb
+END
+tag.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sites/!svn/ver/212/cannold.com/templates/blueprints/blg/tag.html.erb
+END
+feed.xml.erb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sites/!svn/ver/212/cannold.com/templates/blueprints/blg/feed.xml.erb
+END
+archive.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sites/!svn/ver/212/cannold.com/templates/blueprints/blg/archive.html.erb
+END
+preview_comment.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sites/!svn/ver/212/cannold.com/templates/blueprints/blg/preview_comment.html.erb
+END

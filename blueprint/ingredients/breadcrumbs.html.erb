@@ -1,0 +1,5 @@
+    <%= @page.lineage(" → ") { |page|
+      page == @page ? page.title : link_to_page(page.title, page)
+    } %>
+ 
+

@@ -1,0 +1,1258 @@
+@charset "utf-8";
+
+
+
+html, body, div, span, applet, object, iframe,
+
+h1, h2, h3, h4, h5, h6, pre,
+
+a, abbr, acronym, address, big, cite, code,
+
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+
+small, strike, sub, sup, tt, var,
+
+dl, dt, dd, ol, ul, li,
+
+fieldset, form, label, legend,
+
+table, caption, tbody, tfoot, thead, tr, th, td {
+
+  margin: 0;
+
+  padding: 0;
+
+  border: 0;
+
+  outline: 0;
+
+  font-weight: inherit;
+
+  font-style: inherit;
+
+  font-family: inherit;
+
+  vertical-align: baseline;
+
+}
+
+
+ul, li {
+  
+  margin-left: 30px;
+}
+
+ol, ul, li {
+  
+  font: Arial, Helvetica, sans-serif;
+}
+
+em {
+  font-style : italic;
+}
+
+blockquote p { margin: 1.12em 0 }
+
+
+/* For IE */
+
+img { -ms-interpolation-mode:bicubic; }
+
+
+
+a img {
+
+  border: none;
+
+}
+
+
+
+a, a:link { text-decoration: none; }
+
+a:visited { }
+
+a:hover { text-decoration:underline; }
+
+a:active { }
+
+
+
+
+
+
+
+body  {
+
+    font: 100% Arial, Helvetica, sans-serif;
+
+    background: #ffffff;
+
+    margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+
+    padding: 0;
+
+    text-align: left; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+
+    color: #000000;
+
+}
+
+
+
+#container { 
+
+    width: 100%;  /* this will create a container 100% of the browser width */
+
+    background: #FFFFFF;
+
+    margin: 0; /* the auto margins (in conjunction with a width) center the page */
+
+    text-align: left; /* this overrides the text-align: center on the body element. */
+
+} 
+
+
+.logobanner {
+
+background-color : #3a4f7e;
+
+height : 89px;
+
+width : 100%;
+
+margin-top:5px;
+
+
+}
+
+
+
+.logobanner img{
+
+margin-top:-5px;
+
+}
+
+
+
+.titlebanner {
+
+height : 40px;
+
+width : 100%;
+
+margin-top:10px;
+  
+  font-size:75%;
+  color:#3a4f7e;
+font-variant:small-caps;
+}
+
+
+
+
+/* Tips for sidebar1:
+
+1. Since we are working in relative units, it's best not to use padding on the sidebar. It will be added to the overall width for standards compliant browsers creating an unknown actual width. 
+
+2. Since em units are used for the sidebar value, be aware that its width will vary with different default text sizes.
+
+3. Space between the side of the div and the elements within it can be created by placing a left and right margin on those elements as seen in the ".twoColHybLt #sidebar1 p" rule.
+
+*/
+
+#sidebar1 {
+
+    float: left; 
+
+    width: 140px; /* since this element is floated, a width must be given */
+
+    background: #ffffff; /* the background color will be displayed for the length of the content in the column, but no further */
+
+    padding: 0px 11px 0 0; /* top and bottom padding create visual space within this div  */
+
+    border-right:1px dashed #555;
+  
+  margin-top: 40px;
+
+}
+
+
+
+#sidebar1 img {
+
+   margin-bottom:3px;
+
+}
+
+
+
+#sidebar1 .nav ul li {
+
+height : 26px;
+
+margin-top:11px;
+
+line-height:26px;
+
+vertical-align:middle;
+  
+  font-size:105%;
+
+list-style:none;
+  
+  margin-left: -30px;
+
+}
+
+
+/* HOME */
+
+.nav_home a {
+    background-image : url(../images/icon_home.gif);
+    background-position : left;
+    background-repeat : no-repeat; 
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px;
+}
+
+.nav_home a:visited {
+    background-image : url(../images/icon_home.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_home a:hover { 
+    background-image : url(../images/icon_home_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat; 
+}
+.nav_home a:active {
+    background-image : url(../images/icon_home_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat; 
+}
+
+/* ABOUT */
+
+.nav_about a {
+    background-image : url(../images/icon_about.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px; 
+
+}
+
+.nav_about a:visited {
+    background-image : url(../images/icon_about.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_about a:hover {
+    background-image : url(../images/icon_about_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+.nav_about a:active {
+    background-image : url(../images/icon_about_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+/* SERVICES*/
+
+.nav_services a {
+    background-image : url(../images/icon_services.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px;
+}
+
+.nav_services a:visited {
+    background-image : url(../images/icon_services.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_services a:hover {
+    background-image : url(../images/icon_services_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+.nav_services a:active {
+    background-image : url(../images/icon_services_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+/* EVENTS */
+
+.nav_events a {
+    background-image : url(../images/icon_events.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px;
+}
+
+.nav_events a:visited {
+    background-image : url(../images/icon_events.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_events a:hover {
+    background-image : url(../images/icon_events_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+.nav_events a:active {
+    background-image : url(../images/icon_events_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+/* BOOKS */
+
+.nav_books a {
+    background-image : url(../images/icon_books.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px;
+}
+
+.nav_books a:visited {
+    background-image : url(../images/icon_books.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_books a:hover {
+    background-image : url(../images/icon_books_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+.nav_books a:active {
+    background-image : url(../images/icon_books_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+/* WRITINGS */
+
+.nav_writings a {
+    background-image : url(../images/icon_writings.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px;
+}
+
+.nav_writings a:visited {
+    background-image : url(../images/icon_writings.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_writings a:hover {
+    background-image : url(../images/icon_writings_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+.nav_writings a:active {
+    background-image : url(../images/icon_writings_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+/* RESEARCH */
+
+.nav_research a {
+    background-image : url(../images/icon_research.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px;
+}
+
+.nav_research a:visited {
+    background-image : url(../images/icon_research.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_research a:hover {
+    background-image : url(../images/icon_research_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+.nav_research a:active {
+    background-image : url(../images/icon_research_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+/* MEDIA */
+
+.nav_media a {
+    background-image : url(../images/icon_media.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px;
+}
+
+.nav_media a:visited {
+    background-image : url(../images/icon_media.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_media a:hover {
+    background-image : url(../images/icon_media_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+.nav_media a:active {
+    background-image : url(../images/icon_media_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+/* BAND */
+
+.nav_band a {
+    background-image : url(../images/icon_band.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+    text-decoration:none;
+    color:#222222;
+    width : 95px;
+    display:block;
+  padding-left:40px;
+}
+
+.nav_band a:visited {
+    background-image : url(../images/icon_band.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+.nav_band a:hover {
+    background-image : url(../images/icon_band_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+.nav_band a:active {
+    background-image : url(../images/icon_band_bold.gif);
+    background-position : left;
+    background-repeat : no-repeat;
+}
+
+#sidebar1 h3, #sidebar1 p {
+
+/* the left and right margin should be given to every element that will be placed in the side columns */
+
+
+
+}
+
+
+
+/* Tips for mainContent:
+
+1. The space between the mainContent and sidebar1 is created with the left margin on the mainContent div.  No matter how much content the sidebar1 div contains, the column space will remain. You can remove this left margin if you want the #mainContent div's text to fill the #sidebar1 space when the content in #sidebar1 ends.
+
+2. Be aware it is possible to cause float drop (the dropping of the non-floated mainContent area below the sidebar) if an element wider than it can contain is placed within the mainContent div. WIth a hybrid layout (percentage-based overall width with em-based sidebar), it may not be possible to calculate the exact width available. If the user's text size is larger than average, you will have a wider sidebar div and thus, less room in the mainContent div. You should be aware of this limitation - especially if the client is adding content with Contribute.
+
+3. In the Internet Explorer Conditional Comment below, the zoom property is used to give the mainContent "hasLayout." This may help avoid several IE-specific bugs.
+
+*/
+
+#mainContent { 
+
+    margin: 0 0px 0 155px; /* the right margin can be given in percentages or pixels. It creates the space down the right side of the page. */
+
+} 
+
+
+
+h2 {
+
+    font-size : 100%;    
+
+}
+
+a h2, a:visited h2, a:hover h2, a:active h2 {
+  color: #000;
+}
+
+h2 a, h2 a:visited, h2 a:hover, h2 a:active {
+  color: #000;
+}
+
+h4 {
+  font-weight:bold;
+}
+
+p {
+
+    font-size : 75%;    
+
+    margin-bottom : 1em;
+
+}
+
+ul 
+{
+
+    font-size : 75%;    
+
+
+}
+
+#lefthome { 
+
+float: left; 
+
+    width: 35%; /* since this element is floated, a width must be given */
+
+    background: #ffffff; /* the background color will be displayed for the length of the content in the column, but no further */
+
+    padding: 0px 10px 0 10px; /* top and bottom padding create visual space within this div  */
+
+    border-right:1px dashed #555;
+
+    border-left:1px dashed #555;
+
+    margin-left:-4px;
+  margin-top:-8px;
+
+} 
+
+
+
+#left { 
+
+float: left; 
+
+    width: 70%; /* since this element is floated, a width must be given */
+
+    background: #ffffff; /* the background color will be displayed for the length of the content in the column, but no further */
+
+    padding: 0px 10px 0 10px; /* top and bottom padding create visual space within this div  */
+
+    border-right:1px dashed #555;
+
+    border-left:1px dashed #555;
+
+    margin-left:-4px;
+    margin-top:-8px;
+
+min-height : 350px;
+
+} 
+
+
+
+#leftbooks { 
+
+float: left; 
+
+    width: 90%; /* since this element is floated, a width must be given */
+
+    background: #ffffff; /* the background color will be displayed for the length of the content in the column, but no further */
+
+    padding: 0px 10px 0 10px; /* top and bottom padding create visual space within this div  */
+
+    border-left:1px dashed #555;
+
+    margin-left:-4px;
+    margin-top:-8px;
+
+min-height : 350px;
+
+} 
+
+/* Recent (centre column) */
+
+#middlehome { 
+
+float: left; 
+
+    width: 35%; /* since this element is floated, a width must be given */
+
+    background: #ffffff; /* the background color will be displayed for the length of the content in the column, but no further */
+
+    padding: 0px 10px 0 10px; /* top and bottom padding create visual space within this div  */
+
+    border-right:1px dashed #555;
+
+    min-height : 500px;
+} 
+
+
+#middlehome h2 { 
+
+  padding-top:5px;
+  padding-bottom:10px;
+  padding-left : 31px;
+  font-size : 80%;    
+  font-weight : normal;
+  color: #444444;
+}
+
+.date {
+  font-weight:bold;
+}
+
+
+.more-share {
+  font-size:80%;
+  margin-top:-20px;
+  margin-left:31px
+}
+
+.moreinline {
+  margin-right:3em
+}
+
+.at300bs.at15t_compact {
+  float:right;
+  margin-left:4px;
+}
+
+.share {
+
+    color : #CC3300;
+  font-size: 80%;
+}
+
+a.share {
+
+    color : #CC3300;
+    text-decoration : none;
+}
+
+a:hover.share
+
+{
+    color : #CC3300;
+    text-decoration : underline;
+}
+
+#right { 
+
+float : left;
+
+width:20%;
+
+margin-left : 10px;  
+  margin-top:-8px;
+
+} 
+
+
+
+.rightbooks {
+
+    background-image : url(../images/icon_books_title.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+
+.rightbooks p {
+
+margin-left:-31px;
+
+margin-top: 15px;
+
+}
+
+
+
+p.bookread
+
+{
+
+    color : #CC3300;
+
+    font : normal 100% Arial, Helvetica, sans-serif;
+
+    margin-left : 60px;
+
+}
+
+
+
+p.bookorder
+
+{
+
+    color : #CC3300;
+
+    font : normal 100% Arial, Helvetica, sans-serif;
+
+    margin-top : -12px;
+
+}
+
+
+
+.bookimg
+
+{
+
+    padding-right : 5px;
+
+    float : left;
+
+}
+
+
+
+.more {
+
+  margin-top: 5px;
+  color : #CC3300;
+  margin-bottom: 10px;
+
+}
+
+
+/* BODY divs */
+
+
+
+.bodyhome {
+
+    background-image : url(../images/icon_home_title.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+.bodyhome h2 {
+
+padding-left: 31px;
+}
+
+.bodyhome p {
+
+margin-top: 12px;
+}
+
+.bodyhome ul {
+
+margin-left: -10px;
+}
+
+.indexsummary p {
+  margin-top:.2em;
+}
+
+.bodyabout {
+
+    background-image : url(../images/icon_about_title.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+.bodyservices {
+
+    background-image : url(../images/icon_services_title.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+
+.bodyevents {
+
+    background-image : url(../images/icon_events.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+
+.bodybooks {
+
+    background-image : url(../images/icon_books.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+
+.bodywritings {
+
+    background-image : url(../images/icon_writings.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+
+.bodyresearch {
+
+    background-image : url(../images/icon_research.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+
+.bodyin-the-media {
+
+    background-image : url(../images/icon_media_body.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+
+.bodyband {
+
+    background-image : url(../images/icon_band_title.gif);
+
+    background-position : top left;
+
+    background-repeat : no-repeat;
+
+    min-height : 26px;
+
+    display : block;
+
+    padding-left : 31px;
+
+    padding-bottom : 10px;
+
+    margin : 10px 0 0px 0;
+
+}
+
+
+
+/* end BODY divs */
+
+
+
+.moreinline {
+
+  padding-top: -1em;
+
+  display : inline;
+
+}
+
+.moreinline a {
+
+    color : #CC3300;
+
+    text-decoration : none;
+
+}
+
+.moreinline a:visited
+
+{
+
+    color : #CC3300;
+
+    text-decoration : none;
+
+}
+
+.moreinline a:hover
+
+{
+
+    color : #CC3300;
+
+    text-decoration : underline;
+
+}
+
+.moreinline a:active
+
+{
+
+    color : #CC3300;
+
+    text-decoration : underline;
+
+}
+
+
+
+
+.more-share a:link {
+
+    color : #CC3300;
+
+    text-decoration : none;
+
+}
+
+
+
+.more-share a:visited {
+
+     color : #CC3300;
+
+     text-decoration : none;
+
+ }
+
+
+
+.more-share a:hover
+
+{
+
+    color : #CC3300;
+
+    text-decoration : underline;
+
+}
+
+
+
+.more-share a:active
+
+ {
+
+     color : #CC3300;
+
+     text-decoration : underline;
+
+ }
+
+
+/* MIDDLE listing divs */
+
+#middlehome a h2 {
+    color: #444;
+    background-position : top left;
+    background-repeat : no-repeat;
+}
+
+#middlehome a:hover h2 {
+  text-decoration:underline;
+}
+
+.middleevents, .middlebooks, .middlewritings, .middleresearch, .middlein-the-media {
+    min-height : 26px;
+    display : block;
+    padding-bottom : 10px;
+    margin : 10px 0 0px 0;
+}
+
+
+.middleevents a h2 {
+    background-image : url(../images/icon_events.gif);
+}
+
+.middleevents a:hover h2, .middleevents a:active h2 {
+    background-image : url(../images/icon_events_bold.gif);
+}
+
+.middlebooks a h2 {
+    background-image : url(../images/icon_books.gif);
+}
+
+.middleboks a:hover h2, .middleevents a:active h2 {
+    background-image : url(../images/icon_books_bold.gif);
+}
+
+.middlewritings a h2 {
+    background-image : url(../images/icon_writings.gif);
+}
+
+.middlewritings a:hover h2, .middlewritings a:active h2 {
+    background-image : url(../images/icon_writings_bold.gif);
+}
+
+.middleresearch a h2 {
+    background-image : url(../images/icon_research.gif);
+}
+
+.middleresearch a:hover h2, .middleresearch a:active h2 {
+    background-image : url(../images/icon_research_bold.gif);
+}
+
+.middlein-the-media a h2 {
+    background-image : url(../images/icon_media.gif);
+}
+
+.middlein-the-media a:hover h2, .middlemedia a:active h2 {
+    background-image : url(../images/icon_media_bold.gif);
+}
+
+/* end MIDDLE listing divs */
+
+
+
+
+
+
+
+
+/* Miscellaneous classes for reuse */
+
+.fltrt { /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+
+    float: right;
+
+    margin-left: 8px;
+
+}
+
+.fltlft { /* this class can be used to float an element left in your page */
+
+    float: left;
+
+    margin-right: 8px;
+
+}
+
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+
+    clear:both;
+
+    height:0;
+
+    font-size: 1px;
+
+    line-height: 0px;
+
+}
+
+
+
+#footer {
+
+    background-color : #000;
+
+height : 15px;
+
+width : 100%;
+
+display: block;
+
+}
+
+
+
+.footertext {
+
+    background-color : #b3b3b3;
+
+height : 35px;
+
+width : 100%;
+
+text-align:center;
+
+font-size : 75%;
+
+font-weight : bold;
+
+line-height:35px;
+
+vertical-align:middle;
+
+display: block;
+
+}
+
+
+
+.footertext a:link {
+
+color:#000;
+
+text-decoration : none;
+
+}
+
+.footertext a:visited {
+
+color:#000;
+
+text-decoration : none;
+
+}
+
+.footertext a:hover {
+
+color:#000;
+
+text-decoration : none;
+
+}
+
+.footertext a:active {
+
+color:#000;
+
+text-decoration : none;
+
+}
+
+.footnoteheader {
+  font-weight:bold;
+  color: #555555;
+  font-size:80%;
+}
+
+.citation
+{
+  color: #555555;
+  font-size:80%;
+}

@@ -1,0 +1,77 @@
+<%#
+
+  def formatted_event_date(start, end, :formats => {start, range_marker, end})
+
+    if start && :formats[start]
+
+      start.strftime(:formats[start])
+
+    else
+
+      start.strftime("%d.%m.%y")
+
+    end
+
+  end  
+
+%>
+
+
+<div id="left">
+<h1><%= @page.title %> Here</h1>
+
+<%= @page.content_markup %>
+
+
+
+<% if @current_events.any? %>
+
+  <% @current_events.each do |event| %>
+
+    <div class="body bodyevents">  
+
+      <h2>
+
+        <%= event.date_summary %><br />
+
+        <%= link_to_event(event.title, event) %>
+
+      </h2>
+
+      <%= event.content_markup %>
+
+    </div>
+
+  <% end %>
+
+<% end %>
+
+
+
+<% if @upcoming_events.any? %>
+
+  <% @upcoming_events.each do |event| %>
+
+    <div class="body bodyevents">  
+
+      <h2>
+
+        <%= event.date_summary %><br />
+
+        <%= link_to_event(event.title, event) %>
+
+      </h2>
+
+      <%= event.content_markup %>
+      
+    </div>
+
+  <% end %>
+
+<% end %>
+
+
+<%= page_ingredient 'events', 'archive' %> 
+
+</div>
+

@@ -1,0 +1,18 @@
+<% @articles.first(4).each do |article| %>
+
+<div class="middle<%= article.tags.first.phrase %>">
+ <%= link_to("<h2><span class=\"date\">#{ article.publish_on.strftime("%d %b %Y") }:</span> #{article.title}</h2>", @page.url(:action => 'article', :id => article.slug)) %> 
+  <%= tag(:p) %>
+  <div class="more-share">
+    <% content_tag :span, :class => "moreinline" do -%>
+    <%= link_to("more", @page.url(:action => 'article', :id => article.slug)) %> <img src="http://cannold.com/images/arrow.gif" width="13" height="9" alt=" ">
+    <% end -%>
+<!-- AddThis Button BEGIN -->
+<span class="addthis_toolbox addthis_default_style">
+  <a href="http://www.addthis.com/bookmark.php?v=250&username=xa-4bda5adc6c309d35" class="addthis_button_compact " addthis:title="<%= article.title %>" addthis:url="<%= absolute_path @page.url(:action=>:@page, :id=>@page.slug)%>">share this</a>
+</span>
+<!-- AddThis Button END -->
+  </div>
+</div>
+
+<% end %>

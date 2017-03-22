@@ -1,0 +1,49 @@
+<h1><%= @page.title %></h1>
+<%= @page.content_markup %>
+
+<% @posts.each do |post| %>
+  <div class="post">  
+    <h2>
+      <%= link_to_blog_post(post.title, post) -%>&mdash;
+      <%= post.publish_on.strftime("%d.%m.%Y") %>     
+    </h2>
+    
+    <%= post.content_markup %>
+    
+    <%# 
+      Alteratively, you might like to show just an excerpt with a link to the
+      full post, in which case uncommenting the following will give you 150
+      characters, followed by an → linking to the post .
+    %>
+    
+    <%#= post.content_markup.truncate_html(
+      150, 
+      link_to_blog_post("&nbsp;&#x2192;", post)
+    ) %>
+    
+    <p class="commentInfo">
+      <% if post.allow_comments? %>
+        <% number_of_comments = post.comments.legit.size %>
+        <%= link_to_blog_post(
+          number_of_comments.to_s + 
+          " " + 
+          (number_of_comments == 1 ? "comment" : "comments"),
+          post, 
+          :anchor => 'comments'
+        ) %>
+      <% else %>
+        Comments are closed for this post.
+      <% end %>
+    </p>
+  </div>
+<% end %>
+
+<div class="pagination">
+  <strong>Older posts:</strong><br /> 
+  <%= pagination_list @posts %>
+</div>
+
+
+<% content_for :sidebar do %>
+  <!-- Tags -->
+<% end %>

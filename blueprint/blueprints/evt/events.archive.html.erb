@@ -1,0 +1,40 @@
+<div id="left">
+<% if @past_events.any? %>
+
+  <% @past_events.reverse.each do |event| %>
+
+<div class="body bodyevents indexsummary">
+
+  <h2><%= event.date_summary( lambda {|d| d.strftime("%d %b %Y") } ) %>: <%= event.title %></h2>
+
+ <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox"></div>
+  <%= tag(:p) %>
+
+     <%= event.content.truncate_html(100) unless event.content.blank? %>
+
+    <% content_tag :span, :class => "moreinline" do -%>
+
+    <%= link_to_event("more", event, :template => 'events') %> <img src="/static/images/arrow.gif" width="13" height="9" alt=" ">
+
+     <% end -%>
+
+   </div>
+
+  <% end %>
+
+<% end %>
+
+
+
+
+<p class="back">
+
+  <%= link_to_page("← Back to #{@page.title} index", @page) %>
+
+</p>
+
+</div>
+
+    
+

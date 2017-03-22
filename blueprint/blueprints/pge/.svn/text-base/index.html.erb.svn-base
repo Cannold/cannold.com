@@ -1,0 +1,41 @@
+<%# Available:
+
+  
+
+  @page.title: Title of Page
+
+  @page.content_markup: Marked up text
+
+  @page.settings['Setting Name']: Any page setting
+
+  @page.assets: Array of uploaded assets for this page
+
+%>
+
+<div id="lefthome">
+
+        <div class="bodyhome">
+
+        <%= @page.content_markup %>
+
+         </div>       
+
+    </div>
+
+<div id="middlehome">
+
+  <%= page_ingredient 'events', 'index', :template => 'home', :limit => 4 %>
+  <% event_count = page_ingredient('events', 'index', :template => 'home_count').to_i %>
+  <% article_limit = event_count < 4 ? (8 - event_count) : 4 %>
+  <%= page_ingredient 'articles', 'index', :template => 'home', :limit => article_limit %>
+  
+</div>
+
+    <%= site_ingredient 'books_sidebar' %>
+
+
+
+
+
+
+
