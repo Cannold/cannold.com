@@ -1270,6 +1270,7 @@ var SEMICOLON = SEMICOLON || {};
 		},
 
 		onePageScroll: function(){
+
 			if( $onePageMenuEl.length > 0 ){
 				var onePageSpeed = $onePageMenuEl.attr('data-speed'),
 					onePageOffset = $onePageMenuEl.attr('data-offset'),
@@ -1284,6 +1285,8 @@ var SEMICOLON = SEMICOLON || {};
 						divScrollSpeed = element.attr('data-speed'),
 						divScrollOffset = element.attr('data-offset'),
 						divScrollEasing = element.attr('data-easing');
+
+				  divScrollToAnchor = divScrollToAnchor.replace(/^\//, '');
 
 					if( $( divScrollToAnchor ).length > 0 ) {
 

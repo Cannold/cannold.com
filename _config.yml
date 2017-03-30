@@ -39,10 +39,12 @@ defaults:
     scope:
       path: ""
       type: "posts"
-#      type: "mds-updates"
     values:
-      layout: "announcement"
-      permalink: "/mds/announcements/:year-:month-:day-:title/"
+      layout: "default"
+#      type: "mds-updates"
+#    values:
+#      layout: "announcement"
+#      permalink: "/mds/announcements/:year-:month-:day-:title/"
 #  -
 #    scope:
 #      path: ""
