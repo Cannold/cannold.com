@@ -10,10 +10,6 @@ author:
   name:              'Strategic Data'
   email:             'support@strategicdata.com.au'
 
-#collections:
-#  mds-updates:
-#    permalink: "mds/mds-updates"
-
 exclude:
   - node_modules
   - vendor
@@ -41,13 +37,4 @@ defaults:
       type: "posts"
     values:
       layout: "default"
-#      type: "mds-updates"
-#    values:
-#      layout: "announcement"
-#      permalink: "/mds/announcements/:year-:month-:day-:title/"
-#  -
-#    scope:
-#      path: ""
-#      type: "mds-updates"
-#    values:
-#      layout: "mds-updates"
+      permalink: "/blog/:year-:month-:day-:title/"
