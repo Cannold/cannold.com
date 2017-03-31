@@ -46,8 +46,11 @@
 	</div>
 		<!-- Header
 		============================================= -->
-		<header id="header" class="full-header transparent-header static-sticky" data-sticky-offset="full" data-sticky-offset-negative="75">
-
+    if homepage
+		<!-- header id="header" class="full-header transparent-header static-sticky" data-sticky-offset="full" data-sticky-offset-negative="75" -->
+    else
+		<header id="header" class="full-header transparent-header">
+		end
 			<div id="header-wrap">
 
 				<div class="container clearfix">
@@ -57,7 +60,7 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-							<a href="index.html" class="standard-logo" data-dark-logo="banner"><h1 class="uppercase t700" style="font-size: 26px; letter-spacing: 5px; word-spacing: 2px;">Dr Leslie Cannold</h1></a>
+							<a href="index.html" class="standard-logo" data-dark-logo="banner"><h1 class="uppercase t700" style="font-size: 26px; letter-spacing: 5px; word-spacing: 2px; alt= Canvas Logo">Dr Leslie Cannold</h1></a>
 					<!--	<img src='http://cannold.com/static/images/cannold-banner.jpg' alt="Canvas Logo" -->
 					</div><!-- #logo end -->
 
@@ -70,7 +73,7 @@
 							<li><a href="/#section-author" data-href="#section-author" data-offset="60"><div>Author</div></a></li>
 							<li><a href="/#section-speaker" data-href="#section-speaker" data-offset="60"><div>Speaker</div></a></li>
 							<li><a href="/#section-topics" data-href="#section-topics"><div>Topics</div></a></li>
-							<li><a href="/#section-blog" data-href="#section-blog"><div>Blog</div></a></li>
+							<li><a href="/blog/"><div>Blog</div></a></li>
 							<li><a href="/#section-contact" data-href="#section-contact"><div>Contact</div></a></li>
 							<li><a href="/showreel/"><div>Showreel</div></a></li>
 						</ul>
