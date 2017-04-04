@@ -1,16 +1,53 @@
 ---
 ---
+<!-- Page Title ============================================= -->
+<section id="page-title">
 
-{% for post in site.posts %}
-  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
-		<div class="article-head">
-			<h2 class="title"><a href="{{ post.url }}" >{{ post.title }}</a></h2>
-			<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-		</div><!--/.article-head-->
-		<div class="article-content">
-		{{ post.long_description }}
-		<a href="{{ post.url }}">Read more</a>
-		</div><!--/.article-content-->
-	</article>
+ <div class="container clearfix">
+	<h1>Blog</h1>
+	 <span>Our Latest News</span>
+		<ol class="breadcrumb">
+		 <li><a href="#">Home</a></li>
+		 <li class="active">Blog</li>
+	  </ol>
+ </div>
+
+</section><!-- #page-title end -->
+
+<!-- Content ============================================= -->
+<section id="content">
+
+ <div class="content-wrap">
+
+  <div class="container clearfix">
+<!-- Posts ============================================= -->
+	 <div id="posts">
+
+
+    {% for post in site.posts %}
+
+    <div class="entry clearfix">
+			<div class="entry-title">
+				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			</div>
+			<ul class="entry-meta clearfix">
+			<li><i class="icon-calendar3"></i>{{ post.date | date: "%b %d, %Y" }}</li>
+			<li><a href="#"><i class="icon-user"></i>admin</a></li>
+			<li><i class="icon-folder-open"></i> <a href="#">General</a>, <a href="#">Media</a></li>
+			<li><a href="blog-single.php#comments"><i class="icon-comments"></i> 13 Comments</a></li>
+			<li><a href="#"><i class="icon-camera-retro"></i></a></li>
+		</ul>
+
+	  <div class="entry-content">
+		{{ post.content }}
+		<a href="{{ post.url }}" class="more-link">Read more</a>
+	  </div><!--/.entry-content-->
 	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
+   </div>
+
 {% endfor %}
+             </div>
+            </div>
+					</div><!-- #posts end -->
+     </section>
+<!--content end-->
