@@ -131,7 +131,10 @@ excerpt: ''
 published: 2014-03-15
 tags: ~
 title: 'Opting-Out? Off-Ramping? Why women are really leaving paid work '
---- "Words like \"desire\" and \"choice\" might be poor ways to describe circumscribed
+
+---
+
+"Words like \"desire\" and \"choice\" might be poor ways to describe circumscribed
   career moves that mothers make when trying to factor in childcare, writes Leslie
   Cannold.\r\n\r\nWith a steady diet of redundancies in the news, and economists beginning
   to talk of jobless recoveries, and even recession, it may be time to consider the

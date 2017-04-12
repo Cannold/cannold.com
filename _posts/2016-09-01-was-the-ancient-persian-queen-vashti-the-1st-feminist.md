@@ -18,11 +18,11 @@ _blueprint:
   title: Was the Ancient Persian Queen Vashti the 1st Feminist?
   updated_on: 2016-09-01 16:04:21
 assets: ~
-excerpt: ''
 published: 2016-09-01
 tags: ~
 title: Was the Ancient Persian Queen Vashti the 1st Feminist?
---- 'Join Leslie and a range of Jewish writers and feminist academics interviewed
-  by the wonderful Hannah Reich on what Queen Vashti''s story reveals about how women
-  are written in and out of history and how we we can make best use of the power and
-  choices we have. '
+---
+Join Leslie and a range of Jewish writers and feminist academics interviewed
+by the wonderful Hannah Reich on what Queen Vashti''s story reveals about how women
+are written in and out of history and how we we can make best use of the power and
+choices we have.
