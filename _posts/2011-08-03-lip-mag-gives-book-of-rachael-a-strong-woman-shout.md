@@ -1,0 +1,180 @@
+---
+_blueprint:
+  content: "Most readers could name a book that changed their life. For many women,
+    it will be a book that got them thinking about the kind of woman they wanted to
+    be, and they probably read it during a time of major change in their life. These
+    are the books that are more influence than entertainment.\r\n\r\nTwenty years
+    ago (quelle horreur! I cannot be that old now!), my eyes were opened to the possibilities
+    for women by Margaret Atwoodâ\x80\x99s The Edible Woman and Bharati Mukherjeeâ\x80\x99s
+    Wife. I would never have found these books on my own, in the only chain bookshop
+    in a country town. It was because they were on the HSC reading list that I had
+    the chance to read them.\r\n\r\nThese were not so much feminist literature as
+    pre-feminist, and their stories resonated with young women who were still working
+    out what they wanted from life. The female protagonists struggled to break free
+    of a rigid role that didnâ\x80\x99t suit them, but hadnâ\x80\x99t yet found their
+    own way.\r\nAcknowledging that the status quo needed to change was a big step
+    in itself.\r\n\r\nTwenty years later, I wonder whatâ\x80\x99s out there to inspire
+    young women and tell the stories in their hearts?\r\n\r\nThe bestseller lists
+    did not inspire me. Hermione Granger is a smart sidekick, but Harry Potter is
+    the hero. Bella from the Twilight series is an banal emo whose biggest decision
+    is whether to shag a vampire or a werewolf. The female protagonist in Elizabeth
+    Gilbertâ\x80\x99s Eat, Pray, Love, is preoccupied with the kind of globe-trotting
+    navel-gazing that only the extremely privileged can afford. Stieg Larssonâ\x80\x99s
+    Lisbeth Salander in The Girl With the Dragon Tattoo, a grown-up and modern Pippi
+    Longstocking with a healthy dose of kick-arse, is a rare exception, but is also
+    painted as a damaged and damaging woman.\r\n\r\nI found hope among Australian
+    writers. In 1997, Australian Nikki Gemmellâ\x80\x99s Shiver told the story of
+    Fin, a woman who ventures into the menâ\x80\x99s domain of Antarctica. While not
+    overtly exploring what it is to be a woman, Fin does challenge taboos.\r\n\r\nAlso
+    published in 1997 is Plains of Promise, the first novel by Indigenous Australian
+    Alexis Wright. Plains of Promise was shortlisted for the Commonwealth Writerâ\x80\x99s
+    Prize, The Age Book of the Year, and the NSW Premierâ\x80\x99s Awards. Wrightâ\x80\x99s
+    novel is an interwoven tale of two women, crossing time and culture, and a story
+    of a young woman trying to find her place.\r\n\r\nJane Caroâ\x80\x99s Just A Girl,
+    published in May 2011, is a fictionalised account of the rise of Elizabeth I from
+    illegitimate girl to Queen of England. And Leslie Cannoldâ\x80\x99s [The Book
+    of Rachael](http://cannold.com/articles/article/the-book-of-rachael/), also published
+    in 2011, imagines the story of Jesusâ\x80\x99 sister who is in love with Judas.
+    Both novels deal with betrayal, the role of women, and power. The historical context
+    provides a palatable escape from reality, and a less confronting model within
+    which to explore the interaction of power and gender.\r\n\r\nEven our most traditional
+    non-fiction, craft books, are getting a modern womanâ\x80\x99s make-over. Sew
+    La Tea Do and its sequels, by Melbourne mother and maker Pip Lincolne, offers
+    instruction for women with little time to spare and no interest in store-bought
+    style perfection. Similarly, mixtapezine was an independent craft and pop culture
+    zine running from 2007 until 2010. Each issue was a mix of craft tutorials, recipes,
+    eco-improvement, and profiles of non-famous women who like to make things. But
+    unlike glossy home and cooking magazines, the style was very much for women who
+    are richer in ethics and optimism than in disposable cash or spare time. A wealth
+    of independent publications are emerging that share the philosophy that creating,
+    and seeking to improve our world and our selves, are worthwhile pursuits.\r\n\r\nI
+    wonâ\x80\x99t waste energy lamenting that there are not more strong women protagonists
+    in bestselling novels. Bestsellers are merely a literary reflection of mainstream
+    culture. Contemporary non-mainstream fiction is where youâ\x80\x99ll find the
+    stories that explore where our culture could be headed, for better or worse. There
+    are some fantastic females in this category, which is why I keep coming back for
+    more.\r\n\r\nPosted in Books | Tagged australian authors, female portrayals"
+  content_markup: "<p>Most readers could name a book that changed their life. For
+    many women, it will be a book that got them thinking about the kind of woman they
+    wanted to be, and they probably read it during a time of major change in their
+    life. These are the books that are more influence than entertainment.</p>\n\n<p>Twenty
+    years ago (quelle horreur! I cannot be that old now!), my eyes were opened to
+    the possibilities for women by Margaret Atwoodâ\x80\x99s The Edible Woman and
+    Bharati Mukherjeeâ\x80\x99s Wife. I would never have found these books on my own,
+    in the only chain bookshop in a country town. It was because they were on the
+    HSC reading list that I had the chance to read them.</p>\n\n<p>These were not
+    so much feminist literature as pre-feminist, and their stories resonated with
+    young women who were still working out what they wanted from life. The female
+    protagonists struggled to break free of a rigid role that didnâ\x80\x99t suit
+    them, but hadnâ\x80\x99t yet found their own way.\nAcknowledging that the status
+    quo needed to change was a big step in itself.</p>\n\n<p>Twenty years later, I
+    wonder whatâ\x80\x99s out there to inspire young women and tell the stories in
+    their hearts?</p>\n\n<p>The bestseller lists did not inspire me. Hermione Granger
+    is a smart sidekick, but Harry Potter is the hero. Bella from the Twilight series
+    is an banal emo whose biggest decision is whether to shag a vampire or a werewolf.
+    The female protagonist in Elizabeth Gilbertâ\x80\x99s Eat, Pray, Love, is preoccupied
+    with the kind of globe-trotting navel-gazing that only the extremely privileged
+    can afford. Stieg Larssonâ\x80\x99s Lisbeth Salander in The Girl With the Dragon
+    Tattoo, a grown-up and modern Pippi Longstocking with a healthy dose of kick-arse,
+    is a rare exception, but is also painted as a damaged and damaging woman.</p>\n\n<p>I
+    found hope among Australian writers. In 1997, Australian Nikki Gemmellâ\x80\x99s
+    Shiver told the story of Fin, a woman who ventures into the menâ\x80\x99s domain
+    of Antarctica. While not overtly exploring what it is to be a woman, Fin does
+    challenge taboos.</p>\n\n<p>Also published in 1997 is Plains of Promise, the first
+    novel by Indigenous Australian Alexis Wright. Plains of Promise was shortlisted
+    for the Commonwealth Writerâ\x80\x99s Prize, The Age Book of the Year, and the
+    NSW Premierâ\x80\x99s Awards. Wrightâ\x80\x99s novel is an interwoven tale of
+    two women, crossing time and culture, and a story of a young woman trying to find
+    her place.</p>\n\n<p>Jane Caroâ\x80\x99s Just A Girl, published in May 2011, is
+    a fictionalised account of the rise of Elizabeth I from illegitimate girl to Queen
+    of England. And Leslie Cannoldâ\x80\x99s <a href=\"http://cannold.com/articles/article/the-book-of-rachael/\">The
+    Book of Rachael</a>, also published in 2011, imagines the story of Jesusâ\x80\x99
+    sister who is in love with Judas. Both novels deal with betrayal, the role of
+    women, and power. The historical context provides a palatable escape from reality,
+    and a less confronting model within which to explore the interaction of power
+    and gender.</p>\n\n<p>Even our most traditional non-fiction, craft books, are
+    getting a modern womanâ\x80\x99s make-over. Sew La Tea Do and its sequels, by
+    Melbourne mother and maker Pip Lincolne, offers instruction for women with little
+    time to spare and no interest in store-bought style perfection. Similarly, mixtapezine
+    was an independent craft and pop culture zine running from 2007 until 2010. Each
+    issue was a mix of craft tutorials, recipes, eco-improvement, and profiles of
+    non-famous women who like to make things. But unlike glossy home and cooking magazines,
+    the style was very much for women who are richer in ethics and optimism than in
+    disposable cash or spare time. A wealth of independent publications are emerging
+    that share the philosophy that creating, and seeking to improve our world and
+    our selves, are worthwhile pursuits.</p>\n\n<p>I wonâ\x80\x99t waste energy lamenting
+    that there are not more strong women protagonists in bestselling novels. Bestsellers
+    are merely a literary reflection of mainstream culture. Contemporary non-mainstream
+    fiction is where youâ\x80\x99ll find the stories that explore where our culture
+    could be headed, for better or worse. There are some fantastic females in this
+    category, which is why I keep coming back for more.</p>\n\n<p>Posted in Books
+    | Tagged australian authors, female portrayals</p>\n"
+  created_on: 2011-08-03 12:07:29
+  excerpt: ''
+  excerpt_markup: ''
+  id: '975'
+  link: ''
+  page_id: '596'
+  publish_on: 2011-08-03
+  site_id: '15'
+  slug: lip-mag-gives-book-of-rachael-a-strong-woman-shout
+  title: Lip Mag gives Book of Rachael a "strong woman" shout
+  updated_on: 2011-08-03 12:08:41
+assets: ~
+excerpt: ''
+published: 2011-08-03
+tags: ~
+title: Lip Mag gives Book of Rachael a "strong woman" shout
+--- "Most readers could name a book that changed their life. For many women, it will
+  be a book that got them thinking about the kind of woman they wanted to be, and
+  they probably read it during a time of major change in their life. These are the
+  books that are more influence than entertainment.\r\n\r\nTwenty years ago (quelle
+  horreur! I cannot be that old now!), my eyes were opened to the possibilities for
+  women by Margaret Atwoodâ\x80\x99s The Edible Woman and Bharati Mukherjeeâ\x80\x99s
+  Wife. I would never have found these books on my own, in the only chain bookshop
+  in a country town. It was because they were on the HSC reading list that I had the
+  chance to read them.\r\n\r\nThese were not so much feminist literature as pre-feminist,
+  and their stories resonated with young women who were still working out what they
+  wanted from life. The female protagonists struggled to break free of a rigid role
+  that didnâ\x80\x99t suit them, but hadnâ\x80\x99t yet found their own way.\r\nAcknowledging
+  that the status quo needed to change was a big step in itself.\r\n\r\nTwenty years
+  later, I wonder whatâ\x80\x99s out there to inspire young women and tell the stories
+  in their hearts?\r\n\r\nThe bestseller lists did not inspire me. Hermione Granger
+  is a smart sidekick, but Harry Potter is the hero. Bella from the Twilight series
+  is an banal emo whose biggest decision is whether to shag a vampire or a werewolf.
+  The female protagonist in Elizabeth Gilbertâ\x80\x99s Eat, Pray, Love, is preoccupied
+  with the kind of globe-trotting navel-gazing that only the extremely privileged
+  can afford. Stieg Larssonâ\x80\x99s Lisbeth Salander in The Girl With the Dragon
+  Tattoo, a grown-up and modern Pippi Longstocking with a healthy dose of kick-arse,
+  is a rare exception, but is also painted as a damaged and damaging woman.\r\n\r\nI
+  found hope among Australian writers. In 1997, Australian Nikki Gemmellâ\x80\x99s
+  Shiver told the story of Fin, a woman who ventures into the menâ\x80\x99s domain
+  of Antarctica. While not overtly exploring what it is to be a woman, Fin does challenge
+  taboos.\r\n\r\nAlso published in 1997 is Plains of Promise, the first novel by Indigenous
+  Australian Alexis Wright. Plains of Promise was shortlisted for the Commonwealth
+  Writerâ\x80\x99s Prize, The Age Book of the Year, and the NSW Premierâ\x80\x99s
+  Awards. Wrightâ\x80\x99s novel is an interwoven tale of two women, crossing time
+  and culture, and a story of a young woman trying to find her place.\r\n\r\nJane
+  Caroâ\x80\x99s Just A Girl, published in May 2011, is a fictionalised account of
+  the rise of Elizabeth I from illegitimate girl to Queen of England. And Leslie Cannoldâ\x80\x99s
+  [The Book of Rachael](http://cannold.com/articles/article/the-book-of-rachael/),
+  also published in 2011, imagines the story of Jesusâ\x80\x99 sister who is in love
+  with Judas. Both novels deal with betrayal, the role of women, and power. The historical
+  context provides a palatable escape from reality, and a less confronting model within
+  which to explore the interaction of power and gender.\r\n\r\nEven our most traditional
+  non-fiction, craft books, are getting a modern womanâ\x80\x99s make-over. Sew La
+  Tea Do and its sequels, by Melbourne mother and maker Pip Lincolne, offers instruction
+  for women with little time to spare and no interest in store-bought style perfection.
+  Similarly, mixtapezine was an independent craft and pop culture zine running from
+  2007 until 2010. Each issue was a mix of craft tutorials, recipes, eco-improvement,
+  and profiles of non-famous women who like to make things. But unlike glossy home
+  and cooking magazines, the style was very much for women who are richer in ethics
+  and optimism than in disposable cash or spare time. A wealth of independent publications
+  are emerging that share the philosophy that creating, and seeking to improve our
+  world and our selves, are worthwhile pursuits.\r\n\r\nI wonâ\x80\x99t waste energy
+  lamenting that there are not more strong women protagonists in bestselling novels.
+  Bestsellers are merely a literary reflection of mainstream culture. Contemporary
+  non-mainstream fiction is where youâ\x80\x99ll find the stories that explore where
+  our culture could be headed, for better or worse. There are some fantastic females
+  in this category, which is why I keep coming back for more.\r\n\r\nPosted in Books
+  | Tagged australian authors, female portrayals"
