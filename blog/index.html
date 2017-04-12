@@ -23,7 +23,6 @@
 <!-- Posts ============================================= -->
 	 <div id="posts">
 
-
     {% for post in site.posts %}
 
     <div class="entry clearfix">
@@ -39,7 +38,7 @@
 		</ul>
 
 	  <div class="entry-content">
-		{{ post.content }}
+		{{ post.excerpt }}
 		<a href="{{ post.url }}" class="more-link">Read more</a>
 	  </div><!--/.entry-content-->
 	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}

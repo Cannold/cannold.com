@@ -150,10 +150,13 @@ excerpt: "A pregnant Sydney woman died after refusing treatment that may have sa
 published: 2015-04-08
 tags: ~
 title: 'Medical Refusal Rights: Why pregnant women have them, too '
---- "Today, we learned about the death of a 28-year-old pregnant woman from Sydney.
+excerpt_separator: "<!--break-->"
+---
+
+"Today, we learned about the death of a 28-year-old pregnant woman from Sydney.
   She didnâ\x80\x99t die today. She died last year, or perhaps even earlier. But we
   are hearing her story now because of a letter two of the womenâ\x80\x99s doctors
-  have written about the case.\r\n\r\nThe letter, published in a medical journal and
+  have written about the case.<!--break-->\r\n\r\nThe letter, published in a medical journal and
   reported today by the Sydney Morning Herald, tells of a woman who arrived at the
   Prince of Wales hospital at 28-weeks, suffering from pre-eclampsia â\x80\x93 a severe
   complication of pregnancy. Things go from bad to worse when medical staff diagnosed

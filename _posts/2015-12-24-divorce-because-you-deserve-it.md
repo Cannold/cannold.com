@@ -140,11 +140,15 @@ excerpt: ''
 published: 2015-12-24
 tags: ~
 title: 'Divorce - Because you deserve it '
---- "I caught up with a girlfriend in New York recently. She gave me a rundown on
+excerpt_separator: "<!--break-->"
+
+---
+
+"I caught up with a girlfriend in New York recently. She gave me a rundown on
   the lives of those with whom we'd gone to school. \"She's divorced\", was a description
   attached to many, though I was struck by the implicit judgment that came with my
   friend's sad face and sigh. As if divorce was evidence of a failure of character
-  and proof of a life lived less well. \r\n\r\nTell that to my two friends â\x80\x93
+  and proof of a life lived less well. <!--break--> \r\n\r\nTell that to my two friends â\x80\x93
   both mothers of daughters â\x80\x93 who left their emotionally abusive husbands
   the minute these men began belittling the girls. As one of friends put it: \"How
   could I tell my daughter she deserved better than that when I stayed and let him

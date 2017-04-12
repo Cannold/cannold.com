@@ -152,10 +152,14 @@ excerpt: 'The scripture debate is distracting us from the simple truth that all 
 published: 2016-01-30
 tags: ~
 title: 'The Law Ain''t Enough to Stop Cheaters from Prospering '
---- "Cheaters never prosper, or so the proverb goes. Yet over the past few weeks,
+excerpt_separator: "<!--break-->"
+
+---
+
+"Cheaters never prosper, or so the proverb goes. Yet over the past few weeks,
   revelations about match-fixing in tennis and rumours that the NSW Independent Commission
   Against Corruption will make no adverse findings against public officials behaving
-  badly raises concerns that sometimes those with a case to answer may walk free.\r\n\r\nWhether
+  badly raises concerns that sometimes those with a case to answer may walk free. <!--break--> \r\n\r\nWhether
   the watchdogs won't or can't act is hard to say. The head of the Tennis Integrity
   Unit contends that, \"corruption is very difficult to detect and to obtain the evidence
   to prosecute\". ICAC was stymied by a High Court decision that limited the types

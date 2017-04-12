@@ -8,7 +8,7 @@ _blueprint:
     to complete any or all of the Census is NOT an offense**\r\n\r\nIt only becomes
     an offense if, having failed to complete it at all or to omit some information
     (like name and/or address), the Chief Statistician orders you to complete it.
-    \r\n\r\nThis sounds technical but is VERY, VERY important. It means that you can
+    \r\n\r\nThis sounds technical but is VERY, VERY important. {{ excerpt_separator }} It means that you can
     refuse to fill out all or part of the Census without a worry or care in the world.
     If, and only if, the Chief Statistician directs you to complete it, are you at
     risk of being fined. You can make a decision about completing it or continuing
@@ -119,8 +119,8 @@ _blueprint:
     if you refuse to give your name and/or address. Up to $1000, so watch yourself
     there.</p>\n"
   created_on: 2016-08-04 16:49:13
-  excerpt: ''
-  excerpt_markup: ''
+  excerpt: 'test'
+  excerpt_markup: 'test'
   id: '1113'
   link: ''
   page_id: '596'
@@ -130,15 +130,17 @@ _blueprint:
   title: 'Protesting Oz Census 2016: What Legal Experts Say '
   updated_on: 2016-08-04 17:44:10
 assets: ~
-excerpt: ''
 published: 2016-08-04
 tags: ~
 title: 'Protesting Oz Census 2016: What Legal Experts Say '
---- "*I spoke to some people at Liberty Victoria and a number of civil liberty, human
+excerpt_separator: "<!--break-->"
+---
+
+"*I spoke to some people at Liberty Victoria and a number of civil liberty, human
   rights and non-governmental organisations about the law in regard to Census 2016
   and the potential ramifications of boycotting or protesting the threats posed to
   individual privacy. The advice I got is below. I hope this helps you to make an
-  informed choice about whether and how to protest the Census.*\r\n\r\n**Failing to
+  informed choice about whether and how to protest the Census.*<!--break-->\r\n\r\n**Failing to
   complete any or all of the Census is NOT an offense**\r\n\r\nIt only becomes an
   offense if, having failed to complete it at all or to omit some information (like
   name and/or address), the Chief Statistician orders you to complete it. \r\n\r\nThis

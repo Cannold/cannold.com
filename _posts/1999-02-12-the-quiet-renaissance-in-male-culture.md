@@ -4,7 +4,7 @@ _blueprint:
     â\x80\x9CI need your understanding, I need your love so much/you tell me\r\nthat
     you love me so, you tell me that you care/but when I need you baby,\r\nyouâ\x80\x99re
     never thereâ\x80\x9D, and The Whitlams croon about the aphrodisiac effect\r\nof
-    loneliness.\r\n\r\nItâ\x80\x99s on the TV where Mikey Robbins and Paul McDermott
+    loneliness.excerpt_separator\r\n\r\nItâ\x80\x99s on the TV where Mikey Robbins and Paul McDermott
     of Good News Week\r\nfame attract mixed audiences with their matter-of-fact progressive\r\nattitudes
     to gender relations. Itâ\x80\x99s on the silver screen, in films like\r\nThe Brothers
     McMullen and Good Will Hunting. And itâ\x80\x99s in best-selling\r\nnon-fiction

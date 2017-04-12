@@ -141,12 +141,16 @@ excerpt: '*The ambitions of men and women in politics are still treated differen
 published: 2015-09-26
 tags: ~
 title: 'Is Malcolm Turnbull the Next Lady MacBeth? '
---- "Much has been said about the rise and fall of Australia's first female prime
+excerpt_separator: "<!--break-->"
+
+---
+
+"Much has been said about the rise and fall of Australia's first female prime
   minister. Particularly the fall. The consensus view was summed up by Labor senator
   and powerbroker Sam Dastyari on ABC-TV's post-mortem  on Labor's six years in government,
   The Killing Season. \"In one night, we took this amazing, talented politician in
   Julia Gillard and we took her from a lady in waiting and made her Lady Macbeth.
-  And she never recovered from it.\"\r\n\r\nMalcolm Turnbull's deposing of Tony Abbott
+  And she never recovered from it.<!--break-->\"\r\n\r\nMalcolm Turnbull's deposing of Tony Abbott
   as Liberal leader has many similarities with Gillard's 2010 deposition of Kevin
   Rudd. Both ousted leaders were prime ministers in their first term and both were
   seen to have been elected by the Australian people. The leadership change came after

@@ -430,11 +430,15 @@ excerpt: 'As Leslie''s Tedx Talk on abortion stigma nears 30,000 views and has b
 published: 2016-03-25
 tags: ~
 title: Leslie's Tedx Talk Passes 30,000 views
---- "https://www.youtube.com/watch?v=FxI6HGpaP3Q\r\n\r\nI had an abortion. Or maybe
+excerpt_separator: "<!--break-->"
+
+---
+
+"https://www.youtube.com/watch?v=FxI6HGpaP3Q\r\n\r\nI had an abortion. Or maybe
   I didnâ\x80\x99t. Why does it matter?\r\n\r\nAbortion shame is very zeitgeist at
   the moment. Or, more precisely and far more happily, anti-shame is very zeitgeist.
   In The New York Times, in a number of online magazines and on websites like 1 in
-  3, 45 Million Voices and Exhale women are speaking out. Theyâ\x80\x99re resisting
+  3, 45 Million Voices and Exhale women are speaking out.<!--break--> Theyâ\x80\x99re resisting
   the shame by breaking their silence about their abortions.\r\n\r\nBut the success
   of this fledgling speak-out movement is far from guaranteed. Indeed if we want it
   to succeed we are going to have to help. But before I can tell you what it is that

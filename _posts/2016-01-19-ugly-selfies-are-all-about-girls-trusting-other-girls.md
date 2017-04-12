@@ -152,10 +152,14 @@ excerpt: '*When girls meet feminism in a toxic culture of appearance, ugly selfi
 published: 2016-01-19
 tags: ~
 title: Ugly selfies are all about girls trusting other girls
---- "Women's rights have taken a battering this festive season. The Briggs fiasco,
+excerpt_separator: "<!--break-->"
+
+---
+
+"Women's rights have taken a battering this festive season. The Briggs fiasco,
   the Gayle insult to the professionalism of Channel Ten reporter Mel McLaughlin,
   and marauding hoodlums in Germany using women's rights as a cover for a violent
-  rampage against refugees all show the battle for gender equality is far from over.
+  rampage against refugees all show the battle for gender equality is far from over. <!--break-->
   \r\n\r\nBut there is good news, too: good news about girls and selfies. Ugly selfies
   in particular, and what I believe is their subversive, feminist intent.\r\n\r\nThe
   ugly selfie that has caught my eye is that taken and shared by the girl herself.

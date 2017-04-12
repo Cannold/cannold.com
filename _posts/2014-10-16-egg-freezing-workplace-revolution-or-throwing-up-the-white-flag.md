@@ -30,7 +30,9 @@ excerpt: ''
 published: 2014-10-16
 tags: ~
 title: 'Egg Freezing - Workplace Revolution or Throwing up the White Flag? '
---- "In the wake of Apple and Facebook's decision to fund egg-freezing for female
+excerpt_separator: "<!--break-->"
+---
+"In the wake of Apple and Facebook's decision to fund egg-freezing for female
   employees, Leslie urges men to pursue active fatherhood and help women catalyse
   the workplace revolution we have to have. \n\nABC TV News \n\nhttp://www.abc.net.au/news/2014-10-16/silicon-valley-egg-plan-no-revolution-ethicist/5817674\n\nABC
   Radio National PM\n\nhttp://www.abc.net.au/pm/content/2014/s4107754.htm"

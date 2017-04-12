@@ -156,11 +156,14 @@ excerpt: '*Leslie Cannold for the Ethics Centre*'
 published: 2016-05-03
 tags: ~
 title: 'Is vegetarianism and veganism about animal welfare or moral superiority? '
---- "The western obsession with rights makes it difficult to see their limitations.
+excerpt_separator: "<!--break-->"
+---
+
+"The western obsession with rights makes it difficult to see their limitations.
   We speak about rights as if they were the only moral value with meaning, ignoring
   other important moral values like responsibilities or duties. In fact, responsibilities
   are the counterparts to rights â\x80\x93 you canâ\x80\x99t have one without the
-  other.\r\n\r\nPhilosopher Carl Cohen writes that, â\x80\x9CIf animals have any rights,
+  other.<!--break-->\r\n\r\nPhilosopher Carl Cohen writes that, â\x80\x9CIf animals have any rights,
   they must have the right not to be killed to advance the interest of others.â\x80\x9D
   Another way of putting this is that those who assert the rights of animals are in
   effect asserting â\x80\x93 first and foremost â\x80\x93 a right to life for all

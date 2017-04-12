@@ -146,8 +146,12 @@ excerpt: ''
 published: 2015-04-12
 tags: ~
 title: The Time for Women is NOW
---- "*The campaign for gender equity needs bold ideas, powerful technology and the
-  potent rage of a new generation*\r\n\r\nWhen I was a girl growing up in Regan America,
+excerpt_separator: "<!--break-->"
+
+---
+
+"*The campaign for gender equity needs bold ideas, powerful technology and the
+  potent rage of a new generation*<!--break-->\r\n\r\nWhen I was a girl growing up in Regan America,
   I yearned to have been born in different times. To me, the 1960s seemed to be a
   golden era of egalitarianism and inclusivity, far more aligned with my own values
   than the â\x80\x9Cgreed is goodâ\x80\x9D mentality that was dominating the 1980s.

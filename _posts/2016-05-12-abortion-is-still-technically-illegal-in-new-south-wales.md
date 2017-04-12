@@ -125,10 +125,14 @@ excerpt: ''
 published: 2016-05-12
 tags: ~
 title: 'Abortion is still "technically illegal" in New South Wales '
---- "Back in 1900, a group of politicians sat down and drafted up a set of laws to
+excerpt_separator: "<!--break-->"
+
+---
+
+"Back in 1900, a group of politicians sat down and drafted up a set of laws to
   govern the Australian state of New South Wales. One can only assume they were wearing
   wigs. And there were, of course, things they decided weren't acceptable in polite,
-  turn-of-the-century society. Probably a lot of stuff about stealing another man's
+  turn-of-the-century society. <!--break--> Probably a lot of stuff about stealing another man's
   horse.\r\n\r\nBut as time passed things shifted and many of those lawsâ\x80\x94now
   more than 100 years oldâ\x80\x94were amended or repealed entirely. That is except
   for Section 82-84 of the Crimes Act 1900, which makes it illegal for a woman to
