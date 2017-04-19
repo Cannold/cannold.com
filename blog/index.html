@@ -1,4 +1,5 @@
 ---
+
 ---
 <!-- Page Title ============================================= -->
 <section id="page-title">
@@ -24,9 +25,8 @@
 	 <div id="posts">
 
 
-    {% for post in site.posts %}
-
-    <div class="entry clearfix">
+  {% for post in paginator.posts %}
+   <div class="entry clearfix">
 			<div class="entry-title">
 				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 			</div>
@@ -39,13 +39,30 @@
 		</ul>
 
 	  <div class="entry-content">
-		{{ post.content }}
+		{{ post.excerpt }}
 		<a href="{{ post.url }}" class="more-link">Read more</a>
 	  </div><!--/.entry-content-->
 	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
    </div>
 
 {% endfor %}
+
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
              </div>
             </div>
 					</div><!-- #posts end -->

@@ -1,6 +1,6 @@
 ---
 assets: ~
-excerpt: '*Leslie Cannold for the Ethics Centre*'
+excerpt: 'Leslie Cannold for the Ethics Centre'
 published: 2016-05-03
 tags: ~
 title: 'Is vegetarianism and veganism about animal welfare or moral superiority? '

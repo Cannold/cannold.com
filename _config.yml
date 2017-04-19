@@ -1,6 +1,9 @@
 # Permalinks
 permalink:           pretty
 
+gems: jekyll-paginate
+
+
 # Setup
 title:               Leslie Cannold
 url:                 https://www.cannold.com
@@ -23,6 +26,9 @@ exclude:
   - '*.sh'
   - nginx.d
   - blueprint
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 defaults:
   -

@@ -10,7 +10,7 @@ But as time passed things shifted and many of those laws—now more than 100 yea
 
 Reading like a Shakespearean sonnet, the law specifically instructs that:
 
-Whosoever, being a woman with child, 
+Whosoever, being a woman with child,
 unlawfully administers to herself any drug or noxious thing, or
 unlawfully uses any instrument or other means,
 with intent in any such case to procure her miscarriage,
