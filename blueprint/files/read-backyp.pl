@@ -1,11 +1,13 @@
 #!/usr/bin/env perl
-
 use strict;
-use warnings;
+use warnings qw(FATAL utf8);   # encoding errors raise exceptions
+# use utf8;                      # source is in UTF-8
+use open qw(:utf8 :std);       # default open mode, `backticks`, and std{in,out,err} are in UTF-8
 
 use File::Slurp;
 use YAML::XS;
 use Data::Structure::Util qw( unbless );
+use Encode qw( decode_utf8 );
 
 # $YAML::XS::UseCode=1;
  
@@ -26,20 +28,32 @@ foreach my $item (@array) {
     my $published = $item->{attributes}{publish_on} || $created;
 
     my @post;
+    
+    my $excerpt = decode_utf8($item->{attributes}{excerpt});
+    $excerpt =~ s/\r\n/ /gs;
+    
     push @post, {
         assets     => $item->{assets},
         tags       => $item->{tags},
         published  => $published,
         title      => $item->{attributes}{title},
-        excerpt    => $item->{attributes}{excerpt},
-        _blueprint => $item->{attributes},
+        excerpt    => $excerpt,
+#        _blueprint => $item->{attributes},
     };
 
-    push @post, $item->{attributes}{content};
-
-    open(my $fh, '>', 'posts/' . $published . '-' . $item->{attributes}{slug} . '.md');
+    open(my $fh, '>:raw', 'posts/' . $published . '-' . $item->{attributes}{slug} . '.md');
 
     print $fh Dump @post;
+    
+    close $fh;
+    
+    open(my $fh, '>>', 'posts/' . $published . '-' . $item->{attributes}{slug} . '.md');
+    
+    print $fh "---\n";
+        
+    my $content = decode_utf8($item->{attributes}{content});
+    $content =~ s/\r//sg;
+    print $fh $content;
 
 }
 

@@ -1,114 +1,38 @@
 ---
-_blueprint:
-  content: |-
-    A beauty pageant pitched as a tourism promotion has been described as an inappropriate way of selling our country.
-
-    Miss Tourism Australia - a beauty pageant that will pick an ambassador to travel to the international final and promote Australia's tourism opportunities - will crown its winner in Melbourne tomorrow Wednesday.
-
-    Tourism Australia quickly moved to distance itself from the event yesterday, claiming it did not have the organisation's tick of approval.
-
-    "We have no association with the event, nor endorse it," a spokesman said.
-
-    Should we use sleaze to sell Australia? Chat live with Susie all day at The Big O
-
-    Lord Mayor Robert Doyle, who was listed to judge contest hopefuls alongside former Home and Away actor Dieter Brummer and model Pia Miller, has withdrawn.
-
-    Within an hour of questions from the Herald Sun, he had a change of heart, blaming a "diary clash".
-
-    Cr Doyle declined say why he agreed to take part or whether he thought the pageant was an appropriate way to promote Australia.
-
-    Ethicist and author Leslie Cannold said pageants disrespected women and should be avoided by politicians.
-
-    "It's not appropriate to use this kind of platform to sell Australia and I obviously don't think it's appropriate for any of our public officials to be involved in some very outdated ideas about what is valuable about women," Ms Cannold said.
-
-    "My own view is that a tourism campaign is very much the expression of values of a country, and one of the key values is gender equality. It would seem odd if Australia and the City of Melbourne would want to promote the country using these kind of means."
-
-    Miss Tourism Australia director Deborah Miller denied the contest was inappropriate, and said the winner would promote Australia's healthy living lifestyle globally.
-
-    She said the winner will be an ambassador.
-
-    "I think a young healthy, fit woman is someone young people should look up to," Ms Miller said.
-
-    "Miss Tourism International is the fourth biggest pageant in the world ... and this is different to usual beauty queens as they will help promote Australia."
-
-    Ms Miller said Cr Doyle "still strongly supports" the event.
-  content_markup: |
-    <p>A beauty pageant pitched as a tourism promotion has been described as an inappropriate way of selling our country.</p>
-
-    <p>Miss Tourism Australia &ndash; a beauty pageant that will pick an ambassador to travel to the international final and promote Australia&rsquo;s tourism opportunities &ndash; will crown its winner in Melbourne tomorrow Wednesday.</p>
-
-    <p>Tourism Australia quickly moved to distance itself from the event yesterday, claiming it did not have the organisation&rsquo;s tick of approval.</p>
-
-    <p>&ldquo;We have no association with the event, nor endorse it,&rdquo; a spokesman said.</p>
-
-    <p>Should we use sleaze to sell Australia? Chat live with Susie all day at The Big O</p>
-
-    <p>Lord Mayor Robert Doyle, who was listed to judge contest hopefuls alongside former Home and Away actor Dieter Brummer and model Pia Miller, has withdrawn.</p>
-
-    <p>Within an hour of questions from the Herald Sun, he had a change of heart, blaming a &ldquo;diary clash&rdquo;.</p>
-
-    <p>Cr Doyle declined say why he agreed to take part or whether he thought the pageant was an appropriate way to promote Australia.</p>
-
-    <p>Ethicist and author Leslie Cannold said pageants disrespected women and should be avoided by politicians.</p>
-
-    <p>&ldquo;It&rsquo;s not appropriate to use this kind of platform to sell Australia and I obviously don&rsquo;t think it&rsquo;s appropriate for any of our public officials to be involved in some very outdated ideas about what is valuable about women,&rdquo; Ms Cannold said.</p>
-
-    <p>&ldquo;My own view is that a tourism campaign is very much the expression of values of a country, and one of the key values is gender equality. It would seem odd if Australia and the City of Melbourne would want to promote the country using these kind of means.&rdquo;</p>
-
-    <p>Miss Tourism Australia director Deborah Miller denied the contest was inappropriate, and said the winner would promote Australia&rsquo;s healthy living lifestyle globally.</p>
-
-    <p>She said the winner will be an ambassador.</p>
-
-    <p>&ldquo;I think a young healthy, fit woman is someone young people should look up to,&rdquo; Ms Miller said.</p>
-
-    <p>&ldquo;Miss Tourism International is the fourth biggest pageant in the world &hellip; and this is different to usual beauty queens as they will help promote Australia.&rdquo;</p>
-
-    <p>Ms Miller said Cr Doyle &ldquo;still strongly supports&rdquo; the event.</p>
-  created_on: 2011-12-06 20:00:21
-  excerpt: ''
-  excerpt_markup: ''
-  id: '999'
-  link: http://www.heraldsun.com.au/travel/news/beauties-caught-in-tourist-tussle/story-fn32891l-1226214572379
-  page_id: '596'
-  publish_on: 2011-12-06
-  site_id: '15'
-  slug: leslie-notes-the-gender-inequity-of-the-tourism-australia-beauty-contest
-  title: 'Leslie Notes the Gender Inequity of the Tourism Australia Beauty Contest '
-  updated_on: 2011-12-06 20:02:32
 assets: ~
 excerpt: ''
 published: 2011-12-06
 tags: ~
 title: 'Leslie Notes the Gender Inequity of the Tourism Australia Beauty Contest '
---- |-
-  A beauty pageant pitched as a tourism promotion has been described as an inappropriate way of selling our country.
+---
+A beauty pageant pitched as a tourism promotion has been described as an inappropriate way of selling our country.
 
-  Miss Tourism Australia - a beauty pageant that will pick an ambassador to travel to the international final and promote Australia's tourism opportunities - will crown its winner in Melbourne tomorrow Wednesday.
+Miss Tourism Australia - a beauty pageant that will pick an ambassador to travel to the international final and promote Australia's tourism opportunities - will crown its winner in Melbourne tomorrow Wednesday.
 
-  Tourism Australia quickly moved to distance itself from the event yesterday, claiming it did not have the organisation's tick of approval.
+Tourism Australia quickly moved to distance itself from the event yesterday, claiming it did not have the organisation's tick of approval.
 
-  "We have no association with the event, nor endorse it," a spokesman said.
+"We have no association with the event, nor endorse it," a spokesman said.
 
-  Should we use sleaze to sell Australia? Chat live with Susie all day at The Big O
+Should we use sleaze to sell Australia? Chat live with Susie all day at The Big O
 
-  Lord Mayor Robert Doyle, who was listed to judge contest hopefuls alongside former Home and Away actor Dieter Brummer and model Pia Miller, has withdrawn.
+Lord Mayor Robert Doyle, who was listed to judge contest hopefuls alongside former Home and Away actor Dieter Brummer and model Pia Miller, has withdrawn.
 
-  Within an hour of questions from the Herald Sun, he had a change of heart, blaming a "diary clash".
+Within an hour of questions from the Herald Sun, he had a change of heart, blaming a "diary clash".
 
-  Cr Doyle declined say why he agreed to take part or whether he thought the pageant was an appropriate way to promote Australia.
+Cr Doyle declined say why he agreed to take part or whether he thought the pageant was an appropriate way to promote Australia.
 
-  Ethicist and author Leslie Cannold said pageants disrespected women and should be avoided by politicians.
+Ethicist and author Leslie Cannold said pageants disrespected women and should be avoided by politicians.
 
-  "It's not appropriate to use this kind of platform to sell Australia and I obviously don't think it's appropriate for any of our public officials to be involved in some very outdated ideas about what is valuable about women," Ms Cannold said.
+"It's not appropriate to use this kind of platform to sell Australia and I obviously don't think it's appropriate for any of our public officials to be involved in some very outdated ideas about what is valuable about women," Ms Cannold said.
 
-  "My own view is that a tourism campaign is very much the expression of values of a country, and one of the key values is gender equality. It would seem odd if Australia and the City of Melbourne would want to promote the country using these kind of means."
+"My own view is that a tourism campaign is very much the expression of values of a country, and one of the key values is gender equality. It would seem odd if Australia and the City of Melbourne would want to promote the country using these kind of means."
 
-  Miss Tourism Australia director Deborah Miller denied the contest was inappropriate, and said the winner would promote Australia's healthy living lifestyle globally.
+Miss Tourism Australia director Deborah Miller denied the contest was inappropriate, and said the winner would promote Australia's healthy living lifestyle globally.
 
-  She said the winner will be an ambassador.
+She said the winner will be an ambassador.
 
-  "I think a young healthy, fit woman is someone young people should look up to," Ms Miller said.
+"I think a young healthy, fit woman is someone young people should look up to," Ms Miller said.
 
-  "Miss Tourism International is the fourth biggest pageant in the world ... and this is different to usual beauty queens as they will help promote Australia."
+"Miss Tourism International is the fourth biggest pageant in the world ... and this is different to usual beauty queens as they will help promote Australia."
 
-  Ms Miller said Cr Doyle "still strongly supports" the event.
+Ms Miller said Cr Doyle "still strongly supports" the event.

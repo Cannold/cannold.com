@@ -1,132 +1,44 @@
 ---
-_blueprint:
-  content: |-
-    Transcript:
-
-    The Pharmaceutical Benefits Advisory Committee has recommended the abortion drug RU486 be added to a government subsidy scheme.
-
-    The controversial abortion drug, RU486, is expected to become more widely available, following a reccomendation that it be subsidised by the Federal government.The Health Minister says she'll consider the proposal of an expert committee.
-
-    If approved, it's likely that the pill's price will drop dramatically.
-
-    RU486 was ruled safe for importation to Australia last year.
-
-    Now, the government's advisory committee says it should be listed on the Pharmaceutical Benefits Scheme.
-
-    Womens' health advocate, Dr Leslie Cannold, welcomes the outcome of what she says is a fair process.
-
-    "That could make a huge difference to women in rural and regional areas who some of whom are having to travel hundreds and hundreds of k's to gain access to a safe termination by surgical means."
-
-    Dr Cannold says Australia needs to catch up with 50-countries where medical abortions are widely available,
-
-    But the Australian Christian Lobby is urging the Federal government not to go ahead with a taxpayer-funded subsidy for a drug which it says has questionable health impacts.
-
-    "It means that people who have a philosophical or conscientious objection to abortion which is a great many Australians are then being forced to pay for something which they believe is wrong."
-
-    RU486 is not currently prescribed by many doctors and not widely available.
-
-    At the moment it costs over $300 but if subsidised by the government, it could be available for as little as $12.
-
-    The Australian Greens want the government to list it on the PBS quickly - to make it harder for a Coalition government to undo.
-
-    But the Opposition Leader who has previously opposed the drug says he wouldn't necessarily prevent its listing, if he becomes Prime Minister.
-
-    "When I was the Health Minister we invariably took the advice of our professional advisers when it came to the safety and the efficacy of drugs," said Tony Abbott.
-
-    The Health Minister says the recommendation is just the first step.
-
-    "Now we'll go into a period of making sure of steady, good quality supply of the drug, that there is a cost-effective price for the drug," says Tanya Plibersek.
-
-    She says she won't rush the process but does expect a decision before the election.
-  content_markup: |
-    <p>Transcript:</p>
-
-    <p>The Pharmaceutical Benefits Advisory Committee has recommended the abortion drug RU486 be added to a government subsidy scheme.</p>
-
-    <p>The controversial abortion drug, RU486, is expected to become more widely available, following a reccomendation that it be subsidised by the Federal government.The Health Minister says she&rsquo;ll consider the proposal of an expert committee.</p>
-
-    <p>If approved, it&rsquo;s likely that the pill&rsquo;s price will drop dramatically.</p>
-
-    <p>RU486 was ruled safe for importation to Australia last year.</p>
-
-    <p>Now, the government&rsquo;s advisory committee says it should be listed on the Pharmaceutical Benefits Scheme.</p>
-
-    <p>Womens' health advocate, Dr Leslie Cannold, welcomes the outcome of what she says is a fair process.</p>
-
-    <p>&ldquo;That could make a huge difference to women in rural and regional areas who some of whom are having to travel hundreds and hundreds of k&rsquo;s to gain access to a safe termination by surgical means.&rdquo;</p>
-
-    <p>Dr Cannold says Australia needs to catch up with 50-countries where medical abortions are widely available,</p>
-
-    <p>But the Australian Christian Lobby is urging the Federal government not to go ahead with a taxpayer-funded subsidy for a drug which it says has questionable health impacts.</p>
-
-    <p>&ldquo;It means that people who have a philosophical or conscientious objection to abortion which is a great many Australians are then being forced to pay for something which they believe is wrong.&rdquo;</p>
-
-    <p>RU486 is not currently prescribed by many doctors and not widely available.</p>
-
-    <p>At the moment it costs over $300 but if subsidised by the government, it could be available for as little as $12.</p>
-
-    <p>The Australian Greens want the government to list it on the PBS quickly &ndash; to make it harder for a Coalition government to undo.</p>
-
-    <p>But the Opposition Leader who has previously opposed the drug says he wouldn&rsquo;t necessarily prevent its listing, if he becomes Prime Minister.</p>
-
-    <p>&ldquo;When I was the Health Minister we invariably took the advice of our professional advisers when it came to the safety and the efficacy of drugs,&rdquo; said Tony Abbott.</p>
-
-    <p>The Health Minister says the recommendation is just the first step.</p>
-
-    <p>&ldquo;Now we&rsquo;ll go into a period of making sure of steady, good quality supply of the drug, that there is a cost-effective price for the drug,&rdquo; says Tanya Plibersek.</p>
-
-    <p>She says she won&rsquo;t rush the process but does expect a decision before the election.</p>
-  created_on: 2013-04-26 23:16:23
-  excerpt: ''
-  excerpt_markup: ''
-  id: '1055'
-  link: ''
-  page_id: '596'
-  publish_on: ~
-  site_id: '15'
-  slug: abortion-pill-recommended-for-pbs-leslie-on-sbs
-  title: Abortion Pill Recommended for PBS - Leslie on SBS
-  updated_on: 2013-12-22 15:42:28
 assets: ~
 excerpt: ''
 published: 2013-04-26 23:16:23
 tags: ~
 title: Abortion Pill Recommended for PBS - Leslie on SBS
---- |-
-  Transcript:
+---
+Transcript:
 
-  The Pharmaceutical Benefits Advisory Committee has recommended the abortion drug RU486 be added to a government subsidy scheme.
+The Pharmaceutical Benefits Advisory Committee has recommended the abortion drug RU486 be added to a government subsidy scheme.
 
-  The controversial abortion drug, RU486, is expected to become more widely available, following a reccomendation that it be subsidised by the Federal government.The Health Minister says she'll consider the proposal of an expert committee.
+The controversial abortion drug, RU486, is expected to become more widely available, following a reccomendation that it be subsidised by the Federal government.The Health Minister says she'll consider the proposal of an expert committee.
 
-  If approved, it's likely that the pill's price will drop dramatically.
+If approved, it's likely that the pill's price will drop dramatically.
 
-  RU486 was ruled safe for importation to Australia last year.
+RU486 was ruled safe for importation to Australia last year.
 
-  Now, the government's advisory committee says it should be listed on the Pharmaceutical Benefits Scheme.
+Now, the government's advisory committee says it should be listed on the Pharmaceutical Benefits Scheme.
 
-  Womens' health advocate, Dr Leslie Cannold, welcomes the outcome of what she says is a fair process.
+Womens' health advocate, Dr Leslie Cannold, welcomes the outcome of what she says is a fair process.
 
-  "That could make a huge difference to women in rural and regional areas who some of whom are having to travel hundreds and hundreds of k's to gain access to a safe termination by surgical means."
+"That could make a huge difference to women in rural and regional areas who some of whom are having to travel hundreds and hundreds of k's to gain access to a safe termination by surgical means."
 
-  Dr Cannold says Australia needs to catch up with 50-countries where medical abortions are widely available,
+Dr Cannold says Australia needs to catch up with 50-countries where medical abortions are widely available,
 
-  But the Australian Christian Lobby is urging the Federal government not to go ahead with a taxpayer-funded subsidy for a drug which it says has questionable health impacts.
+But the Australian Christian Lobby is urging the Federal government not to go ahead with a taxpayer-funded subsidy for a drug which it says has questionable health impacts.
 
-  "It means that people who have a philosophical or conscientious objection to abortion which is a great many Australians are then being forced to pay for something which they believe is wrong."
+"It means that people who have a philosophical or conscientious objection to abortion which is a great many Australians are then being forced to pay for something which they believe is wrong."
 
-  RU486 is not currently prescribed by many doctors and not widely available.
+RU486 is not currently prescribed by many doctors and not widely available.
 
-  At the moment it costs over $300 but if subsidised by the government, it could be available for as little as $12.
+At the moment it costs over $300 but if subsidised by the government, it could be available for as little as $12.
 
-  The Australian Greens want the government to list it on the PBS quickly - to make it harder for a Coalition government to undo.
+The Australian Greens want the government to list it on the PBS quickly - to make it harder for a Coalition government to undo.
 
-  But the Opposition Leader who has previously opposed the drug says he wouldn't necessarily prevent its listing, if he becomes Prime Minister.
+But the Opposition Leader who has previously opposed the drug says he wouldn't necessarily prevent its listing, if he becomes Prime Minister.
 
-  "When I was the Health Minister we invariably took the advice of our professional advisers when it came to the safety and the efficacy of drugs," said Tony Abbott.
+"When I was the Health Minister we invariably took the advice of our professional advisers when it came to the safety and the efficacy of drugs," said Tony Abbott.
 
-  The Health Minister says the recommendation is just the first step.
+The Health Minister says the recommendation is just the first step.
 
-  "Now we'll go into a period of making sure of steady, good quality supply of the drug, that there is a cost-effective price for the drug," says Tanya Plibersek.
+"Now we'll go into a period of making sure of steady, good quality supply of the drug, that there is a cost-effective price for the drug," says Tanya Plibersek.
 
-  She says she won't rush the process but does expect a decision before the election.
+She says she won't rush the process but does expect a decision before the election.

@@ -1,40 +1,8 @@
 ---
-_blueprint:
-  content: '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase=''http://download.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0''
-    width=''210'' height=''105'' name="44842" id="44842"><param name="movie" value="http://www.blogtalkradio.com/btrplayer.swf?file=http%3A%2F%2Fwww.blogtalkradio.com%2Fthinkatheist%2F2012%2F06%2F11%2Fepisode-62-dr-leslie-cannold-jun-10-2012%2Fplaylist.xml&autostart=false&bufferlength=5&volume=80&corner=rounded&callback=http://www.blogtalkradio.com/flashplayercallback.aspx"
-    /><param name="quality" value="high" /><param name="wmode" value="transparent"
-    /><param name="menu" value="false" /><param name="allowScriptAccess" value="always"
-    /><embed src="http://www.blogtalkradio.com/btrplayer.swf" flashvars="file=http%3A%2F%2Fwww.blogtalkradio.com%2Fthinkatheist%2F2012%2F06%2F11%2Fepisode-62-dr-leslie-cannold-jun-10-2012%2fplaylist.xml&autostart=false&shuffle=false&callback=http://www.blogtalkradio.com/FlashPlayerCallback.aspx&width=210&height=105&volume=80&corner=rounded"
-    width="210" height="105" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"
-    quality="high" wmode="transparent" menu="false" name="44842" id="44842" allowScriptAccess="always"></embed></object><div
-    style="font-size: 10px;text-align: center; width:220px;"> Listen to <a href="http://www.blogtalkradio.com">internet
-    radio</a> with <a href="http://www.blogtalkradio.com/thinkatheist">Think Atheist</a>
-    on Blog Talk Radio</div>'
-  content_markup: |
-    <p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase='http://download.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' width='210' height='105' name="44842" id="44842"><param name="movie" value="http://www.blogtalkradio.com/btrplayer.swf?file=http%3A%2F%2Fwww.blogtalkradio.com%2Fthinkatheist%2F2012%2F06%2F11%2Fepisode-62-dr-leslie-cannold-jun-10-2012%2Fplaylist.xml&autostart=false&bufferlength=5&volume=80&corner=rounded&callback=http://www.blogtalkradio.com/flashplayercallback.aspx" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="menu" value="false" /><param name="allowScriptAccess" value="always" /><embed src="http://www.blogtalkradio.com/btrplayer.swf" flashvars="file=http%3A%2F%2Fwww.blogtalkradio.com%2Fthinkatheist%2F2012%2F06%2F11%2Fepisode-62-dr-leslie-cannold-jun-10-2012%2fplaylist.xml&autostart=false&shuffle=false&callback=http://www.blogtalkradio.com/FlashPlayerCallback.aspx&width=210&height=105&volume=80&corner=rounded" width="210" height="105" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" wmode="transparent" menu="false" name="44842" id="44842" allowScriptAccess="always"></embed></object><div style="font-size: 10px;text-align: center; width:220px;"> Listen to <a href="http://www.blogtalkradio.com">internet radio</a> with <a href="http://www.blogtalkradio.com/thinkatheist">Think Atheist</a> on Blog Talk Radio</div></p>
-  created_on: 2012-06-12 20:43:39
-  excerpt: ''
-  excerpt_markup: ''
-  id: '1019'
-  link: ''
-  page_id: '596'
-  publish_on: ~
-  site_id: '15'
-  slug: the-think-atheist-show-chats-to-leslie
-  title: 'The Think Atheist Show Chats to Leslie '
-  updated_on: 2014-01-07 13:12:14
 assets: ~
 excerpt: ''
 published: 2012-06-12 20:43:39
 tags: ~
 title: 'The Think Atheist Show Chats to Leslie '
---- '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase=''http://download.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0''
-  width=''210'' height=''105'' name="44842" id="44842"><param name="movie" value="http://www.blogtalkradio.com/btrplayer.swf?file=http%3A%2F%2Fwww.blogtalkradio.com%2Fthinkatheist%2F2012%2F06%2F11%2Fepisode-62-dr-leslie-cannold-jun-10-2012%2Fplaylist.xml&autostart=false&bufferlength=5&volume=80&corner=rounded&callback=http://www.blogtalkradio.com/flashplayercallback.aspx"
-  /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param
-  name="menu" value="false" /><param name="allowScriptAccess" value="always" /><embed
-  src="http://www.blogtalkradio.com/btrplayer.swf" flashvars="file=http%3A%2F%2Fwww.blogtalkradio.com%2Fthinkatheist%2F2012%2F06%2F11%2Fepisode-62-dr-leslie-cannold-jun-10-2012%2fplaylist.xml&autostart=false&shuffle=false&callback=http://www.blogtalkradio.com/FlashPlayerCallback.aspx&width=210&height=105&volume=80&corner=rounded"
-  width="210" height="105" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"
-  quality="high" wmode="transparent" menu="false" name="44842" id="44842" allowScriptAccess="always"></embed></object><div
-  style="font-size: 10px;text-align: center; width:220px;"> Listen to <a href="http://www.blogtalkradio.com">internet
-  radio</a> with <a href="http://www.blogtalkradio.com/thinkatheist">Think Atheist</a>
-  on Blog Talk Radio</div>'
+---
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase='http://download.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' width='210' height='105' name="44842" id="44842"><param name="movie" value="http://www.blogtalkradio.com/btrplayer.swf?file=http%3A%2F%2Fwww.blogtalkradio.com%2Fthinkatheist%2F2012%2F06%2F11%2Fepisode-62-dr-leslie-cannold-jun-10-2012%2Fplaylist.xml&autostart=false&bufferlength=5&volume=80&corner=rounded&callback=http://www.blogtalkradio.com/flashplayercallback.aspx" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="menu" value="false" /><param name="allowScriptAccess" value="always" /><embed src="http://www.blogtalkradio.com/btrplayer.swf" flashvars="file=http%3A%2F%2Fwww.blogtalkradio.com%2Fthinkatheist%2F2012%2F06%2F11%2Fepisode-62-dr-leslie-cannold-jun-10-2012%2fplaylist.xml&autostart=false&shuffle=false&callback=http://www.blogtalkradio.com/FlashPlayerCallback.aspx&width=210&height=105&volume=80&corner=rounded" width="210" height="105" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" wmode="transparent" menu="false" name="44842" id="44842" allowScriptAccess="always"></embed></object><div style="font-size: 10px;text-align: center; width:220px;"> Listen to <a href="http://www.blogtalkradio.com">internet radio</a> with <a href="http://www.blogtalkradio.com/thinkatheist">Think Atheist</a> on Blog Talk Radio</div>
