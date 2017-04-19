@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-01-20
 tags: ~
 title: One-Size-Fits-All Marriage Model Fails to Bind

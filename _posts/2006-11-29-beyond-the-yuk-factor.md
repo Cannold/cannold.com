@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-11-29
 tags: ~
 title: "Beyond the â\x80\x98yuk factorâ\x80\x99"

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-06-11
 tags: ~
 title: Women are being ripped off, but not by feminism

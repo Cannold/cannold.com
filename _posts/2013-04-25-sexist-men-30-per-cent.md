@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-04-25
 tags: ~
 title: Sexist Men & 30 per cent

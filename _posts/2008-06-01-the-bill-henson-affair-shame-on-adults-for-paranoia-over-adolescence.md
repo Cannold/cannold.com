@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-06-01
 tags: ~
 title: 'The Bill Henson Affair: Shame on Adults for Paranoia over Adolescence'

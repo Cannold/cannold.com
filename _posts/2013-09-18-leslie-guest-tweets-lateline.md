@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-09-18
 tags: ~
 title: Leslie Guest-Tweets Lateline

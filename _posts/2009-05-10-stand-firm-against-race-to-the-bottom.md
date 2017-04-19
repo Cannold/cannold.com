@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-05-10
 tags: ~
 title: Stand Firm Against Race to the Bottom

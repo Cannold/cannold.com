@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-09-21
 tags: ~
 title: Whose Time is it Anyway, Peter?

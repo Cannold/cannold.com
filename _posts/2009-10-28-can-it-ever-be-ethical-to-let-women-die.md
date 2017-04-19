@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-10-28
 tags: ~
 title: Can it Ever be Ethical to Let Women Die?

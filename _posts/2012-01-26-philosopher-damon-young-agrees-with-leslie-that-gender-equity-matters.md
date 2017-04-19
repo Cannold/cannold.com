@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-01-26
 tags: ~
 title: 'Philosopher Damon Young Agrees with Leslie that Gender Equity Matters '

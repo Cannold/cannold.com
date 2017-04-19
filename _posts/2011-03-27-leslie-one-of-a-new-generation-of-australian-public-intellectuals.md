@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-27
 tags: ~
 title: Leslie One of a New Generation of Australian Public Intellectuals

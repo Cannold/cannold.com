@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-06-17
 tags: ~
 title: Positive Family Planning Letter

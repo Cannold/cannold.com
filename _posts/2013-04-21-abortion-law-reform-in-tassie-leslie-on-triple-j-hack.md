@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-04-21
 tags: ~
 title: Abortion Law Reform in Tassie - Leslie on Triple J Hack

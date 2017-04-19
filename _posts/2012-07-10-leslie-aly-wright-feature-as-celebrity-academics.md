@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-07-10
 tags: ~
 title: 'Leslie, Aly & Wright Feature as Celebrity Academics '

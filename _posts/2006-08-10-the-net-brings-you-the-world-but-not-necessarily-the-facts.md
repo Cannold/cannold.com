@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-08-10
 tags: ~
 title: The Net Brings You The World, But Not Necessarily the Facts

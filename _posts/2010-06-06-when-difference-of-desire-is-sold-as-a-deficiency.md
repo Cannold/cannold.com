@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-06-06
 tags: ~
 title: When Difference of Desire is Sold As a Deficiency

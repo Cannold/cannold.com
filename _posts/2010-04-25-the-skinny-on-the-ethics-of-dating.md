@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-04-25
 tags: ~
 title: The Skinny on the Ethics of Dating

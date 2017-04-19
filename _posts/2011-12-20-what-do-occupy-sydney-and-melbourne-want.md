@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-12-20
 tags: ~
 title: What do Occupy Sydney and Melbourne Want?

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:09
 tags: ~
 title: "Letâ\x80\x99s Keep the Counsellors Honest and True"

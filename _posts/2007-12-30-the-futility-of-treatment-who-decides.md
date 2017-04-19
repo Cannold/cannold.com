@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-12-30
 tags: ~
 title: 'The Futility of Treatment: Who Decides?'

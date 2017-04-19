@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-04-14
 tags: ~
 title: 'Topless Bars - Should there be a law? '

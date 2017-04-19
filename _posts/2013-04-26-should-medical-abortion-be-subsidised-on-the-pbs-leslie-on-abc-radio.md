@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-04-26
 tags: ~
 title: 'Should medical abortion be subsidised on the PBS - Leslie on ABC Radio '

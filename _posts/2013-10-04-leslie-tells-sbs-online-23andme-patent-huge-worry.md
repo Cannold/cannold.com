@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-10-04
 tags: ~
 title: 'Leslie tells SBS online: 23andMe Patent Huge Worry '

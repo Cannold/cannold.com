@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-12-28
 tags: ~
 title: "Womenâ\x80\x99s Forum Australia is â\x80\x9CFaking itâ\x80\x9D"

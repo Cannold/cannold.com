@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2004-07-12
 tags: ~
 title: Abortion Critics Deny the Complexity of Choice

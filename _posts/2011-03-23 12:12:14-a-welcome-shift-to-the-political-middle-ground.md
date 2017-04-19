@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:14
 tags: ~
 title: A Welcome Shift to the Political Middle Ground

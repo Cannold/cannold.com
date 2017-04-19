@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:14
 tags: ~
 title: "Womenâ\x80\x99s Rights? Donâ\x80\x99t Make Me Laugh"

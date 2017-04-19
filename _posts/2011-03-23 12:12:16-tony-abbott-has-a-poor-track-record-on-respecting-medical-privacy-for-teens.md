@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:16
 tags: ~
 title: Tony Abbott Has a Poor Track Record on Respecting Medical Privacy for Teens

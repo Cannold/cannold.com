@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-06-30
 tags: ~
 title: "Laborâ\x80\x99s man of the â\x80\x9950s"

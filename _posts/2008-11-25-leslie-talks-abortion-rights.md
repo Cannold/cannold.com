@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-11-25
 tags: ~
 title: Leslie talks abortion rights

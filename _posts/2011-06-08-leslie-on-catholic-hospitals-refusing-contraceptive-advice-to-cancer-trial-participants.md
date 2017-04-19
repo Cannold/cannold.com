@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-06-08
 tags: ~
 title: Leslie on Catholic Hospitals refusing contraceptive advice to cancer trial

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2016-09-01
 tags: ~
 title: Was the Ancient Persian Queen Vashti the 1st Feminist?

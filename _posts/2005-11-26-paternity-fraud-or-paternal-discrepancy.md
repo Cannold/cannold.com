@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-11-26
 tags: ~
 title: Paternity Fraud or Paternal Discrepancy?

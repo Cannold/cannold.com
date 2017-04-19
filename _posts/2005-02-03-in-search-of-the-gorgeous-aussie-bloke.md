@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-02-03
 tags: ~
 title: In Search of the Gorgeous Aussie Bloke

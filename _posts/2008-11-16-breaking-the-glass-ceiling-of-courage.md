@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-11-16
 tags: ~
 title: Breaking the Glass Ceiling of Courage

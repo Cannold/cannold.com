@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-02-08
 tags: ~
 title: Global Gag Leaves Blood on Our Hands

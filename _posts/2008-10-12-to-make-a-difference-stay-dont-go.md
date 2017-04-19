@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-10-12
 tags: ~
 title: "To Make a Difference, Stay Donâ\x80\x99t Go"

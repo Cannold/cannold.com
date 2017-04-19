@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-04-11
 tags: ~
 title: Get Religion out of Government Schools, Please!

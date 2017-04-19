@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-11-07
 tags: ~
 title: Who Has the Courage to Stand Up for State Schooling?

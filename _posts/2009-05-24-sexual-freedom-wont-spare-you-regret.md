@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-05-24
 tags: ~
 title: "Sexual Freedom Wonâ\x80\x99t Spare You Regret"

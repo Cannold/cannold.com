@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-06-22
 tags: ~
 title: Hating Gays is a Choice, Not a Biblical Dictate

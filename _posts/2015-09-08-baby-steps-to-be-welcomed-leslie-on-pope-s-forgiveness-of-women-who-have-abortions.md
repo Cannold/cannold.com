@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2015-09-08
 tags: ~
 title: '"Baby Steps to be Welcomed": Leslie on Pope''s Forgiveness of Women who Have

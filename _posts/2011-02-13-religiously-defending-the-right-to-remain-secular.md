@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-02-13
 tags: ~
 title: Religiously Defending the Right to Remain Secular

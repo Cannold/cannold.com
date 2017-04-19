@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:10
 tags: ~
 title: What is so wrong with having truthful advertising?

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-05-31
 tags: ~
 title: The Patenting of Human Genes Must Be Stopped

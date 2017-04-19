@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-06-11
 tags: ~
 title: Leslie Talks to TokenSkeptic About Big Pharma

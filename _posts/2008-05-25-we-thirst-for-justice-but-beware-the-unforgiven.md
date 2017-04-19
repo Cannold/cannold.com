@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-05-25
 tags: ~
 title: We Thirst for Justice, but Beware the Unforgiven

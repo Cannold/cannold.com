@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-05
 tags: ~
 title: The Myth of the Lying Victim - The case of Dominique Strauss-Kahn

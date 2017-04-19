@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-08-16
 tags: ~
 title: Transparency in Advertising

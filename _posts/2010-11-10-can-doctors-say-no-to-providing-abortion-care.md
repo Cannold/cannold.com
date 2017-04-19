@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-11-10
 tags: ~
 title: Can Doctors Say No to Providing Abortion Care?

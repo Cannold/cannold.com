@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-01-19
 tags: ~
 title: "Identity deficit disorder - itâ\x80\x99s so you"

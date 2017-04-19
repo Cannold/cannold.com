@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-10-04
 tags: ~
 title: 'The Australian: 23andMe Patent Heralds Designer Kids '

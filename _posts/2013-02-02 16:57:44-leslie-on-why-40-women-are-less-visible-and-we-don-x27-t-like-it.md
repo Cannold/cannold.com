@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-02-02 16:57:44
 tags: ~
 title: 'Leslie on Why 40+ Women are Less Visible (and we don&#x27;t like it) '

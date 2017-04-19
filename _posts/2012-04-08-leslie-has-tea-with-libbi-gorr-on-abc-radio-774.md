@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-04-08
 tags: ~
 title: Leslie has tea with Libbi Gorr on ABC Radio 774

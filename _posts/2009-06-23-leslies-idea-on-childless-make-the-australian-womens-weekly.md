@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-06-23
 tags: ~
 title: "Leslieâ\x80\x99s Idea on Childless Make the Australian Womenâ\x80\x99s Weekly"

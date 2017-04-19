@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-03-15
 tags: ~
 title: "Letâ\x80\x99s look at the system, not what we do in bed"

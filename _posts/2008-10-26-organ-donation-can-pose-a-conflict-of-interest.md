@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-10-26
 tags: ~
 title: Organ Donation Can Pose a Conflict of Interest

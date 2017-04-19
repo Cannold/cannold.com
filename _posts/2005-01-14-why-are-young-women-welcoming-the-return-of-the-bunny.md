@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-01-14
 tags: ~
 title: Why are Young Women Welcoming the Return of the Bunny?

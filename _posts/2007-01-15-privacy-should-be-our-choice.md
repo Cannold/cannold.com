@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-01-15
 tags: ~
 title: Privacy Should be Our Choice

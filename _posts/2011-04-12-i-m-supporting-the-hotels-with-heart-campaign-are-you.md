@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-12
 tags: ~
 title: 'I''m Supporting the Hotels with Heart campaign - are you? '

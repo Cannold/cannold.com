@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-02-21
 tags: ~
 title: 'In China or the West - Look for the Power in Industrial Matters  '

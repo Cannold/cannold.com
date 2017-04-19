@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-12-06
 tags: ~
 title: 'We ought to worry about Australia''s Democratic Decline '

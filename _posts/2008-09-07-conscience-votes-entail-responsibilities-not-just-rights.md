@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-09-07
 tags: ~
 title: Conscience Votes Entail Responsibilities, Not just Rights

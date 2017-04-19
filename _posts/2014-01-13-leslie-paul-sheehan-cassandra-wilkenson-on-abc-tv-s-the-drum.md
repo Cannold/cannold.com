@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-01-13
 tags: ~
 title: Leslie, Paul Sheehan & Cassandra Wilkenson on ABC TV's The Drum

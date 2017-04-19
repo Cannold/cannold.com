@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-04-25
 tags: ~
 title: 'When 17 yr old''s refuse life-saving treatment - Leslie talks to Mamamia '

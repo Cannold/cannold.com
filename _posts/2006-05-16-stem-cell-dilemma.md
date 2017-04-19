@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-05-16
 tags: ~
 title: Stem cell dilemma

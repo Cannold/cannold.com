@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-10
 tags: ~
 title: 'ANZ LitLovers Compares The Book of Rachael to Atwood''s Handmaid''s Tale '

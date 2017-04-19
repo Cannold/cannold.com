@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-02-14
 tags: ~
 title: Pregnancy and Job Seeking. Is it Time to Lie?

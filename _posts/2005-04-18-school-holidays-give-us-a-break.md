@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-04-18
 tags: ~
 title: 'School Holidays: Give Us A Break'

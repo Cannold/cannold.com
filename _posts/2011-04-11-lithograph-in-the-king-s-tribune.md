@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-11
 tags: ~
 title: Lithograph in The King's Tribune

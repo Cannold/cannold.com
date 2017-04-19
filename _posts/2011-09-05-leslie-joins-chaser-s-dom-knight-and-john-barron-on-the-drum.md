@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-09-05
 tags: ~
 title: 'Leslie joins Chaser''s Dom Knight and John Barron on The Drum '

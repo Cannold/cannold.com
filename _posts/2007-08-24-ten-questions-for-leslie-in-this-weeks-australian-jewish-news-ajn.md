@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-08-24
 tags: ~
 title: "Ten Questions for Leslie in this weekâ\x80\x99s Australian Jewish News (AJN)"

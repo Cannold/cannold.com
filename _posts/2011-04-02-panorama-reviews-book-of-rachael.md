@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-02
 tags: ~
 title: 'Panorama Reviews Book of Rachael '

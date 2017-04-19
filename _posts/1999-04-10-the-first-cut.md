@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-04-10
 tags: ~
 title: The first cut

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-10-16
 tags: ~
 title: 'Egg Freezing - Workplace Revolution or Throwing up the White Flag? '

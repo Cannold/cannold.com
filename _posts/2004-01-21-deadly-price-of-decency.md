@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2004-01-21
 tags: ~
 title: Deadly price of decency

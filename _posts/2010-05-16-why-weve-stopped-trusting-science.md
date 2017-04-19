@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-05-16
 tags: ~
 title: "Why Weâ\x80\x99ve Stopped Trusting Science"

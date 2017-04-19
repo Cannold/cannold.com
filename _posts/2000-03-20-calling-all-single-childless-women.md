@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-03-20
 tags: ~
 title: "Calling all single childless womenâ\x80¦"

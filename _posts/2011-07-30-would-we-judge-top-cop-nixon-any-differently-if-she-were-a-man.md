@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-30
 tags: ~
 title: 'Would we judge Top Cop Nixon any differently if she were a man? '

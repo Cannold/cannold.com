@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-04-27
 tags: ~
 title: At 50, the Material Girl is Not to be Pitied

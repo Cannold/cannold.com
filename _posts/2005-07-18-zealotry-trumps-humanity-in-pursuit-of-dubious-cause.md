@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-07-18
 tags: ~
 title: Zealotry trumps humanity in pursuit of dubious cause

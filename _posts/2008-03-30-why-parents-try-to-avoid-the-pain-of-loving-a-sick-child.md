@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-03-30
 tags: ~
 title: Why Parents Try to Avoid the Pain of Loving a Sick Child

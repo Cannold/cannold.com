@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-07-13
 tags: ~
 title: 'Leslie joins IPA''s Patterson & and Mumble''s Brent on ABC TV''s The Drum '

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-05
 tags: ~
 title: Leslie discusses The Myth of the Lying Victim with Louise Maher

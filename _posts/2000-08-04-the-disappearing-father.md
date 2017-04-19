@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-08-04
 tags: ~
 title: The disappearing father

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-08-30
 tags: ~
 title: Circumcision - Who Decides?

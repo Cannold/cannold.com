@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-11-30
 tags: ~
 title: "The Kovco Case: Motherâ\x80\x99s Grief Real, and So Are Her Questions"

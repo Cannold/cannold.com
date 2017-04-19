@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-29
 tags: ~
 title: The Best Episode of 2011 of Australia's Top Rated Show Q & A

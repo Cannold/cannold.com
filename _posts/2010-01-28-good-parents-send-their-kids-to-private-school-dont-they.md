@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-01-28
 tags: ~
 title: "Good Parents Send Their Kids to Private School, Donâ\x80\x99t They?"

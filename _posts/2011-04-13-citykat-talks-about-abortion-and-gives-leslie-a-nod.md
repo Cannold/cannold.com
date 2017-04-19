@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-13
 tags: ~
 title: 'CityKat Talks about Abortion and Gives Leslie a Nod '

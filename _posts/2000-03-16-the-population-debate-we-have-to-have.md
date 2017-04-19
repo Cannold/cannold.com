@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-03-16
 tags: ~
 title: The population debate we have to have

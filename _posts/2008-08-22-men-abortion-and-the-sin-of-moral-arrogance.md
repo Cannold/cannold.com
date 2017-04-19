@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-08-22
 tags: ~
 title: Men, Abortion and the Sin of Moral Arrogance

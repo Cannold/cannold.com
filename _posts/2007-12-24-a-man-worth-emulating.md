@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-12-24
 tags: ~
 title: A Man Worth Emulating

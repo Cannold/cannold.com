@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-11-03
 tags: ~
 title: Leslie Debates Abortion on SBS Radio

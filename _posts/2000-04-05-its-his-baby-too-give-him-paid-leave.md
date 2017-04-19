@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-04-05
 tags: ~
 title: "Itâ\x80\x99s his baby too, give him paid leave"

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-11-07
 tags: ~
 title: 'Gillard''s Misogyny Speech - What Have We Learned? '

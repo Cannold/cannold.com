@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-02-21
 tags: ~
 title: 'The Name Game Leaves Many Men to Blame '

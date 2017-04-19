@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-03-25
 tags: ~
 title: 'Feminist Fatales Cannold, Wilson and...Muldoon? '

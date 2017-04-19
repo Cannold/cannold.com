@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-04-20
 tags: ~
 title: There is an art to breaking bad news to children

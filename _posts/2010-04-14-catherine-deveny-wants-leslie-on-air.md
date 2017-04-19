@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-04-14
 tags: ~
 title: 'Catherine Deveny wants Leslie on air '

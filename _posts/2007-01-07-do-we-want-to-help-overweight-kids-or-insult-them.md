@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-01-07
 tags: ~
 title: 'Do we want to help overweight kids, or insult them? '

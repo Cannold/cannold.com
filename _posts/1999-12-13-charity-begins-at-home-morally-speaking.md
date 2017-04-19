@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-12-13
 tags: ~
 title: Charity begins at home, morally speaking

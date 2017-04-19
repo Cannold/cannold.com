@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-14
 tags: ~
 title: 'Leslie Co-hosts Jon Faine''s Conversation Hour '

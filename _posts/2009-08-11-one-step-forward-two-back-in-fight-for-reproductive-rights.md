@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-08-11
 tags: ~
 title: One Step Forward, Two Back, in Fight for Reproductive Rights

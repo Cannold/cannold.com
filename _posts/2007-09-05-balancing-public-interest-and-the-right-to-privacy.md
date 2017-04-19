@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-09-05
 tags: ~
 title: Balancing public interest and the right to privacy

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-06-20
 tags: ~
 title: "Thereâ\x80\x99s no Rule Book for Families"

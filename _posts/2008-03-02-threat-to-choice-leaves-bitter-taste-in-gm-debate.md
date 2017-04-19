@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-03-02
 tags: ~
 title: Threat to Choice Leaves Bitter Taste in GM Debate

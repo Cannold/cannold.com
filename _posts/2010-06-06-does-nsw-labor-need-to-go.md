@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-06-06
 tags: ~
 title: Does NSW Labor need to go?

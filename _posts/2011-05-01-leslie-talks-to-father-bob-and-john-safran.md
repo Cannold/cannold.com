@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-01
 tags: ~
 title: Leslie talks to Father Bob and John Safran

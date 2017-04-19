@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-01-04
 tags: ~
 title: Leslie Part of Twitterati?

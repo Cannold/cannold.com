@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-01-09
 tags: ~
 title: On Changing the Way We Deal with Child Obesity

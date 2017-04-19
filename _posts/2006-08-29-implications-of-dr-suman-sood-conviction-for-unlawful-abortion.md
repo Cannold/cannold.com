@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-08-29
 tags: ~
 title: Implications of Dr Suman Sood conviction for unlawful abortion

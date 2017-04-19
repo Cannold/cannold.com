@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-06-12 20:43:39
 tags: ~
 title: 'The Think Atheist Show Chats to Leslie '

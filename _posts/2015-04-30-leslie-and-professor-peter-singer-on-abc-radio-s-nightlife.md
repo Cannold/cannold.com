@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2015-04-30
 tags: ~
 title: 'Leslie and Professor Peter Singer on ABC Radio''s Nightlife '

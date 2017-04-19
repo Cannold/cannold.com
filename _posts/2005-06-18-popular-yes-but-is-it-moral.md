@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-06-18
 tags: ~
 title: Popular, yes - but is it moral?

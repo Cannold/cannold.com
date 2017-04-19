@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-03-20
 tags: ~
 title: The Magill children finally speak

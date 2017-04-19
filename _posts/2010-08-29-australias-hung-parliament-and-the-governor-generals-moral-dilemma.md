@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-08-29
 tags: ~
 title: "Australiaâ\x80\x99s Hung Parliament and the Governor Generalâ\x80\x99s Moral

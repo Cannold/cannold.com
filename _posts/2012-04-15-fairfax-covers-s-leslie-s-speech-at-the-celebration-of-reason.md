@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-04-15
 tags: ~
 title: 'Fairfax Covers''s Leslie''s Speech at The Celebration of Reason '

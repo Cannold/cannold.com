@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-02-18
 tags: ~
 title: 'Leslie Talks to ABC 720 Perth about Assisted Suicide '

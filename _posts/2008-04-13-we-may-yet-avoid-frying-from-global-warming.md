@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-04-13
 tags: ~
 title: We May Yet Avoid Frying from Global Warming

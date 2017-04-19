@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-05-23
 tags: ~
 title: Corruption Is Never Harmless, in the Church or State

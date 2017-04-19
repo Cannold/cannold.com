@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-11-05
 tags: ~
 title: I Feel Guilty, My Son is at Public School

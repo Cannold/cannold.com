@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-07-20
 tags: ~
 title: Leslie talks vaccination, reality and Rolf Harris on ABC TV Moral Compass

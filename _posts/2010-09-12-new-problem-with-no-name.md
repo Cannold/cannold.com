@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-09-12
 tags: ~
 title: New Problem With No Name

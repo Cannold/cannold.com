@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-12-19
 tags: ~
 title: What the Lindy Chamberlain, Patsy Ramsey, Kate McCann & now Keli Lane Case

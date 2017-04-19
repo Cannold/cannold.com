@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-10-02
 tags: ~
 title: Time to weigh anchor on Australa

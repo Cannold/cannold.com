@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-01-15
 tags: ~
 title: Leslie' Advice to Australia's Next Female PM

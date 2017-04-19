@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-12-07
 tags: ~
 title: Should We Let the Gene Out of the Bottle

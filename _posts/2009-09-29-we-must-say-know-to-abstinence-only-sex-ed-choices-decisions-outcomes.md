@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-09-29
 tags: ~
 title: "We Must Say â\x80\x9CKnowâ\x80\x9D to Abstinence-Only Sex Ed â\x80\x9CChoices,

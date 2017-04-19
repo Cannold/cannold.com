@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-08-03
 tags: ~
 title: Hey girls, be ladies and enslave yourself to men

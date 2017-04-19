@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-08-24
 tags: ~
 title: "Beware, itâ\x80\x99s a bitter pill we swallow"

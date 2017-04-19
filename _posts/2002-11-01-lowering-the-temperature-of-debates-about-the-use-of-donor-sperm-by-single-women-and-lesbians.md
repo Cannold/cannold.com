@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2002-11-01
 tags: ~
 title: Lowering the Temperature of Debates About the Use of Donor Sperm by Single

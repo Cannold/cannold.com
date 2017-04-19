@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-03-14
 tags: ~
 title: To tell or not to tell

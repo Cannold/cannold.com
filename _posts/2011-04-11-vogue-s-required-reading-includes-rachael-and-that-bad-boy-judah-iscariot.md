@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-11
 tags: ~
 title: Vogue's Required Reading Includes Rachael (and that bad boy Judah Iscariot)

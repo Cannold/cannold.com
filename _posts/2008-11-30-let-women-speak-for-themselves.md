@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-11-30
 tags: ~
 title: Let Women Speak for Themselves

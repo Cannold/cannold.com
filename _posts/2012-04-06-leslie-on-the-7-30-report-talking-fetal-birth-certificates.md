@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-04-06
 tags: ~
 title: 'Leslie on the 7:30 Report talking fetal birth certificates '

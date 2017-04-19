@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-12-06
 tags: ~
 title: 'Leslie Notes the Gender Inequity of the Tourism Australia Beauty Contest '

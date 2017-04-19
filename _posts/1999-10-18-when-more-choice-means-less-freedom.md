@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-10-18
 tags: ~
 title: When more choice means less freedom

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-08-16
 tags: ~
 title: "Contemporary callenges to womenâ\x80\x99s freedom to choose"

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-05-17
 tags: ~
 title: Sex Test Engenders a Skewed Reality

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-16
 tags: ~
 title: 'It''s Time to Deny ACCESS to our Children '

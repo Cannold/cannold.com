@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-01-11
 tags: ~
 title: Why We Must Sometimes Refuse to Help

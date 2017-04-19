@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-10-19
 tags: ~
 title: Grace A Measure of Our Moral Fibre

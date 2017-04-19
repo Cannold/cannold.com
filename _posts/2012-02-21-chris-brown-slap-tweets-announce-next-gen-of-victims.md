@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-02-21
 tags: ~
 title: Chris Brown "Slap Tweets" Announce Next Gen of Victims

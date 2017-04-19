@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-03-14
 tags: ~
 title: Choice? What Choice?

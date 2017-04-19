@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-02-03
 tags: ~
 title: Do nice guys finish last?

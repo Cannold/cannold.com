@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-08-25
 tags: ~
 title: "Whoâ\x80\x99s the Father? Rethinking the Moral â\x80\x98Crimeâ\x80\x99 of

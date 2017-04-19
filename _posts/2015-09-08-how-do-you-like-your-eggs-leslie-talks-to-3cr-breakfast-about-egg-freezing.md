@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2015-09-08
 tags: ~
 title: How do you like your Eggs? Leslie talks to 3CR Breakfast about Egg Freezing

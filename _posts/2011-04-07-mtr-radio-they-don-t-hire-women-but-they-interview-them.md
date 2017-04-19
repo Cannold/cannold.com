@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-07
 tags: ~
 title: MTR Radio - They Don't Hire Women But They Interview Them

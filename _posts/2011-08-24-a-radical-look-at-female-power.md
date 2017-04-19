@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-08-24
 tags: ~
 title: 'A "Radical" Look at Female Power '

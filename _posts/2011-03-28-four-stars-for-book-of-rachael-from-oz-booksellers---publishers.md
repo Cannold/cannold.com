@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-28
 tags: ~
 title: Four stars for Book of Rachael from Oz Booksellers + Publishers

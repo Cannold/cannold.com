@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-13
 tags: ~
 title: The Opinionator Rides Again - Leslie returns to Vizzard Show on MTR

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-01-21
 tags: ~
 title: Melinda Tankard Reist Sues (#MTRsues) A Hot Hashtag on Twitter

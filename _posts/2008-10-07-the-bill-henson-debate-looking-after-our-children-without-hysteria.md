@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-10-07
 tags: ~
 title: 'The Bill Henson Debate: Looking After Our Children Without Hysteria'

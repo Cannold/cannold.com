@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-09-25
 tags: ~
 title: Leslie Nominated as Feminist Icon

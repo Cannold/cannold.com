@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-01-01
 tags: ~
 title: 'Reprogenetic Technologies: balancing parental procreative autonomy and social

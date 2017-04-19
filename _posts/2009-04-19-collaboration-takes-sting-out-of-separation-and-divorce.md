@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-04-19
 tags: ~
 title: Collaboration Takes Sting Out of Separation and Divorce

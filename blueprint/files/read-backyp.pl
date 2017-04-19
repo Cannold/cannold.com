@@ -27,19 +27,22 @@ foreach my $item (@array) {
     $created =~ s/(\d\d\d\d-\d\d-\d\d)/$1/;
     my $published = $item->{attributes}{publish_on} || $created;
 
-    my @post;
-    
-    my $excerpt = decode_utf8($item->{attributes}{excerpt});
-    $excerpt =~ s/\r\n/ /gs;
-    
-    push @post, {
+    my $post = {
         assets     => $item->{assets},
         tags       => $item->{tags},
         published  => $published,
         title      => $item->{attributes}{title},
-        excerpt    => $excerpt,
 #        _blueprint => $item->{attributes},
     };
+
+    if ( $item->{attributes}{excerpt} ) {
+        my $excerpt = decode_utf8($item->{attributes}{excerpt});
+        $excerpt =~ s/\r\n/ /gs;
+        $post->{excerpt} = $excerpt;
+    }
+
+    my @post;
+    push @post, $post;
 
     open(my $fh, '>:raw', 'posts/' . $published . '-' . $item->{attributes}{slug} . '.md');
 

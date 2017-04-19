@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-11-09
 tags: ~
 title: "Climate Change: Itâ\x80\x99s about the economy, stupid"

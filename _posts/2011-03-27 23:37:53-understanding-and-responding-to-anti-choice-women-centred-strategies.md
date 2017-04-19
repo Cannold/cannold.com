@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-27 23:37:53
 tags: ~
 title: Understanding and Responding to Anti-Choice Women-centred Strategies

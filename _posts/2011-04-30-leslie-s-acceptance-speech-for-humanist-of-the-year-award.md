@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-30
 tags: ~
 title: 'Leslie''s Acceptance Speech for Humanist of the Year Award '

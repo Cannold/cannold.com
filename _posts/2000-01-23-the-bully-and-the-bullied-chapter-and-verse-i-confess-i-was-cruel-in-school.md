@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-01-23
 tags: ~
 title: 'The bully and the bullied, chapter and verse - I confess: I was cruel in school'

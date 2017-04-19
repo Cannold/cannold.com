@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2015-04-12
 tags: ~
 title: The Time for Women is NOW

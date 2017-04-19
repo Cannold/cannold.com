@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-01-27
 tags: ~
 title: 'Breastfeeding: differing advice flows oh so freely'

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-06-07
 tags: ~
 title: Where Rights, Medicine and Law Collide

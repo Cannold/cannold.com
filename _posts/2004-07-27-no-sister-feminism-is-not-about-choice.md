@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2004-07-27
 tags: ~
 title: No Sister, Feminism is Not About Choice

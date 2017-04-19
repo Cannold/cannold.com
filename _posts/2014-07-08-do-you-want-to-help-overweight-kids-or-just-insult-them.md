@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-07-08
 tags: ~
 title: Do you want to help overweight kids, or just insult them?

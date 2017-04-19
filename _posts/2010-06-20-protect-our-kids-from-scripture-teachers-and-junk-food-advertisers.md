@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-06-20
 tags: ~
 title: Protect Our Kids from Scripture Teachers and Junk Food Advertisers

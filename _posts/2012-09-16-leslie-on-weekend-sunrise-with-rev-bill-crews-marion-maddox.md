@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-09-16
 tags: ~
 title: Leslie on Weekend Sunrise with Rev Bill Crews & Marion Maddox

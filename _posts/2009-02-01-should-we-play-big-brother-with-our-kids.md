@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-02-01
 tags: ~
 title: Should We Play Big Brother with our Kids?

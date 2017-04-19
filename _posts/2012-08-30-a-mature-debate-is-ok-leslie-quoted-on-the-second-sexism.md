@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-08-30
 tags: ~
 title: A mature debate is OK - Leslie quoted on the Second Sexism

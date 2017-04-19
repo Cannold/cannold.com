@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-05-21
 tags: ~
 title: Book Review - Wonder Woman

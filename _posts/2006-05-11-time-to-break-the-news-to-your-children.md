@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-05-11
 tags: ~
 title: Time to Break the News to Your Children

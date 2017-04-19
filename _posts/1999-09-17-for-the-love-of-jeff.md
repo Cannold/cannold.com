@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-09-17
 tags: ~
 title: For the love of Jeff

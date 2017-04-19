@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-05-10
 tags: ~
 title: Why men hold the key to the new feminism

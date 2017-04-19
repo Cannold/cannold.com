@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-08-01
 tags: ~
 title: NZ Herald on Sunday cheers The Book of Rachael

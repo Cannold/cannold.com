@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-09-20
 tags: ~
 title: "Leslie in the Hot Seat on ABC TVâ\x80\x99s Q & A"

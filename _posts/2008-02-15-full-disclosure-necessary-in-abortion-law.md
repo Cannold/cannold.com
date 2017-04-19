@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-02-15
 tags: ~
 title: Full Disclosure Necessary in Abortion Law

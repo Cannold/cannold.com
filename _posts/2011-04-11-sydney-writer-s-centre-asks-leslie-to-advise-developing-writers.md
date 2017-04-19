@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-11
 tags: ~
 title: 'Sydney Writer''s Centre asks Leslie to Advise Developing Writers '

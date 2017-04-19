@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-12-11
 tags: ~
 title: Every Book Deserves a Soundtrack. Now, the Book of Rachael has one

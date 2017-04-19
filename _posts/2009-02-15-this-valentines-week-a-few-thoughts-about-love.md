@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-02-15
 tags: ~
 title: "This Valentineâ\x80\x99s Week, a Few Thoughts About Love"

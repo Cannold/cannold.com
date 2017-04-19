@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-11-29
 tags: ~
 title: "Why Negative Ads Donâ\x80\x99t Work, but Sticking to Principle Does"

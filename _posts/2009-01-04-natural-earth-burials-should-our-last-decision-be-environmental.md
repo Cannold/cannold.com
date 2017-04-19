@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-01-04
 tags: ~
 title: 'Natural Earth Burials: Should our last decision be environmental?'

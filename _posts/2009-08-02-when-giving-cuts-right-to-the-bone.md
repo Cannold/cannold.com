@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-08-02
 tags: ~
 title: When Giving Cuts Right to the Bone

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-28
 tags: ~
 title: 'Leslie talks to Stu in China about Rachael '

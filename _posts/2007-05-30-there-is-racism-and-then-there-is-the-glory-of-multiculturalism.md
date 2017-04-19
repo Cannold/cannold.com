@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-05-30
 tags: ~
 title: There is racism, and then there is the glory of multiculturalism

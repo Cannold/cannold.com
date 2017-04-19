@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-08-11
 tags: ~
 title: 'Leslie Talks Women and Media Ethics at Byron Bay '

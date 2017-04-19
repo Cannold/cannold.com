@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-06-15
 tags: ~
 title: 'Perilous Adventure a fan of The Book of Rachael '

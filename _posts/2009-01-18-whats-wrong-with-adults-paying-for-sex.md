@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-01-18
 tags: ~
 title: Whats Wrong with Adults Paying for Sex

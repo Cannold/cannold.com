@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-07-05
 tags: ~
 title: Gene Patents Violate Civil Liberties

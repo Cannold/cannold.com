@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2004-02-11
 tags: ~
 title: Misconceptions in the Blame Cycle

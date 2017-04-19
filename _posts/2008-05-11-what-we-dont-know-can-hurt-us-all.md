@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-05-11
 tags: ~
 title: "What We Donâ\x80\x99t Know Can Hurt Us All"

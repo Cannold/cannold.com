@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-07-25
 tags: ~
 title: "Child-care dinosaursâ\x80\x99 time is past"

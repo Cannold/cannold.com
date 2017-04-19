@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-03-22
 tags: ~
 title: "Stop Conroyâ\x80\x99s Great Australian Firewall"

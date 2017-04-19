@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-02-10
 tags: ~
 title: "Letâ\x80\x99s Get Rid of the Cloak and Dagger"

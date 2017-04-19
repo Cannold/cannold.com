@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-03-08
 tags: ~
 title: Give Us Better Biking Infrastructure, Please!

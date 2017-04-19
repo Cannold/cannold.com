@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-01-31
 tags: ~
 title: 'Retrospective Legislation and Donor Conceived People '

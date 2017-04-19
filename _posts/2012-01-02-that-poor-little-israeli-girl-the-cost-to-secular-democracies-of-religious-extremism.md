@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-01-02
 tags: ~
 title: That Poor Little Israeli Girl & the Cost to Secular Democracies of Religious

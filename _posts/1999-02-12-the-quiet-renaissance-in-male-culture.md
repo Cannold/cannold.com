@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-02-12
 tags: ~
 title: The quiet renaissance in male culture

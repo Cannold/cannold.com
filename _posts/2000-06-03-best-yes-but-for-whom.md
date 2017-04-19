@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-06-03
 tags: ~
 title: Best, yes, but for whom?

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-08-17
 tags: ~
 title: Ethical Carnivores Care for Animals Too

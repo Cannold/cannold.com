@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-04-26
 tags: ~
 title: We Need a Population Policy Debate

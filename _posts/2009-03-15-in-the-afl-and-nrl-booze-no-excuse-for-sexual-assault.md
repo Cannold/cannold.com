@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-03-15
 tags: ~
 title: In the AFL and NRL, Booze No Excuse for Sexual Assault

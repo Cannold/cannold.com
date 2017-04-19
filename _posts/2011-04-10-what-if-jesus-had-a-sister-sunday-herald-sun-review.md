@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-10
 tags: ~
 title: What If Jesus Had a Sister? - Sunday Herald Sun Review

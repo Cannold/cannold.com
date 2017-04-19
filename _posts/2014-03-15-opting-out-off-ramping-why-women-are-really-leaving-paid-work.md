@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-03-15
 tags: ~
 title: 'Opting-Out? Off-Ramping? Why women are really leaving paid work '

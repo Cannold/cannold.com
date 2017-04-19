@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-01-20
 tags: ~
 title: Leslie on the BBB Executives who turned a blind eye to Saville

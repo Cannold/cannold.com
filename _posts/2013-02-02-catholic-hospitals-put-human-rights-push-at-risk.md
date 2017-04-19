@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-02-02
 tags: ~
 title: 'Catholic Hospitals Put Human Rights Push at Risk '

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-08-17
 tags: ~
 title: 'How Women Stood up for Themselves and Changed the Law of Abortion '

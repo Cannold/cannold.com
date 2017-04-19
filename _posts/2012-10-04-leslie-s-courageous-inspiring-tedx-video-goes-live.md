@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-10-04
 tags: ~
 title: Leslie's Courageous & Inspiring TEDx Video Goes Live

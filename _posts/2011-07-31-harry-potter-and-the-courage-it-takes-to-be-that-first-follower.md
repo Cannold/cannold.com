@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-31
 tags: ~
 title: 'Harry Potter and the Courage it takes to be that First Follower '

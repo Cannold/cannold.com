@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-04-10
 tags: ~
 title: Safe Sex Means Just That

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-21
 tags: ~
 title: The ugly face of child beauty pageants

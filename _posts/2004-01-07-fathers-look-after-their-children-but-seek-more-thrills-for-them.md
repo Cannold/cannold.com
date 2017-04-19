@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2004-01-07
 tags: ~
 title: Fathers look after their children, but seek more thrills for them

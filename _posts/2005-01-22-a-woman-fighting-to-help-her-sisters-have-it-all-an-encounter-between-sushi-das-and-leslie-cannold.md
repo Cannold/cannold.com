@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-01-22
 tags: ~
 title: 'A Woman Fighting to Help her Sisters Have it All: an encounter between   Sushi

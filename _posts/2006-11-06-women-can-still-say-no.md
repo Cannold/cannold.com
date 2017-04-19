@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-11-06
 tags: ~
 title: "Women can still say â\x80\x9Cnoâ\x80\x9D"

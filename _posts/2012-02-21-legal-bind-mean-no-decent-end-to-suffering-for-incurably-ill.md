@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-02-21
 tags: ~
 title: 'Legal bind mean no decent end to suffering for incurably ill '

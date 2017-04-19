@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-05-14
 tags: ~
 title: Leslie talks to Australian Doctor

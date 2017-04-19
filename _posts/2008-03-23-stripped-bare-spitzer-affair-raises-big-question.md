@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-03-23
 tags: ~
 title: Stripped bare, Spitzer affair raises big question

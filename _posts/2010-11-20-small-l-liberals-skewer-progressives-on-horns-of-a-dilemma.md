@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-11-20
 tags: ~
 title: Small-L Liberals Skewer Progressives on Horns of a Dilemma

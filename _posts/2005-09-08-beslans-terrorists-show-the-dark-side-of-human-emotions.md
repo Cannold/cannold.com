@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-09-08
 tags: ~
 title: "Beslanâ\x80\x99s Terrorists Show the Dark Side of Human Emotions"

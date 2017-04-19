@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-14
 tags: ~
 title: 'Leslie''s Q & A Tweets "Intelligent Missives" '

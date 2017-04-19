@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-05-20
 tags: ~
 title: Paid Leave for Organ Donation Needs Monitoring

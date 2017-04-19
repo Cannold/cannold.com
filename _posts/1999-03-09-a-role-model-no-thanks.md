@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-03-09
 tags: ~
 title: A role model? No thanks

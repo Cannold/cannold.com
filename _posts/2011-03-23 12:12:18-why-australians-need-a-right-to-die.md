@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:18
 tags: ~
 title: Why Australians Need a Right to Die

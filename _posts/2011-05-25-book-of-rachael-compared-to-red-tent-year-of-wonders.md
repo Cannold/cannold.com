@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-25
 tags: ~
 title: Book of Rachael Compared to Red Tent & Year of Wonders

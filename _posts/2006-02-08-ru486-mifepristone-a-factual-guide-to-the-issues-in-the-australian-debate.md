@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-02-08
 tags: ~
 title: 'RU486/Mifepristone: A factual guide to the issues in the Australian debate'

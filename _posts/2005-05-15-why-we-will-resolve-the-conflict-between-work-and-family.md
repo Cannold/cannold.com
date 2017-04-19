@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-05-15
 tags: ~
 title: Why We Will Resolve the Conflict Between Work and Family

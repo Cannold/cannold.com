@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-04-28
 tags: ~
 title: "A motherâ\x80\x99s birthright"

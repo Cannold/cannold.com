@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-11-14
 tags: ~
 title: It Matters Who You Are, and Where You Come From

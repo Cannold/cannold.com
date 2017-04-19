@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2001-06-06
 tags: ~
 title: "Staying mumâ\x80\x99s a cop-out"

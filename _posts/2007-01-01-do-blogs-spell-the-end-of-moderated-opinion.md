@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-01-01
 tags: ~
 title: Do Blogs Spell the End of Moderated Opinion?

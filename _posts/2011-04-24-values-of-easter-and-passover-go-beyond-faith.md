@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-24
 tags: ~
 title: 'Values of Easter and Passover Go Beyond Faith '

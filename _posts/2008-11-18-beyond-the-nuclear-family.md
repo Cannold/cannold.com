@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-11-18
 tags: ~
 title: Beyond the Nuclear Family

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-09-20
 tags: ~
 title: Legal Safeguards Can Make Euthanasia A Legitimate Option

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-06-26
 tags: ~
 title: 'Accusers, Abusers and Excusers: The Dreyfus Affair Revisited'

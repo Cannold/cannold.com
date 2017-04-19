@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-09-13
 tags: ~
 title: Leslie Replies to Kate Gleeson

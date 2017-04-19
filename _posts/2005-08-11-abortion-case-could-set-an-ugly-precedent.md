@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-08-11
 tags: ~
 title: Abortion case could set an ugly precedent

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:11
 tags: ~
 title: "Does she or doesnâ\x80\x99t she? And why does she always lie?"

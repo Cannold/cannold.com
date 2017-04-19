@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-11-23
 tags: ~
 title: Dumpers and Martyrs and None of Us Saints

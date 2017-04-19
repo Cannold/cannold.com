@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2015-12-24
 tags: ~
 title: 'Divorce - Because you deserve it '

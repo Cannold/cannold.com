@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-06-10
 tags: ~
 title: 'Leslie Wins EVA award for Column on Sexual Assault '

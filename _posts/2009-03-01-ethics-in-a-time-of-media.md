@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-03-01
 tags: ~
 title: Ethics in a Time of Media

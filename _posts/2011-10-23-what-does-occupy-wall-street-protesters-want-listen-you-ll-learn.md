@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-10-23
 tags: ~
 title: 'What Does Occupy Wall Street Protesters want? Listen & you''ll learn '

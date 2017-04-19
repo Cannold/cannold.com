@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-31
 tags: ~
 title: The Joy of Conversing with Richard Fidler

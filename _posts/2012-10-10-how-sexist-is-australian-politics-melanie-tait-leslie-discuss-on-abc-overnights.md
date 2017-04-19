@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-10-10
 tags: ~
 title: How Sexist is Australian Politics? Melanie Tait & Leslie discuss on ABC Overnights

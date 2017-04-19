@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-06-29
 tags: ~
 title: Leslie Nominated for Big Bang Blog & Tweet Prize

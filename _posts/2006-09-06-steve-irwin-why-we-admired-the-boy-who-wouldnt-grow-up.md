@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-09-06
 tags: ~
 title: "Steve Irwin: Why we admired the boy who wouldnâ\x80\x99t grow up"

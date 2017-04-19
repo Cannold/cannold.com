@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-06-09
 tags: ~
 title: "Leslie Talks Men and Abortion on Radio JJJâ\x80\x99s Hack"

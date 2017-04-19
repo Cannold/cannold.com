@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-06-06
 tags: ~
 title: 'Progressive Social Movements: Is the end nigh?'

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-12-06
 tags: ~
 title: Kissing a Friend Goodbye

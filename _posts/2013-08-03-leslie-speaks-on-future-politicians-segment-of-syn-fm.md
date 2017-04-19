@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-08-03
 tags: ~
 title: Leslie speaks on Future Politicians Segment of SYN FM

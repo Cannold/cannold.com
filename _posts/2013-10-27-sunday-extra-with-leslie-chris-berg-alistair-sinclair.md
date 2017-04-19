@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-10-27
 tags: ~
 title: 'Sunday Extra with Leslie, Chris Berg & Alistair Sinclair '

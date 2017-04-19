@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-12-16
 tags: ~
 title: Voting Above the Line

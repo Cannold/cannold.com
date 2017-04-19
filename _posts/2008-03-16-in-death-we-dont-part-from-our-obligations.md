@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-03-16
 tags: ~
 title: "In Death We Donâ\x80\x99t Part from our Obligations"

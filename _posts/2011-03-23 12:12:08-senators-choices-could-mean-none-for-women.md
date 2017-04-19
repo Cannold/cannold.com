@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:08
 tags: ~
 title: "Senatorâ\x80\x99s choices could mean none for women"

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-08-09
 tags: ~
 title: "Leslie Interviewed by Fairfaxâ\x80\x99s Sunday Life Magazine"

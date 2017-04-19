@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-03-04
 tags: ~
 title: '"Is it right to Judge?" Friday Talkback on ABC RN Life Matters'

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-12-04
 tags: ~
 title: 'Declining Marriage Rates and Gender Inequity in Social Institutions: Towards

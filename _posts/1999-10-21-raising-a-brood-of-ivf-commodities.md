@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-10-21
 tags: ~
 title: Raising a brood of IVF commodities

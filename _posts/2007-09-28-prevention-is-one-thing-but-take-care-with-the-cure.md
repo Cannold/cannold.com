@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-09-28
 tags: ~
 title: Prevention is One Thing, But Take Care with the Cure

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-26
 tags: ~
 title: Gender-Bending on 774 Melbourne with Alan Brough

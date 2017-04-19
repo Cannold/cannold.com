@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-04-08
 tags: ~
 title: Leslie on Weekend Sunrise talking ethics of IVF & Sex-selection

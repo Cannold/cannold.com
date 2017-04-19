@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-08-13
 tags: ~
 title: Young Women Shocked by Chivalry?  - Leslie explains why

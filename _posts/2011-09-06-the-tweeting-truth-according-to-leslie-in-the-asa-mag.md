@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-09-06
 tags: ~
 title: The Tweeting Truth (according to Leslie) in the ASA Mag

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-07-11
 tags: ~
 title: !!perl/scalar:binary |

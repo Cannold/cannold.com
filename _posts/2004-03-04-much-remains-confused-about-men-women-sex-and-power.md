@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2004-03-04
 tags: ~
 title: Much Remains Confused about Men, Women, Sex and Power

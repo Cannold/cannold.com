@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-08-03
 tags: ~
 title: Lip Mag gives Book of Rachael a "strong woman" shout

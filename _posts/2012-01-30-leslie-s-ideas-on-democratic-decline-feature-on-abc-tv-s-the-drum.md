@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-01-30
 tags: ~
 title: Leslie's ideas on Democratic Decline feature on ABC TV's The Drum

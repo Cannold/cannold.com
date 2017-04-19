@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-09-09
 tags: ~
 title: Australians Battle Over Definition of Fatherhood

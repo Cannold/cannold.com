@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-04-09
 tags: ~
 title: 'A Grand Example of a Perfect Role Model '

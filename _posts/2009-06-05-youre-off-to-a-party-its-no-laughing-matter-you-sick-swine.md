@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-06-05
 tags: ~
 title: "Youâ\x80\x99re Off to a Party? Its no Laughing Matter, You Sick Swine"

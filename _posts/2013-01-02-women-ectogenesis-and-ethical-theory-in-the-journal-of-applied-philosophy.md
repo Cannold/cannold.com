@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-01-02
 tags: ~
 title: 'Women, Ectogenesis and Ethical Theory in the Journal of Applied Philosophy '

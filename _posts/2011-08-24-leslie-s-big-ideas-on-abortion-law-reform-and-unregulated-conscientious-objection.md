@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-08-24
 tags: ~
 title: 'Leslie''s Big Ideas on Abortion Law Reform and Unregulated Conscientious Objection '

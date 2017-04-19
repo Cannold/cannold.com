@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-04-05
 tags: ~
 title: Role of Big Pharma in question after half a century of the pill

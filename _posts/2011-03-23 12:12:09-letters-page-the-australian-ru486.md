@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:09
 tags: ~
 title: Letters Page, The Australian, RU486

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-02-03
 tags: ~
 title: Education Ethics bigger than public versus private

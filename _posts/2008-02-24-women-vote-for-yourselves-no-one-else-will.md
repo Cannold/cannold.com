@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-02-24
 tags: ~
 title: Women, vote for yourselves - no one else will

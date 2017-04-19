@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-02-26
 tags: ~
 title: Bottoms up, sister!

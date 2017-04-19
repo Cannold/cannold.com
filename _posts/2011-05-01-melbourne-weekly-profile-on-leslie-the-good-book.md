@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-01
 tags: ~
 title: 'Melbourne Weekly Profile on Leslie & The Good Book '

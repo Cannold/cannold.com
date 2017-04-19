@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-04-04
 tags: ~
 title: "Who Owns A Dead Manâ\x80\x99s Sperm?"

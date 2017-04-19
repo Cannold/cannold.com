@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-10-12
 tags: ~
 title: 'Why Women Don''t Report Rape on The Circle '

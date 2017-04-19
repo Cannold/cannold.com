@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-16
 tags: ~
 title: 'Age Review - The Gospel According to the Long-Lost Sister '

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-05-03
 tags: ~
 title: We Must Respect the Wrong Decision

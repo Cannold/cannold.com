@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-09-10
 tags: ~
 title: Conscience Rights Must Be a Two-Way Street

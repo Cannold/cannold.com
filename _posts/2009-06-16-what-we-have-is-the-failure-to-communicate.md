@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-06-16
 tags: ~
 title: What we Have is the Failure to Communicate

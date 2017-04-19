@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-01-01
 tags: ~
 title: 'Leslie Warns Against Commericial Surrogacy '

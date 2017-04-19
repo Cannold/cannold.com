@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-06-15
 tags: ~
 title: Feel Good, Do Good - The Merry Makers

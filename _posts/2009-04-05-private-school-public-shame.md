@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-04-05
 tags: ~
 title: Private School, Public Shame

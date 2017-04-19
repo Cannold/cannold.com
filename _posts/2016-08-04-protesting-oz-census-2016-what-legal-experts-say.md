@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2016-08-04
 tags: ~
 title: 'Protesting Oz Census 2016: What Legal Experts Say '

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-05-07
 tags: ~
 title: 'Sex and the Teacher: Was Justice Done?'

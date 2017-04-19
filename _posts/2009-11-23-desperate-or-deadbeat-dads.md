@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-11-23
 tags: ~
 title: Desperate or Deadbeat Dads?

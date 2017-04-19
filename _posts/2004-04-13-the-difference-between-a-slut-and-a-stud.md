@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2004-04-13
 tags: ~
 title: The Difference between a Slut and a Stud

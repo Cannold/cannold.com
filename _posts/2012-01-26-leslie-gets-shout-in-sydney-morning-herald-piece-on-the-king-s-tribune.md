@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-01-26
 tags: ~
 title: 'Leslie gets shout in Sydney Morning Herald piece on The King''s Tribune '

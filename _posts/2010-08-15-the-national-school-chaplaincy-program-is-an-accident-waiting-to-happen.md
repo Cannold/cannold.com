@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-08-15
 tags: ~
 title: The National School Chaplaincy Program Is an Accident Waiting to Happen

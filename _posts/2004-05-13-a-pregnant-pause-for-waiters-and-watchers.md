@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2004-05-13
 tags: ~
 title: A Pregnant Pause for Waiters and Watchers

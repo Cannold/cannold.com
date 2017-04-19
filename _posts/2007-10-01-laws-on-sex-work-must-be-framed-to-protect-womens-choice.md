@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-10-01
 tags: ~
 title: "Laws on Sex Work Must be Framed to Protect Womenâ\x80\x99s Choice"

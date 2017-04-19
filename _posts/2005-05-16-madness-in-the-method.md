@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-05-16
 tags: ~
 title: Madness in the Method

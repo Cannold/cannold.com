@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-08-16
 tags: ~
 title: 'Why you need to know what you don''t know to write well '

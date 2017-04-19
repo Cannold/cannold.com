@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-09-07
 tags: ~
 title: "PMâ\x80\x99s Cheap Answer to School Problems"

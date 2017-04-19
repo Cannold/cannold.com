@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-07-07
 tags: ~
 title: The Horrible Dilemma of the Pregnant Woman

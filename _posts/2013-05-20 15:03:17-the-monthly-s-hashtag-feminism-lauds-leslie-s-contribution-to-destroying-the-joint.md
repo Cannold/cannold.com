@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-05-20 15:03:17
 tags: ~
 title: The Monthly's Hashtag Feminism lauds Leslie's Contribution to Destroying the

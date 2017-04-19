@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-12-14
 tags: ~
 title: Torturing Others Does Most Harm to Us

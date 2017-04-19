@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-09-12
 tags: ~
 title: Burlesque evokes a repressive past, not a liberating present

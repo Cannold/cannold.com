@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-10-05
 tags: ~
 title: Domestic Violence is a Two-Way Street

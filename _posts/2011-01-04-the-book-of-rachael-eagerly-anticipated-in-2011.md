@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-01-04
 tags: ~
 title: The Book of Rachael Eagerly Anticipated in 2011

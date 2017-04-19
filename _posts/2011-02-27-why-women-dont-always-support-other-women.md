@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-02-27
 tags: ~
 title: "Why Women Donâ\x80\x99t Always Support Other Women"

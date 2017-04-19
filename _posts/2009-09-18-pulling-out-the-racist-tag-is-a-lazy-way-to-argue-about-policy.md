@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-09-18
 tags: ~
 title: Pulling Out the Racist Tag is a Lazy Way to Argue About Policy

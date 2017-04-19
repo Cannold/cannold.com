@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-02-15
 tags: ~
 title: There is a Case for Staying the Course

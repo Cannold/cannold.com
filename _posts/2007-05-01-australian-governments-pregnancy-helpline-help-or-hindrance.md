@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-05-01
 tags: ~
 title: "Australian Governmentâ\x80\x99s Pregnancy â\x80\x9CHelplineâ\x80\x9D - Help

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-12-21
 tags: ~
 title: Lars and the Real Girl Show Us the Way

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-11-07
 tags: ~
 title: 'Dangerous Remedy & the Heroism of the 1st Abortion Rights Activists '

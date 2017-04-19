@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-04
 tags: ~
 title: ABC Darwin - The Guestroom

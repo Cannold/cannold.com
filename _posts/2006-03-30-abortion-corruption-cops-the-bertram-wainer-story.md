@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-03-30
 tags: ~
 title: 'Abortion, Corruption & Cops: The Bertram Wainer Story'

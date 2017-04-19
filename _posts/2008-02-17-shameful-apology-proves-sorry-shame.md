@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-02-17
 tags: ~
 title: Shameful Apology Proves Sorry Shame

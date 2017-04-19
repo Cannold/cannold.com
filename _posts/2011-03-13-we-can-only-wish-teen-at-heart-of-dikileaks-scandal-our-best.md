@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-13
 tags: ~
 title: We Can Only Wish Teen at Heart of Dikileaks Scandal Our Best

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-12-11
 tags: ~
 title: 'Prestigious US Publisher''s Weekly raves about The Book of Rachael '

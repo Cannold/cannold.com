@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-08-31
 tags: ~
 title: Heavy Cross to Bear for Gay Donors

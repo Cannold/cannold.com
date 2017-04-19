@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-07-27
 tags: ~
 title: Teaching our Kids the Difference Between Science and Faith

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-11
 tags: ~
 title: Leslie Co-Hosts The Conversation Hour with Raphael Epstein

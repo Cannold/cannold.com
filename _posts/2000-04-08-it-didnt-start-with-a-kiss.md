@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-04-08
 tags: ~
 title: "It didnâ\x80\x99t start with a kissâ\x80¦"

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-12-05
 tags: ~
 title: Lift the Ban on RU486!

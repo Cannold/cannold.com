@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-11-20
 tags: ~
 title: 'The Fat And Skinny Of Desiring Your Spouse '

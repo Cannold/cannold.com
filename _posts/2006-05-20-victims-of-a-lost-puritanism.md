@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-05-20
 tags: ~
 title: Victims of a Lost Puritanism

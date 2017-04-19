@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-08-15
 tags: ~
 title: The Sins of Scholarship

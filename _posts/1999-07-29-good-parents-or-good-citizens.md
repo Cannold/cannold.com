@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-07-29
 tags: ~
 title: Good parents or good citizens?

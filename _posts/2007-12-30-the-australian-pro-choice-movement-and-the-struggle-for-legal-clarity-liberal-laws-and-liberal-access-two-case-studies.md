@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-12-30
 tags: ~
 title: 'The Australian Pro-Choice Movement and the Struggle for Legal Clarity, Liberal

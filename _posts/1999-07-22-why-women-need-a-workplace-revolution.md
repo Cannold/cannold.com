@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-07-22
 tags: ~
 title: Why women need a workplace revolution

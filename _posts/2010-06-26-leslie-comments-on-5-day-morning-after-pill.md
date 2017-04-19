@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-06-26
 tags: ~
 title: Leslie Comments on 5 Day Morning After Pill

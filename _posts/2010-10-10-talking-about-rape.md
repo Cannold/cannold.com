@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-10-10
 tags: ~
 title: Talking About Rape

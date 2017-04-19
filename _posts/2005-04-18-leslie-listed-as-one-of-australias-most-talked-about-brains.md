@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-04-18
 tags: ~
 title: "Leslie listed as one of Australiaâ\x80\x99s \"most talked about brains\""

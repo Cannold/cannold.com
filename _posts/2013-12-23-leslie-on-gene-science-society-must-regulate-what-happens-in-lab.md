@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-12-23
 tags: ~
 title: 'Leslie on Gene Science: Society Must Regulate What Happens in Lab '

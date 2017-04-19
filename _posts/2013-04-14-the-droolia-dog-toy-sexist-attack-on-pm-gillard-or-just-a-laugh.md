@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-04-14
 tags: ~
 title: 'The "Droolia" Dog Toy: Sexist Attack on PM Gillard or Just A Laugh?'

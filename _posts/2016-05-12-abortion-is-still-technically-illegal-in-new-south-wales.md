@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2016-05-12
 tags: ~
 title: 'Abortion is still "technically illegal" in New South Wales '

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2014-01-11
 tags: ~
 title: 'Leslie and her Labrador Learn about Judging & Being Judgemental '

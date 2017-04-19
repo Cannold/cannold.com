@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-05-09
 tags: ~
 title: Full disclosure for pregnancy counselling services

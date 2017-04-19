@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-02-26
 tags: ~
 title: "Leslie Cannoldâ\x80\x99s original ideas about choice may put her odds with

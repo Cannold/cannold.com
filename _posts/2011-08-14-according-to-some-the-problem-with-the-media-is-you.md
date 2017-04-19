@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-08-14
 tags: ~
 title: According to some, the problem with the media is YOU

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-07-20
 tags: ~
 title: FairtTrade is Fair Enough

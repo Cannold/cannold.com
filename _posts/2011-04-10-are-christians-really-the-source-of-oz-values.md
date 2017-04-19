@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-10
 tags: ~
 title: 'Are Christians Really the Source of Oz Values? '

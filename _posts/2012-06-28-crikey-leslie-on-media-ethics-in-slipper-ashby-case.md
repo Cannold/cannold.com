@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2012-06-28
 tags: ~
 title: 'Crikey! Leslie on Media Ethics in Slipper-Ashby case '

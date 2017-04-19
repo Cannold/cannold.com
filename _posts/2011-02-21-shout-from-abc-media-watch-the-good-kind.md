@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-02-21
 tags: ~
 title: Shout from ABC Media Watch (the good kind)

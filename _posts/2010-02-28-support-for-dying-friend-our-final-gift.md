@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-02-28
 tags: ~
 title: Support for Dying Friend our Final Gift

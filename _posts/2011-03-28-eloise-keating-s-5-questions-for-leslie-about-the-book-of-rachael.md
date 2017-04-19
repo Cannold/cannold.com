@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-28
 tags: ~
 title: Eloise Keating's 5 Questions for Leslie about The Book of Rachael

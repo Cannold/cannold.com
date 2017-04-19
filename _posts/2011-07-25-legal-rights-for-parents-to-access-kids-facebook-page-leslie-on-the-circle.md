@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-25
 tags: ~
 title: 'Legal Rights for Parents to Access Kids'' Facebook Page? Leslie on The Circle '

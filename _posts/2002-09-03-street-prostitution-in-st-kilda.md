@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2002-09-03
 tags: ~
 title: Street Prostitution in St Kilda

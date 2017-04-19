@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-02-01
 tags: ~
 title: Let Us Decide for Ourselves on Euthanasia

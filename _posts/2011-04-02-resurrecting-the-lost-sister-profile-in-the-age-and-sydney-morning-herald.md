@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-02
 tags: ~
 title: 'Resurrecting the Lost Sister - Profile in the Age and Sydney Morning Herald '

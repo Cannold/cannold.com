@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-01-21
 tags: ~
 title: Centennial Warriors by Elizabeth Kehoe

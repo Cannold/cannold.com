@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-01-05
 tags: ~
 title: On the Blogosphere

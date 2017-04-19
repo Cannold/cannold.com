@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-10-25
 tags: ~
 title: Something Mad About Refugee Policies

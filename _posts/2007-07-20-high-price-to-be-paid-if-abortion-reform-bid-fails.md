@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-07-20
 tags: ~
 title: High price to be paid if abortion reform bid fails

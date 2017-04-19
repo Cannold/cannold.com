@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-17
 tags: ~
 title: 'News without Ethics: Media the Murdoch Way'

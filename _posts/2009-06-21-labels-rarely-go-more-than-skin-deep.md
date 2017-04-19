@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-06-21
 tags: ~
 title: Labels Rarely Go More Than Skin-Deep

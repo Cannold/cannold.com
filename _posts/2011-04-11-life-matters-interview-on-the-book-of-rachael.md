@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-11
 tags: ~
 title: Life Matters Interview on The Book of Rachael

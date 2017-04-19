@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-01-08
 tags: ~
 title: "Allâ\x80\x99s Fair in the Battle of Ideas"

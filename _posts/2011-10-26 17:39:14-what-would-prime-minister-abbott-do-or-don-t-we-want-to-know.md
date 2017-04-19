@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-10-26 17:39:14
 tags: ~
 title: What would Prime Minister Abbott do? (or don't we want to know?)

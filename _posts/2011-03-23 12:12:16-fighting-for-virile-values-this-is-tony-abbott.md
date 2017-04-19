@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-23 12:12:16
 tags: ~
 title: Fighting for Virile Values - This is Tony Abbott

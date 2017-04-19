@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-02-19
 tags: ~
 title: 'Does Australia Need A National Integrity Day? '

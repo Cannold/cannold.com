@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-01-06
 tags: ~
 title: "Look at Yourself, Before Itâ\x80\x99s Too Late"

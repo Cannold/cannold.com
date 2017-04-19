@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-07-13
 tags: ~
 title: "Donâ\x80\x99t trust politicians with your human rights"

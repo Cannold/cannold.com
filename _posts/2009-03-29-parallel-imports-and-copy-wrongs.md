@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-03-29
 tags: ~
 title: Parallel Imports and Copy Wrongs

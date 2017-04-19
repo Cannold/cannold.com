@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-03-15
 tags: ~
 title: The Age reviews The Global Atheist Conference

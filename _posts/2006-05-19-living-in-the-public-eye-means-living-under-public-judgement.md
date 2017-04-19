@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2006-05-19
 tags: ~
 title: Living in the public eye means living under public judgement

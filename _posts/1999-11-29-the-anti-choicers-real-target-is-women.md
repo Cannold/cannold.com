@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 1999-11-29
 tags: ~
 title: "The anti-choicersâ\x80\x99 real target is women"

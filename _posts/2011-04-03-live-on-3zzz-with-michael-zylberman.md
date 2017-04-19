@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-03
 tags: ~
 title: Live on 3ZZZ with Michael Zylberman

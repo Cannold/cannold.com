@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-08-18
 tags: ~
 title: Backhanded Compliment?

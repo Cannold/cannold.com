@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2009-10-11
 tags: ~
 title: Betrayal and the Shocking Lies of Rex Crane

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-03-09
 tags: ~
 title: Stand Up and Shoulder the Consequences

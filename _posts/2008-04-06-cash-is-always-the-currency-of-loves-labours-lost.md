@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-04-06
 tags: ~
 title: "Cash is Always the Currency of Loveâ\x80\x99s Labours Lost"

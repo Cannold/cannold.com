@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-10-02
 tags: ~
 title: 'Line between censors and sensibility a clear one '

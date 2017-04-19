@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-02
 tags: ~
 title: 'The Weekly Review on The Book of Rachael '

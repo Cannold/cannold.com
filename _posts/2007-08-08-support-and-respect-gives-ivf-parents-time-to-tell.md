@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-08-08
 tags: ~
 title: Support and Respect Gives IVF Parents Time to Tell

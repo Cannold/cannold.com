@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2005-10-27
 tags: ~
 title: Leslie elected to the board of Family Planning Victoria

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-03-24
 tags: ~
 title: 'ADF Facebook Racism Scandal - Leslie talks to 7News '

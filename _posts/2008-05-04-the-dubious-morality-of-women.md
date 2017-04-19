@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-05-04
 tags: ~
 title: The Dubious Morality of Women

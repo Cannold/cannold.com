@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-05-18
 tags: ~
 title: Why Parental Leave is a Moral Issue

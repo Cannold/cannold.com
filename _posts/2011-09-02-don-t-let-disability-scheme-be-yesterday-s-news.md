@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-09-02
 tags: ~
 title: 'Don''t Let Disability Scheme Be Yesterday''s News '

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2000-02-12
 tags: ~
 title: 'School hours: did feminism drop the ball?'

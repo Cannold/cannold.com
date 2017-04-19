@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-06-27
 tags: ~
 title: What the First Female PM Means for Australian Women

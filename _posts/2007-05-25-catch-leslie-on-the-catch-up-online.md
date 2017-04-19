@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2007-05-25
 tags: ~
 title: Catch Leslie on the Catch-Up Online

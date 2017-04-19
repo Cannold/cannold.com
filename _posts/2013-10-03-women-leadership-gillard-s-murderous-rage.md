@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-10-03
 tags: ~
 title: 'Women, Leadership & Gillard''s "Murderous Rage" '

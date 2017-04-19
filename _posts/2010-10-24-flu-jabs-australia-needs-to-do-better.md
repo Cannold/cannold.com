@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2010-10-24
 tags: ~
 title: Flu Jabs - Australia Needs to Do Better

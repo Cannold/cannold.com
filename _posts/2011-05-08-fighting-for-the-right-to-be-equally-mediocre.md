@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-05-08
 tags: ~
 title: Fighting for the Right to be Equally Mediocre

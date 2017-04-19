@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2016-08-09
 tags: ~
 title: 'What if Men Got Pregnant - Leslie Live in Denmark at #WD2016 '

@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2013-12-20
 tags: ~
 title: 'We will be able to reverse the ageing process, but should we? '

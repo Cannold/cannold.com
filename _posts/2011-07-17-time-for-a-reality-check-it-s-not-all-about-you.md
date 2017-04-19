@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-07-17
 tags: ~
 title: Time for a Reality Check - It's not all about you

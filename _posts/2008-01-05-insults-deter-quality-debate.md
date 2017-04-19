@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2008-01-05
 tags: ~
 title: Insults Deter Quality Debate

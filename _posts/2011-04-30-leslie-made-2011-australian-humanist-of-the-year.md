@@ -1,6 +1,5 @@
 ---
 assets: ~
-excerpt: ''
 published: 2011-04-30
 tags: ~
 title: 'Leslie made 2011 Australian Humanist of the Year '
