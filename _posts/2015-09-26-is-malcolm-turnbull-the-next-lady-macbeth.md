@@ -1,4 +1,5 @@
 ---
+layout: posts
 assets: ~
 excerpt: '*The ambitions of men and women in politics are still treated differently.
   Look at Malcolm Turnbull and Julie Bishop*'

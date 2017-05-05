@@ -1,4 +1,5 @@
 ---
+layout: posts
 assets: ~
 excerpt: 'As Leslie''s Tedx Talk on abortion stigma nears 30,000 views and has been
   featured on Speakola, and in the run-up to her 6 minutes on stage in Copenhagen
@@ -11,7 +12,7 @@ excerpt_separator: <!--more-->
 ---
 https://www.youtube.com/watch?v=FxI6HGpaP3Q
 
-I had an abortion. Or maybe I didn’t. Why does it matter? 
+I had an abortion. Or maybe I didn’t. Why does it matter?
 
 Abortion shame is very zeitgeist at the moment. Or, more precisely and far more happily, anti-shame is very zeitgeist. In The New York Times, in a number of online magazines and on websites like 1 in 3, 45 Million Voices and Exhale women are speaking out. They’re resisting the shame by breaking their silence about their abortions.
 

@@ -1,4 +1,5 @@
 ---
+layout: posts
 assets: ~
 published: 2016-08-09
 tags: ~

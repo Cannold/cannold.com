@@ -1,4 +1,5 @@
 ---
+layout: posts
 assets: ~
 excerpt: 'The scripture debate is distracting us from the simple truth that all kids
   need to be taught ethics at school '

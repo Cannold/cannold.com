@@ -1,4 +1,5 @@
 ---
+layout: posts
 assets: ~
 excerpt: 'Leslie Cannold for the Ethics Centre'
 published: 2016-05-03
