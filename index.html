@@ -386,7 +386,21 @@
 					<div class="section center nobottommargin">
 						<div class="container clearfix">
 
-							<h3>Pop over to the blog and dive deep into the thoroughly insightful mind of Dr.Leslie Cannold with a collection of blog posts exploring a wide variety of topics</h3>
+							<h1>Recently from the blog</h1>
+
+							{% for post in site.posts limit:4 %}
+							<a href="{{ post.url }}">
+	                 <h3>{{ post.title }}</h3>
+									 <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+							 <div>{{ post.excerpt |truncatehtml | truncatewords: 60 }}</div>
+							 </a>
+					{% endfor %}
+					 </ul>
+
+
+							<h1>Pop over to the blog and dive deeper into the thoroughly insightful mind of Dr.Leslie Cannold with a collection of blog posts exploring a wide variety of topics</h1>
+
+
 
 								<a href="/index.html" class="btn btn-default topmargin-sm centre uppercase">Go to the blog&rArr;</a>
 
