@@ -379,26 +379,65 @@
         </div>
 
 
-				<div id="section-blog" class="page-section nobottompadding">
+				<div id="section-blog" class="page-section">
 
-					<h2 class="center uppercase t300 ls3 font-body">Leslie's Blog</h2>
+	<h2 class="center uppercase t300 ls3 font-body">Recently From the Blog</h2>
 
-					<div class="section center nobottommargin">
-						<div class="container clearfix">
+	<div class="section nobottommargin">
+		<div class="container clearfix">
 
-							<h1>Recently from the blog</h1>
+			<div class="row topmargin clearfix">
+
+
+{% for post in site.posts limit:6 %}
+				<div class="ipost col-sm-6 bottommargin clearfix">
+					<div class="row">
+						<div class="col-md-6" style="margin-top: 20px;">
+							<span class="before-heading" style="font-style: normal;">Press &amp; Media</span>
+
+							<div class="entry-title">
+								<h3 class="t400" style="font-size: 22px;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+							</div>
+
+							<div class="entry-content">
+
+	<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+<div>{{ post.excerpt |truncatehtml | truncatewords: 20 }}</div>
+
+								<a href="#" class="more-link">Read more <i class="icon-angle-right"></i></a>
+							</div>
+
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+
+
+
+
+			</div>
+
+		</div>
+	</div>
+
+
+
+
 
 							{% for post in site.posts limit:4 %}
 							<a href="{{ post.url }}">
-	                 <h3>{{ post.title }}</h3>
+	                 <h3><u><b>{{ post.title }}</b></u></h3>
 									 <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
 							 <div>{{ post.excerpt |truncatehtml | truncatewords: 60 }}</div>
+							 <br>
+							 <br>
+							 <br>
 							 </a>
 					{% endfor %}
 					 </ul>
 
 
-							<h1>Pop over to the blog and dive deeper into the thoroughly insightful mind of Dr.Leslie Cannold with a collection of blog posts exploring a wide variety of topics</h1>
+							<h4>Pop over to the blog and dive deeper into the thoroughly insightful mind of Dr.Leslie Cannold with a collection of blog posts exploring a wide variety of topics</h4>
 
 
 
