@@ -28,12 +28,14 @@
   {% for post in paginator.posts %}
    <div class="entry clearfix">
 			<div class="entry-title">
-				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+				<h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
 			</div>
 			<ul class="entry-meta clearfix">
 			<li><i class="icon-calendar3"></i>{{ post.date | date: "%b %d, %Y" }}</li>
 			<li><i class="icon-folder-open"></i> <a href="#">General</a>, <a href="#">Media</a></li>
 		</ul>
+
+
 
 	  <div class="entry-content">
 		{{ post.excerpt }} <br></br>
@@ -43,6 +45,8 @@
    </div>
 
 {% endfor %}
+
+
 
 
 <!-- Pagination links -->
@@ -64,4 +68,5 @@
             </div>
 					</div><!-- #posts end -->
      </section>
+
 <!--content end-->
