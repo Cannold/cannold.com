@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-08-17
-tag: writings
 title: Ethical Carnivores Care for Animals Too
 ---
 Have you heard about Lucy? The intensively-farmed sow with the

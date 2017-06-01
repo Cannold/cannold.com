@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2012-02-21
-tag: writings
 title: 'In China or the West - Look for the Power in Industrial Matters  '
 ---
 "Look for the power." I don't know if this was the first lesson my sociology professor taught me but it's the one I most remember. If you want to know why the world looks as it does, follow the power.

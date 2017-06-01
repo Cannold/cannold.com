@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-04-27
-tag: writings
 title: At 50, the Material Girl is Not to be Pitied
 ---
 Madonna turns 50 this year. Like every wheeze and fart in the

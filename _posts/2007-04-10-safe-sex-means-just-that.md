@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-04-10
-tag: writings
 title: Safe Sex Means Just That
 ---
 It is important we don’t miss the forest for the trees. As the Michael

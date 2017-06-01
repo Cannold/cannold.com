@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2014-04-09
-tag: writings
 title: 'A Grand Example of a Perfect Role Model '
 ---
 A FEW years ago a child I know walked into an interview for a coveted scholarship place at a competitive high school. Things were going well until the panel asked the 13-year-old to name a person she most admired. ''But,'' they stipulated, ''it can't be either of your parents.''

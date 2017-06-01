@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:16
-tag: writings
 title: Fighting for Virile Values - This is Tony Abbott
 ---
 Tony Abbott is said to be likeable. I believe it, though I’ve only met

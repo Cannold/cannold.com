@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-06-27
-tag: writings
 title: What the First Female PM Means for Australian Women
 ---
 *What does Australia’s first female PM mean for Australian women?

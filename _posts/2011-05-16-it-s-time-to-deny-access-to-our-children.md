@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-05-16
-tag: writings
 title: 'It''s Time to Deny ACCESS to our Children '
 ---
 Last week, Victorians were rocked by explosive revelations that ACCESS Ministries - the group that provides around 97 per cent of school chaplains and scripture volunteers in Victorian schools - has been using its privileged position in governments schools to "make disciples" of children as young as five.

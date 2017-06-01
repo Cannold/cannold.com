@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2012-11-07
-tag: writings
 title: 'Gillard''s Misogyny Speech - What Have We Learned? '
 ---
 The dust may finally have settled on the gender debate sparked by Alan Jones's ''destroy the joint'' comment and the viral spread of the Prime Minister's misogyny speech.

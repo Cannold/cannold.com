@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2004-02-11
-tag: writings
 title: Misconceptions in the Blame Cycle
 ---
 *Women must play and active role in protecting their sexual and

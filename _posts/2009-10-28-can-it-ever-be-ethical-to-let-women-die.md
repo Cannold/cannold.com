@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-10-28
-tag: writings
 title: Can it Ever be Ethical to Let Women Die?
 ---
 A disturbing trend is emerging in the writings of those opposed to legal

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: http://www.leadershipforwomen.com.au/transform/activism/considerations-for-australia-s-next-woman-prime-minister
 published: 2014-01-15
-tag: writings
 title: Leslie' Advice to Australia's Next Female PM
 ---
 Leslie joins Jane Caro and Natasha Stott-Despoja among others in considering the take-aways from Julia Gillard's tenure as Australia's first female PM and suggesting ways forward for the next generation of women leaders. 

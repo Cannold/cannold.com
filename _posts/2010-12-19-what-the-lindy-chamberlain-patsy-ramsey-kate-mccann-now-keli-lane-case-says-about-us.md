@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-12-19
-tag: writings
 title: What the Lindy Chamberlain, Patsy Ramsey, Kate McCann & now Keli Lane Case
   Says About Us
 ---

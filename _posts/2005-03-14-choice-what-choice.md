@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-03-14
-tag: writings
 title: Choice? What Choice?
 ---
 Women academics under-achieving has nothing to do with biology or

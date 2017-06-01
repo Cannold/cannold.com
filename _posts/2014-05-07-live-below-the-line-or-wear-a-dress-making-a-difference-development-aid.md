@@ -1,11 +1,11 @@
 ---
 assets: ~
+categories: writings
 excerpt: We don’t have to wait for Australian governments to act in the national interest
   when it comes to foreign development aid. We can do something to help our nearest
   neighbours now
 link: ''
 published: 2014-05-07
-tag: writings
 title: Live Below the Line or Wear a Dress - Making a Difference & Development Aid
 ---
 Much ink has been spilled since last week’s release of the Commission of Audit’s recommendations on reducing the nation’s spending. However, one piece of advice – likely to be implemented – has attracted scant notice. 

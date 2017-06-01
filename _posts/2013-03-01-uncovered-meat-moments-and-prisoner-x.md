@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: The Prisoner X case has raised questions about where Australian Jews' loyalties
   ultimately lie. Jewish leaders shouldn't let a teachable moment go to waste.
 link: ''
 published: 2013-03-01
-tag: writings
 title: 'Uncovered Meat Moments and Prisoner X '
 ---
 Once, a newspaper editor for whom I'd worked for years asked me to explain why Jewish people - usually so intelligent, politically astute and reasoned - were so irrational when it came to Israel.

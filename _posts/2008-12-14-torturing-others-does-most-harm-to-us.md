@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-12-14
-tag: writings
 title: Torturing Others Does Most Harm to Us
 ---
 Defenders of torture are fond of the ticking bomb scenario. It describes

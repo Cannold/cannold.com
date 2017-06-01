@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-11-23
-tag: writings
 title: Dumpers and Martyrs and None of Us Saints
 ---
 There were a lot of contenders for this week’s column. The inevitable

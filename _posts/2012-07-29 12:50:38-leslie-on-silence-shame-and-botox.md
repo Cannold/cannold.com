@@ -1,9 +1,9 @@
 ---
 assets: ~
+categories: writings
 excerpt: 'Liquid face-lifts are all the rage. So why don''t women *talk* about them? '
 link: ''
 published: 2012-07-29 12:50:38
-tag: writings
 title: 'Leslie on Silence, Shame and Botox '
 ---
 Why do some women hate others who use Botox and other ''liquid'' facelift techniques but give men who use the stuff a free pass?

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-09-18
-tag: writings
 title: Pulling Out the Racist Tag is a Lazy Way to Argue About Policy
 ---
 There is little evidence to support racial motives behind criticism of

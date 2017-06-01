@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2012-08-30
-tag: in-the-media
 title: A mature debate is OK - Leslie quoted on the Second Sexism
 ---
 DAVID Benatar knew what was coming. In the preface to his new book The Second Sexism, the South African professor attempted to get in first. ''It is worth pre-empting the joke that a book about discrimination against males must be a very short book,'' he wrote.

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2012-02-21
-tag: writings
 title: Chris Brown "Slap Tweets" Announce Next Gen of Victims
 ---
 THE tweets were reactions to Chris Brown's appearance at the Grammy Awards. All were variations on a theme: domestic violence. 

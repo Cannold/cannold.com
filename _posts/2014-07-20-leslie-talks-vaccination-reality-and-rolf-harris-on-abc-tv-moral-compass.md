@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2014-07-20
-tag: in-the-media
 title: Leslie talks vaccination, reality and Rolf Harris on ABC TV Moral Compass
 ---
 Geraldine Doogue debates the hot-button moral, ethical and religious controversies of our day in this smart and entertaining Compass series. Joined by a panel of experts they'll work out which way their moral compass is pointing on the controversies and dilemmas of our time - big and small - through the prism of faith and ethics.

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: http://www.mamamia.com.au/weblog/2011/05/book-review-the-book-of-rachael.html
 published: 2011-05-25
-tag: in-the-media
 title: Book of Rachael Compared to Red Tent & Year of Wonders
 ---
 Mamamia reviews T[he Book of Rachael](http://cannold.com/articles/article/the-book-of-rachael/). And the verdict is well good. 

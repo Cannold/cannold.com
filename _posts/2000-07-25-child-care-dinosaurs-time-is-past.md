@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2000-07-25
-tag: writings
 title: "Child-care dinosaursâ\x80\x99 time is past"
 ---
 Dated views about women and work are deservedly dying out.

@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: |-
   Spritely, sure-footed, rich with colour and authentic
   understanding of place, The Catch by first-time author Marg Vandeleur
@@ -8,7 +9,6 @@ excerpt: |-
   desperately-ticking women.
 link: ''
 published: 2005-04-09
-tag: writings
 title: 'Book review: The Catch'
 ---
 by Marg Vandeleur, Penguin. RRP $22.95

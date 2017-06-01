@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-11-18
-tag: writings
 title: Beyond the Nuclear Family
 ---
 Catch Leslie and a whole range of diverse families in this new

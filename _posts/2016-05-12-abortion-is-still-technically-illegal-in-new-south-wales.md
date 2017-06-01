@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2016-05-12
-tag: in-the-media
 title: 'Abortion is still "technically illegal" in New South Wales '
 ---
 Back in 1900, a group of politicians sat down and drafted up a set of laws to govern the Australian state of New South Wales. One can only assume they were wearing wigs. And there were, of course, things they decided weren't acceptable in polite, turn-of-the-century society. Probably a lot of stuff about stealing another man's horse.

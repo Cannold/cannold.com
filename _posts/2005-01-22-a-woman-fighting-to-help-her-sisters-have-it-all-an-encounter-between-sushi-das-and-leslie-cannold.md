@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2005-01-22
-tag: in-the-media
 title: 'A Woman Fighting to Help her Sisters Have it All: an encounter between   Sushi
   Das and Leslie Cannold'
 ---

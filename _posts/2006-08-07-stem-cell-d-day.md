@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: Late last year, the Lockhart Legislative Review Committee - the Federal Government’s
   own handpicked experts - handed down its recommendations on the fate of stem cell
   research in this country. Among other things, the Committee recommended lifting
@@ -9,7 +10,6 @@ excerpt: Late last year, the Lockhart Legislative Review Committee - the Federal
   meeting - otherwise known as Stem Cell D-Day - is today.
 link: ''
 published: 2006-08-07
-tag: writings
 title: Stem Cell D-Day
 ---
 Co-authored with Dr Elizabeth Finkel

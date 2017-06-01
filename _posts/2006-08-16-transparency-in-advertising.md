@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-08-16
-tag: writings
 title: Transparency in Advertising
 ---
 Hear Leslie discuss the lack of regulation prohibiting deceptive and

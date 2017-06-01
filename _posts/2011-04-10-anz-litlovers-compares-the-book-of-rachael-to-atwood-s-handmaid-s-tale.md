@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2011-04-10
-tag: in-the-media
 title: 'ANZ LitLovers Compares The Book of Rachael to Atwood''s Handmaid''s Tale '
 ---
 This is, unquestionably, the best book I’ve read in ages.  As you, my readers, know, I’ve read a lot of terrific books lately, but The Book of Rachael  is splendid.

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:16
-tag: writings
 title: "Baby Leave is not a Womenâ\x80\x99s Issue"
 ---
 The politics are stupendous. Tony Abbott, a former employment minister

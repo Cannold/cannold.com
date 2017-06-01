@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2004-03-04
-tag: writings
 title: Much Remains Confused about Men, Women, Sex and Power
 ---
 Here, there, women crying “rape” are everywhere. I worry about the

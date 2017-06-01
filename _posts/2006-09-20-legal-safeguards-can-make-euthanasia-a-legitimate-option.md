@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-09-20
-tag: writings
 title: Legal Safeguards Can Make Euthanasia A Legitimate Option
 ---
 *People should have the right to make choices about their own deaths.*

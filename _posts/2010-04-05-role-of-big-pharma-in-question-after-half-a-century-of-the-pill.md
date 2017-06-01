@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-04-05
-tag: writings
 title: Role of Big Pharma in question after half a century of the pill
 ---
 *An independent study is needed of the pill’s impact on women’s lives.*

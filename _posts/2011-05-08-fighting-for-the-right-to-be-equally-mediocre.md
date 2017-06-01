@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-05-08
-tag: writings
 title: Fighting for the Right to be Equally Mediocre
 ---
 A feminist is a person who believes the world should be gender-blind. Feminists believe that women - 51 per cent of the population - should be distributed throughout all levels of society in proportion to their numbers.

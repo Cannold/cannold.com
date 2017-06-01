@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-06-07
-tag: writings
 title: Where Rights, Medicine and Law Collide
 ---
 Last year an Australian woman undertook a medical procedure. This week

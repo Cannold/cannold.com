@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:18
-tag: writings
 title: "Abbott v Gillard: Believing in Whatâ\x80\x99s Awful, or Nothing at All"
 ---
 Here’s a question exercising some voters: What is worse? Casting one’s

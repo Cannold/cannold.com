@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2015-12-24
-tag: writings
 title: 'Divorce - Because you deserve it '
 ---
 I caught up with a girlfriend in New York recently. She gave me a rundown on the lives of those with whom we'd gone to school. "She's divorced", was a description attached to many, though I was struck by the implicit judgment that came with my friend's sad face and sigh. As if divorce was evidence of a failure of character and proof of a life lived less well. 

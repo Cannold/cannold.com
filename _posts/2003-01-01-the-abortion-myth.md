@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: books
 excerpt: The Abortion Myth forges a new women-centred abortion ethic capable of preserving
   a woman's right to control her body and her freedom to choose or reject motherhood.
 link: ''
 published: 2003-01-01
-tag: books
 title: The Abortion Myth
 ---
 [[The Abortion Myth cover art|class=right]] 

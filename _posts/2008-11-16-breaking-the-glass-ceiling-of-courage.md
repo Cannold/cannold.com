@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-11-16
-tag: writings
 title: Breaking the Glass Ceiling of Courage
 ---
 The Bali Bombers are dead. When news of the executions came over the

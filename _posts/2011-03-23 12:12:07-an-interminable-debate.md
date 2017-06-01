@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:07
-tag: writings
 title: An interminable debate
 ---
 Giving Sorrow Words, By Melinda Tankard-Reist, Duffy & Snellgrove,

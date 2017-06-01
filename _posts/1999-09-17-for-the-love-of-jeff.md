@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 1999-09-17
-tag: writings
 title: For the love of Jeff
 ---
 Victoria’s intellectuals are blind to the Premier’s popular appeal.

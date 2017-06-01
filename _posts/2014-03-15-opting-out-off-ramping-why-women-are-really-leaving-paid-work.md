@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: http://www.abc.net.au/news/2014-02-24/cannold-juggling-careers-childcare-and-choice/5278702
 published: 2014-03-15
-tag: writings
 title: 'Opting-Out? Off-Ramping? Why women are really leaving paid work '
 ---
 Words like "desire" and "choice" might be poor ways to describe circumscribed career moves that mothers make when trying to factor in childcare, writes Leslie Cannold.

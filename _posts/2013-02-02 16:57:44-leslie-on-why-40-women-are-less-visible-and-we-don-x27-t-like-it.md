@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2013-02-02 16:57:44
-tag: in-the-media
 title: 'Leslie on Why 40+ Women are Less Visible (and we don&#x27;t like it) '
 ---
 In a Dick Smith store early last year, a 58-year-old woman made a silent protest. "All the screens and sound systems were blaring. [The shop] was staffed by young men and I knew I was definitely never going to be served," posted "Airdre Grant" on the online news site The Hoopla.

@@ -1,12 +1,12 @@
 ---
 assets: ~
+categories: books
 excerpt: What if the man you loved betrayed your brother? Two thousand years ago,
   as a charismatic young preacher from Nazareth was gathering followers among the
   people of Galilee, his sister swept floors and dreamed of learning to read. In Leslie
   Cannold's story, it is the women of Nazareth who take centre stage.
 link: http://cannold.com/articles/article/nz-herald-on-sunday-cheers-the-book-of-rachael/
 published: 2011-07-03
-tag: books
 title: The Book of Rachael
 ---
 [[Book of Rachael cover art|class=right]]

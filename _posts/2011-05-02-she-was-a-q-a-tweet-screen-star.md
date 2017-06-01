@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2011-05-02
-tag: in-the-media
 title: She was a Q & A Tweet Screen Star
 ---
 Q&A attracts up to 20,000 tweets an episode, more than ABC staff can read.

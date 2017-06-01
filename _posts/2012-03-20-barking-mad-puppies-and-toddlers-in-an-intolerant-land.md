@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: 'This is the full text of the column, with my farewell and thanks to Moral
   Maze readers '
 link: http://www.theage.com.au/opinion/society-and-culture/barking-mad-tolerance-is-still-a-twoway-street-20120317-1vbsq.html
 published: 2012-03-20
-tag: writings
 title: 'Barking Mad - Puppies and Toddlers in an Intolerant Land '
 ---
 This is my last Moral Maze column. What better way to go out than with mongrels – the word we apply to unlovely people and to man’s best friend.

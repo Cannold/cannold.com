@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-04-11
-tag: writings
 title: Get Religion out of Government Schools, Please!
 ---
 A mother writes to me, torn with guilt about a decision she made about

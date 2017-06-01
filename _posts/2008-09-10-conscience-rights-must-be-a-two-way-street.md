@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-09-10
-tag: writings
 title: Conscience Rights Must Be a Two-Way Street
 ---
 Denying another’s freedom while exercising one’s own is hypocritical

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2012-06-28
-tag: in-the-media
 title: 'Crikey! Leslie on Media Ethics in Slipper-Ashby case '
 ---
 **Slipper, the staffer and the journalist: how close is too close?**

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-01-01
-tag: writings
 title: Do Blogs Spell the End of Moderated Opinion?
 ---
 Do blogs spell the end of moderated opinion? As expected, internet

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-05-09
-tag: writings
 title: Full disclosure for pregnancy counselling services
 ---
 Leslie was interviewed by Henry Grossek (Viewpoints) on [3SER 97.7

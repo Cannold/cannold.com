@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-02-17
-tag: writings
 title: Shameful Apology Proves Sorry Shame
 ---
 Talk about giving with one hand and taking with the other! There, in

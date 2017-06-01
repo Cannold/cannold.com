@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: Victoria's new Mental Health Act will move it from the back of the human
   rights bus to a leader in individually-empowering patient care
 link: ''
 published: 2014-03-15
-tag: writings
 title: 'Mental Health Reform - Why Victoria is the State to Watch '
 ---
 Victoria has the oldest mental health legislation in the country. In the wake of Victoria's Charter of Human Rights and Responsibilities and Australia's ratification of the United Nation conventions on the Rights of the Child and the Rights of Persons with Disabilities, a rights-oriented revamp was plainly required.

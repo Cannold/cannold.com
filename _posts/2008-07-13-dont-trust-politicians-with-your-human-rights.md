@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-07-13
-tag: writings
 title: "Donâ\x80\x99t trust politicians with your human rights"
 ---
 You might think I am the sort of person who has always favoured a

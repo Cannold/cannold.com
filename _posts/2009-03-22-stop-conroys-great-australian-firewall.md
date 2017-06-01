@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-03-22
-tag: writings
 title: "Stop Conroyâ\x80\x99s Great Australian Firewall"
 ---
 Fond of kiddy-fiddlers? A friend of the porn industry? You must be, if

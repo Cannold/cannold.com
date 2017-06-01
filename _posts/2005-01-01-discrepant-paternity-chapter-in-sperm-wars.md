@@ -1,11 +1,11 @@
 ---
 assets: ~
+categories: research
 excerpt: |-
   Walking Wallets and One-Stop Sperm Shops: How Men Fear That Women See
   Them in the Postmodern Reproductive Age
 link: ''
 published: 2005-01-01
-tag: research
 title: Discrepant Paternity Chapter in Sperm Wars
 ---
 *Walking Wallets and One-Stop Sperm Shops: How Men Fear That Women See

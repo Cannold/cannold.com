@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: http://m.theage.com.au/comment/bonchek-adams-controversy-a-tweeting-shame-20140119-312ii.html
 published: 2014-01-20
-tag: writings
 title: Bonchek Adams Controversy a Tweeting Shame
 ---
 *Now is the time for informed debate on patient choices.*

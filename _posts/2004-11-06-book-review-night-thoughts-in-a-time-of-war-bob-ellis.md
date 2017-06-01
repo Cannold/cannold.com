@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: Most people are familiar with at least some of Bob Ellis’s long and impressive
   resume. The author of seventeen books, including the bestselling Goodbye Jerusalem,
   Goodbye Babylon and First Abolish the Customer, he’s also written and directed features
@@ -7,7 +8,6 @@ excerpt: Most people are familiar with at least some of Bob Ellis’s long and i
   won or been nominated for numerous honours, including the Premier’s Literary Award.
 link: ''
 published: 2004-11-06
-tag: writings
 title: Book Review - Night Thoughts in a Time of War - Bob Ellis
 ---
 Night Thoughts in a Time of War by Bob Ellis, Viking, 2004.

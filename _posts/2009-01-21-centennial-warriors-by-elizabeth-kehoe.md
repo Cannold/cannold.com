@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2009-01-21
-tag: in-the-media
 title: Centennial Warriors by Elizabeth Kehoe
 ---
 In the wake of the passage of the Abortion Law Reform Bill here in Victoria late in 2008, Elizabeth Kehoe sent me this beautiful tribute.

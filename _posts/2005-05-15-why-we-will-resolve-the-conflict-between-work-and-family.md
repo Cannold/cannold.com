@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-05-15
-tag: writings
 title: Why We Will Resolve the Conflict Between Work and Family
 ---
 Workers are demanding better working conditions, and conditions for

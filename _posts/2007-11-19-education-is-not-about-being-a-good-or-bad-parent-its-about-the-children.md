@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: Everyone’s heard of the Mummy Wars. The debate that flies out of the box
   like a bat out of hell every time some dry academic study appears about centre-based
   childcare. Behind all the shouting about sample size, confidence levels and expert
@@ -7,7 +8,6 @@ excerpt: Everyone’s heard of the Mummy Wars. The debate that flies out of the 
   mummies, or are defending their status as “good” mummies.
 link: ''
 published: 2007-11-19
-tag: writings
 title: "Education is not about being a good or bad parent - itâ\x80\x99s about the
   children"
 ---

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-11-30
-tag: writings
 title: "The Kovco Case: Motherâ\x80\x99s Grief Real, and So Are Her Questions"
 ---
 The death of a loved one is always difficult. For parents, regardless of

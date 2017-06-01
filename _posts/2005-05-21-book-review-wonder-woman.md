@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-05-21
-tag: writings
 title: Book Review - Wonder Woman
 ---
 By Virginia Haussegger, Allen & Unwin, $26.95

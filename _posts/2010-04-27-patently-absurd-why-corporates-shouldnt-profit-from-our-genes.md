@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: |-
   *How can human attributes be deemed corporate property?*
 
@@ -9,7 +10,6 @@ excerpt: |-
   develop a new medication, or bring a product to market.
 link: ''
 published: 2010-04-27
-tag: writings
 title: "Patently Absurd. Why Corporates Shouldnâ\x80\x99t Profit From Our Genes"
 ---
 *How can human attributes be deemed corporate property?*

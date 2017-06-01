@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2014-01-11
-tag: writings
 title: 'Leslie and her Labrador Learn about Judging & Being Judgemental '
 ---
 Many unsavoury items wash up along the foreshore. I know because my Labrador decided to sample some on a recent trip to the beach. She then proceeded to vomit and excrete them on what turned out to be a long walk home.

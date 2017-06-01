@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-03-30
-tag: writings
 title: 'Abortion, Corruption & Cops: The Bertram Wainer Story'
 ---
 Crochet hooks, castor oil, slippery elm bark, syringes full of Lifeuboy

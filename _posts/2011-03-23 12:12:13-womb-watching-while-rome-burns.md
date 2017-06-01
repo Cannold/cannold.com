@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:13
-tag: writings
 title: Womb Watching While Rome Burns
 ---
 Climate change, soaring petrol and food prices, one in seven Australian

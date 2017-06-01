@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2004-05-13
-tag: writings
 title: A Pregnant Pause for Waiters and Watchers
 ---
 The budget will encourage single working women to have children - but

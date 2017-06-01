@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2012-01-02
-tag: writings
 title: That Poor Little Israeli Girl & the Cost to Secular Democracies of Religious
   Extremism
 ---

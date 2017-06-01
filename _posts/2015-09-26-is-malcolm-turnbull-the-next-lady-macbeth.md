@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: '*The ambitions of men and women in politics are still treated differently.
   Look at Malcolm Turnbull and Julie Bishop*'
 link: http://www.theage.com.au/comment/is-malcolm-turnbull-the-next-lady-macbeth-20150920-gjqs2x.html
 published: 2015-09-26
-tag: writings
 title: 'Is Malcolm Turnbull the Next Lady MacBeth? '
 ---
 Much has been said about the rise and fall of Australia's first female prime minister. Particularly the fall. The consensus view was summed up by Labor senator and powerbroker Sam Dastyari on ABC-TV's post-mortem  on Labor's six years in government, The Killing Season. "In one night, we took this amazing, talented politician in Julia Gillard and we took her from a lady in waiting and made her Lady Macbeth. And she never recovered from it."

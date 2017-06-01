@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-10-19
-tag: writings
 title: Grace A Measure of Our Moral Fibre
 ---
 “That was very gracious,” a friend of mine whispered at the conclusion

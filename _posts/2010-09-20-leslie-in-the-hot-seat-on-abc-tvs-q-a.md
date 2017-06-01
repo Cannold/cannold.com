@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: http://www.abc.net.au/tv/qanda/txt/s3010595.htm
 published: 2010-09-20
-tag: writings
 title: "Leslie in the Hot Seat on ABC TVâ\x80\x99s Q & A"
 ---
 Watch Leslie chat with Presenter Tony Jones, the Chaser’s Craig

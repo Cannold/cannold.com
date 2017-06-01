@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-05-24
-tag: writings
 title: "Sexual Freedom Wonâ\x80\x99t Spare You Regret"
 ---
 Here’s how a 15-year-old West Australian girl described a sexual

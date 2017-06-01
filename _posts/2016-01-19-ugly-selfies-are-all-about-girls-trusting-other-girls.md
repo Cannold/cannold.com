@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: '*When girls meet feminism in a toxic culture of appearance, ugly selfies
   are the result *'
 link: http://www.theage.com.au/comment/ugly-selfies-are-all-about-girls-trusting-other-girls-20160118-gm80vs.html
 published: 2016-01-19
-tag: writings
 title: Ugly selfies are all about girls trusting other girls
 ---
 Women's rights have taken a battering this festive season. The Briggs fiasco, the Gayle insult to the professionalism of Channel Ten reporter Mel McLaughlin, and marauding hoodlums in Germany using women's rights as a cover for a violent rampage against refugees all show the battle for gender equality is far from over. 

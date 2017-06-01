@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: research
 excerpt: 'Leslie was employed to write the Australian chapter for this collection
   of international reflections on reproductive rights advocacy. '
 link: ''
 published: 2000-11-01
-tag: research
 title: The Australian Pro-Choice Movement and the Struggle for Legal Clarity, Liberal
   Laws and Liberal Access
 ---

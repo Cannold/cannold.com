@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings writings
 link: ''
 published: 2015-04-12
-tag: writings
 title: The Time for Women is NOW
 ---
 *The campaign for gender equity needs bold ideas, powerful technology and the potent rage of a new generation*

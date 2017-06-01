@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-10-02
-tag: writings
 title: Time to weigh anchor on Australa
 ---
 The most compelling argument for bipartisanship on boat arrival policy is that we could finally stop talking about the issue and deal with something else.

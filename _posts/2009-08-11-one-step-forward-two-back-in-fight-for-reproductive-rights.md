@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-08-11
-tag: writings
 title: One Step Forward, Two Back, in Fight for Reproductive Rights
 ---
 RU486 is available, but in Queensland a teenager is charged over an

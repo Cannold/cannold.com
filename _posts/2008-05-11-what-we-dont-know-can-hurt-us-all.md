@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-05-11
-tag: writings
 title: "What We Donâ\x80\x99t Know Can Hurt Us All"
 ---
 What does independent research, shield laws and whistleblower

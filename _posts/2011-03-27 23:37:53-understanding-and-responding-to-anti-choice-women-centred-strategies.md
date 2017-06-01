@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: research
 link: ''
 published: 2011-03-27 23:37:53
-tag: research
 title: Understanding and Responding to Anti-Choice Women-centred Strategies
 ---
 This paper discusses the rise and use of a ‘woman-centred’ anti-choice

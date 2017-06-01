@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-09-06
-tag: writings
 title: "Steve Irwin: Why we admired the boy who wouldnâ\x80\x99t grow up"
 ---
 For me, the news of Steve Irwin’s death caused a Diana moment: the

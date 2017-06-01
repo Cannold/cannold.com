@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-09-29
-tag: writings
 title: "We Must Say â\x80\x9CKnowâ\x80\x9D to Abstinence-Only Sex Ed â\x80\x9CChoices,
   Decisions, Outcomesâ\x80\x9D"
 ---

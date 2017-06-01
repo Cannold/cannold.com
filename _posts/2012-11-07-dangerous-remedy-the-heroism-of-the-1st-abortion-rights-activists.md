@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2012-11-07
-tag: writings
 title: 'Dangerous Remedy & the Heroism of the 1st Abortion Rights Activists '
 ---
 Last week, I sat down with an activist colleague to watch the latest dramatic offering from ABC1, Dangerous Remedy.

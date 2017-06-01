@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-10-12
-tag: writings
 title: "To Make a Difference, Stay Donâ\x80\x99t Go"
 ---
 I love a good resignation. The drama! The flounce! The sense of moral

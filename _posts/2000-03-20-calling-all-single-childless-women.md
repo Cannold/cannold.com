@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2000-03-20
-tag: writings
 title: "Calling all single childless womenâ\x80¦"
 ---
 A new ruling may end discrimination in access to donor sperm.

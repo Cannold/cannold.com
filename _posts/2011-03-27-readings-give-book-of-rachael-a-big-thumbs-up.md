@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: in-the-media
 excerpt: 'The Book of Rachael is "Essentially a love story about courageous people.
   It is fastpaced and the narrative is superb." '
 link: ''
 published: 2011-03-27
-tag: in-the-media
 title: Readings Give Book of Rachael a Big Thumbs Up
 ---
 Dr Leslie Cannold is an impressive and formidable writer. Her latest offering, The Book of Rachael, her first novel, takes what we think we know and turns it on its head. No surprises there: Cannold is considered one of Australia’s top 20 leading intellectuals. Her life’s work is about making you think and her previous works, The Abortion Myth and What, No Baby? spoke to generations of women. Both works showed where women have been stopped and why.

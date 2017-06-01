@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2016-08-04
-tag: writings
 title: 'Protesting Oz Census 2016: What Legal Experts Say '
 ---
 *I spoke to some people at Liberty Victoria and a number of civil liberty, human rights and non-governmental organisations about the law in regard to Census 2016 and the potential ramifications of boycotting or protesting the threats posed to individual privacy. The advice I got is below. I hope this helps you to make an informed choice about whether and how to protest the Census.*

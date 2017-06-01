@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-02-08
-tag: writings
 title: Global Gag Leaves Blood on Our Hands
 ---
 For Labor, the problem seems grim. Foreign Affairs Minister Stephen

@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: ' Jesse Blackadder’s first novel is an exploration of the physical and eclectic
   social terrain of Byron Bay: Sydney-sider holiday escape and stopover de rigour
   for the backpacker set. It follows the chain of events set into motion by Zac’s
@@ -9,7 +10,6 @@ excerpt: ' Jesse Blackadder’s first novel is an exploration of the physical an
   truths critical to unlocking their true vocation or potential for love.'
 link: ''
 published: 2005-07-23
-tag: writings
 title: Book Review - After the Party - Jesse Blackadder
 ---
 After the Party by Jesse Blackadder. Melbourne: Hardie Grant Books,

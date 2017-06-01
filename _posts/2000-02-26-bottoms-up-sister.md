@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2000-02-26
-tag: writings
 title: Bottoms up, sister!
 ---
 I LOVE The Vicar of Dibley and Dawn French’s vicar, Geraldine Granger.

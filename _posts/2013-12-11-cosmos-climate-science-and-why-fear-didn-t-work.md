@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: Scientists need to listen to marketing professionals on how to get across
   the message on climate change and effect real change, writes Leslie Cannold.
 link: http://www.cosmosmagazine.com/opinion/climate-change-convention/
 published: 2013-12-11
-tag: writings
 title: 'Cosmos: Climate Science and Why Fear Didn''t Work '
 ---
 With some exceptions, the strategy of the environment movement has been to provoke fear: fear for the quality of our own lives and over the survival of our grandchildren.

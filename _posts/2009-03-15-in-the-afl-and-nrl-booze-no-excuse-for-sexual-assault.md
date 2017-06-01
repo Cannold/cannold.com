@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-03-15
-tag: writings
 title: In the AFL and NRL, Booze No Excuse for Sexual Assault
 ---
 The rugby and footy season have begun. I know, because allegations of

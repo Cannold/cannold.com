@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: http://www.theage.com.au/national/call-to-reform-surrogacy-laws-20121208-2b264.html
 published: 2013-01-01
-tag: in-the-media
 title: 'Leslie Warns Against Commericial Surrogacy '
 ---
 Australia should legalise commercial surrogacy to stop the exploitation of poor women and protect the legal status of children caught up in the booming overseas surrogacy trade, according to the Chief Federal Court Magistrate.

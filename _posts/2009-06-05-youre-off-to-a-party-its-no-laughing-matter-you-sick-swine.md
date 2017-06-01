@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-06-05
-tag: writings
 title: "Youâ\x80\x99re Off to a Party? Its no Laughing Matter, You Sick Swine"
 ---
 Why would someone hold a swine flu party, a celebration intended to help

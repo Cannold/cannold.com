@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2013-09-18
-tag: in-the-media
 title: Leslie Guest-Tweets Lateline
 ---
 Leslie is a regular Guest-Tweeter on one of ABC TV's flagship news programs - Lateline. 

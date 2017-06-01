@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: research
 excerpt: 'Leslie’s chapter on male circumcision appears in Cutting to the Core: Exploring
   the Ethics of Contested Surgery'
 link: ''
 published: 2006-04-11
-tag: research
 title: 'The Ethics of Neonatal Circumcision: Helping Parents To Decide'
 ---
 Leslie’s [chapter](http://cannold.com/images/generic/icon_insert_asset.gif?1326507822) on male circumcision appears in [Cutting to the Core:

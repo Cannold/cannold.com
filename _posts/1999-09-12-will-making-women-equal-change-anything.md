@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 1999-09-12
-tag: writings
 title: Will making women equal change anything?
 ---
 The issue: Will making women equal change anything?

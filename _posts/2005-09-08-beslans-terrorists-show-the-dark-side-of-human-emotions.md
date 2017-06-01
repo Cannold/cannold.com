@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-09-08
-tag: writings
 title: "Beslanâ\x80\x99s Terrorists Show the Dark Side of Human Emotions"
 ---
 *Damaged children grow up to believe that only violence can change*

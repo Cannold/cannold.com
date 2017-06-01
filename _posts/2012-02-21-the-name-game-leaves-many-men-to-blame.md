@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ' '
 published: 2012-02-21
-tag: writings
 title: 'The Name Game Leaves Many Men to Blame '
 ---
 Why do women take their partner's surnames when they marry? Why, even where a woman keeps her own name, does she follow tradition and give her offspring his surname instead of hers?

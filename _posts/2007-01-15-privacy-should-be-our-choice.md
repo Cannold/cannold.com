@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-01-15
-tag: writings
 title: Privacy Should be Our Choice
 ---
 Privacy, as Victorian Privacy Commissioner Paul Chadwick recently

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-05-31
-tag: writings
 title: The Patenting of Human Genes Must Be Stopped
 ---
 Craig Venter is back in the news. The entrepreneurial geneticist

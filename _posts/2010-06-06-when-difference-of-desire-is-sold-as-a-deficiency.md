@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-06-06
-tag: writings
 title: When Difference of Desire is Sold As a Deficiency
 ---
 Why can’t a woman be more like a man? Henry Higgins posed the question

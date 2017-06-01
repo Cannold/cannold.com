@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-05-30
-tag: writings
 title: There is racism, and then there is the glory of multiculturalism
 ---
 The government is in trouble in the polls and the Prime Minister claims
