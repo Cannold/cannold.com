@@ -27,6 +27,7 @@
 								<i class="icon-linkedin"></i>
 							</a>
 							<br>
+							<br>
 							<p class="lead">Phone: <a href="tel:+61417114859">+61 (0) 417 114 859</a></p>
 							<br>
 						</div>
@@ -381,7 +382,7 @@
 
 				<div id="section-blog" class="page-section">
 
-	<h2 class="center uppercase t300 ls3 font-body">Recently From the Blog</h2>
+	<h2 class="center rightmargin rightpadding uppercase t300 ls3 font-body">Recently From the Blog</h2>
 
 	<div class="section nobottommargin">
 		<div class="container clearfix">
@@ -412,40 +413,22 @@
 				</div>
 				{% endfor %}
 
+				<br>
+				<br>
 
+				<h4 class="center">Pop over to the blog and dive deeper into the thoroughly insightful mind of Dr.Leslie Cannold with a collection of blog posts exploring a wide variety of topics</h4>
+				<div class="center">
+
+					<a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">Go to the blog&rArr;</a>
 
 
 			</div>
 
 		</div>
 	</div>
-
-
-
-
-
-							{% for post in site.posts limit:4 %}
-							<a href="{{ post.url }}">
-	                 <h3><u><b>{{ post.title }}</b></u></h3>
-									 <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-							 <div>{{ post.excerpt |truncatehtml | truncatewords: 60 }}</div>
-							 <br>
-							 <br>
-							 <br>
-							 </a>
-					{% endfor %}
-					 </ul>
-
-
-							<h4>Pop over to the blog and dive deeper into the thoroughly insightful mind of Dr.Leslie Cannold with a collection of blog posts exploring a wide variety of topics</h4>
-
-
-
-								<a href="/index.html" class="btn btn-default topmargin-sm centre uppercase">Go to the blog&rArr;</a>
-
-
-										</div>
-									</div>
-								</div>
-			</section>
+</section>
+<section>
+	<h2 class="center uppercase t300 ls3 font-body">Events</h2>
+	<h4 class="center">parouse Leslie's upcoming events</h4>
+</section>
   <!-- #content end -->
