@@ -8,13 +8,30 @@ use File::Slurp;
 use YAML::XS;
 use Data::Structure::Util qw( unbless );
 use Encode qw( decode_utf8 );
+use Data::Dumper;
 
 # $YAML::XS::UseCode=1;
- 
+
 my $yaml = read_file('backup.yml');
 my @array = Load $yaml;
 
-use Data::Dumper;
+my %tag;
+foreach my $item (@array) {
+    next unless
+        ref $item eq 'ruby/object:Tag'
+        && $item->{attributes}{taggable_type} eq 'CanpubArticle'
+        && $item->{attributes}{phrase} ne 'sidebar'
+        && $item->{attributes}{slug} ne 'in-the-media1';
+
+    #if (exists $tag{$item->{attributes}{taggable_id}}) {
+    #    warn Dumper $tag{$item->{attributes}{taggable_id}};
+    #    warn Dumper $item;
+    #}
+
+    push @{$tag{$item->{attributes}{taggable_id}}},
+         $item->{attributes}{slug};
+}
+
 my %types;
 map { $types{ref $_}++ } @array;
 print Dumper \%types;
@@ -22,17 +39,20 @@ print Dumper \%types;
 foreach my $item (@array) {
 
     next unless ref $item eq 'ruby/object:CanpubArticle';
-    
+
     my $created = $item->{attributes}{created_on};
     $created =~ s/(\d\d\d\d-\d\d-\d\d)/$1/;
     my $published = $item->{attributes}{publish_on} || $created;
 
     my $post = {
+        categories => defined $tag{$item->{attributes}{id}}
+                        ? join " ", @{$tag{$item->{attributes}{id}}}
+                        : undef,
         assets     => $item->{assets},
-        tags       => $item->{tags},
+        link       => $item->{attributes}{link},
         published  => $published,
         title      => $item->{attributes}{title},
-#        _blueprint => $item->{attributes},
+        # _blueprint => $item->{attributes},
     };
 
     if ( $item->{attributes}{excerpt} ) {
@@ -47,16 +67,15 @@ foreach my $item (@array) {
     open(my $fh, '>:raw', 'posts/' . $published . '-' . $item->{attributes}{slug} . '.md');
 
     print $fh Dump @post;
-    
+
     close $fh;
-    
+
     open(my $fh, '>>', 'posts/' . $published . '-' . $item->{attributes}{slug} . '.md');
-    
+
     print $fh "---\n";
-        
+
     my $content = decode_utf8($item->{attributes}{content});
     $content =~ s/\r//sg;
     print $fh $content;
 
 }
-
