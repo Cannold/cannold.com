@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2007-12-30
-tags: ~
+tag: writings
 title: 'The Futility of Treatment: Who Decides?'
 ---
 Blink and you’d miss it. That’s the fate of stories in the lead-up to

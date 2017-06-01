@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-12-06
-tags: ~
+tag: writings
 title: Kissing a Friend Goodbye
 ---
 A new friend of mine recently told me a story about an old friend of

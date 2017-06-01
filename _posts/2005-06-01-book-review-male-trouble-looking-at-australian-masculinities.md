@@ -4,8 +4,9 @@ excerpt: 'In his introduction to this collection of academic essays about differ
   aspects and types of contemporary Australian masculinity or, as the authors prefer,
   masculinities, R.W. Connell notes that: ‘It is now a familiar observation that notions
   of Australian identity have been entirely constructed around images of men.’ '
+link: ''
 published: 2005-06-01
-tags: ~
+tag: writings
 title: 'Book Review - Male Trouble: Looking at Australian Masculinities'
 ---
 Male Trouble: Looking at Australian Masculinities, edited by Stephen

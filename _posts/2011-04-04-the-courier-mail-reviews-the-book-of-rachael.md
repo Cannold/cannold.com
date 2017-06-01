@@ -2,8 +2,9 @@
 assets: ~
 excerpt: Novelist and Adair Jones commends Leslie for "creating a rich fictional world
   in which her characters search for justice, love, and the way to forgiveness."
+link: ''
 published: 2011-04-04
-tags: ~
+tag: in-the-media
 title: 'The Courier Mail Reviews The Book of Rachael '
 ---
 **Review: The Book of Rachael by Leslie Cannold**

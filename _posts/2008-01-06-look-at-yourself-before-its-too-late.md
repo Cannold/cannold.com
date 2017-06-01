@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-01-06
-tags: ~
+tag: writings
 title: "Look at Yourself, Before Itâ\x80\x99s Too Late"
 ---
 How many of us are not living our dreams? What’s stopping us? And what

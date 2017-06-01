@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2004-01-07
-tags: ~
+tag: writings
 title: Fathers look after their children, but seek more thrills for them
 ---
 USUALLY he amazes, but this time we were appalled.

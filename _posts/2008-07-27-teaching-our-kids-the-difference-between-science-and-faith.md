@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-07-27
-tags: ~
+tag: writings
 title: Teaching our Kids the Difference Between Science and Faith
 ---
 Moral Maze: Teaching our Kids the Difference Between Science and Faith

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2000-04-28
-tags: ~
+tag: writings
 title: "A motherâ\x80\x99s birthright"
 ---
 A woman-centred approach to birth includes the right to choose drugs.

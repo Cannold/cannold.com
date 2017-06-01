@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-06-20
-tags: ~
+tag: writings
 title: "Thereâ\x80\x99s no Rule Book for Families"
 ---
 “I was upset by what happened. In fact I don’t think I’ve ever felt so

@@ -6,8 +6,9 @@ excerpt: |-
   maintains its innocence and light-heartedness on a potentially
   chin-dragging topic: the shortage of suitable men for
   desperately-ticking women.
+link: ''
 published: 2005-04-09
-tags: ~
+tag: writings
 title: 'Book review: The Catch'
 ---
 by Marg Vandeleur, Penguin. RRP $22.95

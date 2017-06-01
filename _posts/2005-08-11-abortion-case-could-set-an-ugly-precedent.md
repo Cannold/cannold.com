@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-08-11
-tags: ~
+tag: writings
 title: Abortion case could set an ugly precedent
 ---
 We should not further restrict women’s access to late abortions, writes

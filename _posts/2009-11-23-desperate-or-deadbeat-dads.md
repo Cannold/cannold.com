@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-11-23
-tags: ~
+tag: writings
 title: Desperate or Deadbeat Dads?
 ---
 In recent weeks, I seem to have become a bloke magnet. Two weeks ago at

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-02-01
-tags: ~
+tag: writings
 title: Should We Play Big Brother with our Kids?
 ---
 British and American parents are about to get it, and Australian parents

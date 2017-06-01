@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2000-07-07
-tags: ~
+tag: writings
 title: The Horrible Dilemma of the Pregnant Woman
 ---
 She is pushed to have all the tests, then damned if she terminate late

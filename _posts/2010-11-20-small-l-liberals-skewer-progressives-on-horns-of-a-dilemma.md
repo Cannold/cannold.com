@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-11-20
-tags: ~
+tag: writings
 title: Small-L Liberals Skewer Progressives on Horns of a Dilemma
 ---
 Should progressive voters act to ensure the right side of politics is

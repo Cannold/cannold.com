@@ -1,8 +1,9 @@
 ---
 assets: ~
 excerpt: Leslie’s 1992 Master of Bioethics
+link: ''
 published: 1992-12-18
-tags: ~
+tag: research
 title: "Womenâ\x80\x99s Response to Ectogenesis "
 ---
 Leslie’s 1992 Master of Bioethics.

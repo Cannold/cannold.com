@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2007-08-08
-tags: ~
+tag: writings
 title: Support and Respect Gives IVF Parents Time to Tell
 ---
 It’s Time to Tell. The slogan is back, along with the second phase of

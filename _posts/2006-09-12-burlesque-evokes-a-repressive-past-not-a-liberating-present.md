@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-09-12
-tags: ~
+tag: writings
 title: Burlesque evokes a repressive past, not a liberating present
 ---
 Last Thursday, a number of female scientists stormed out of the dinner

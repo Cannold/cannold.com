@@ -4,8 +4,9 @@ excerpt: |-
   Infertility sucks and IVF is worse. Yet women rarely talk about
   either, or make jokes, a truth Jodi Panayotov found out the hard way
   when aged 37 she struggled to get pregnant and to stay that way.
+link: ''
 published: 2007-10-12
-tags: ~
+tag: writings
 title: Book Review - In Viro Fertility Goddess by Jodi Panayotov
 ---
 In Viro Fertility Goddess by Jodi Panayotov. Blink Press, June 2007, pp.

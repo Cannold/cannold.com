@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-01-01
-tags: ~
+tag: research
 title: 'Reprogenetic Technologies: balancing parental procreative autonomy and social
   equity & justice '
 ---

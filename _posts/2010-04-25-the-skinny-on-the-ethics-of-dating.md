@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-04-25
-tags: ~
+tag: writings
 title: The Skinny on the Ethics of Dating
 ---
 *When does an impolite boyfriend become unethical? Chronic rudeness on

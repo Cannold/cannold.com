@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-02-03
-tags: ~
+tag: writings
 title: In Search of the Gorgeous Aussie Bloke
 ---
 In the great debates about family/work balance and fertility rates,

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-04-02
-tags: ~
+tag: in-the-media
 title: 'Resurrecting the Lost Sister - Profile in the Age and Sydney Morning Herald '
 ---
 Novelist & journalist Jane Sullivan goes looking for the author *The Book of Rachael*

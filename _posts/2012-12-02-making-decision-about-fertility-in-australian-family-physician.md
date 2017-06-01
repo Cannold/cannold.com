@@ -2,8 +2,9 @@
 assets: ~
 excerpt: Peer reviewed article co-authored by Danielle Mazza, Cate Nagle, Fiona McKay,
   Bianca Brijnath
+link: ''
 published: 2012-12-02
-tags: ~
+tag: research
 title: Making Decision About Fertility in Australian Family Physician
 ---
 **Background**

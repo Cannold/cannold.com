@@ -3,8 +3,9 @@ assets: ~
 excerpt: Motherguilt bills itself as a book in which Australian women “revel their
   true feelings about motherhood” and one that assists women to “deprogram themselves”
   from the powerful and unique “epidemic of guilt” experienced by today’s mothers.
+link: ''
 published: 2005-03-05
-tags: ~
+tag: writings
 title: 'Book Review - Motherguilt: Australian women reveal their true feelings about
   motherhood'
 ---

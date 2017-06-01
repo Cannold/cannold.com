@@ -1,9 +1,9 @@
 ---
-layout: posts
 assets: ~
-excerpt: 'Leslie Cannold for the Ethics Centre'
+excerpt: '*Leslie Cannold for the Ethics Centre*'
+link: ''
 published: 2016-05-03
-tags: ~
+tag: writings
 title: 'Is vegetarianism and veganism about animal welfare or moral superiority? '
 ---
 The western obsession with rights makes it difficult to see their limitations. We speak about rights as if they were the only moral value with meaning, ignoring other important moral values like responsibilities or duties. In fact, responsibilities are the counterparts to rights – you can’t have one without the other.

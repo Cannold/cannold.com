@@ -1,8 +1,9 @@
 ---
 assets: ~
 excerpt: Informed women have the right to choose their delivery method
+link: ''
 published: 2011-01-02
-tags: ~
+tag: writings
 title: "Thereâ\x80\x99s No Shame in Being Too Posh to Push"
 ---
 Mention Australia’s caesarean section rate and collective tongues start

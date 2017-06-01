@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-04-24
-tags: ~
+tag: writings
 title: 'Values of Easter and Passover Go Beyond Faith '
 ---
 Passover and Easter are upon us. While the precise timing of each festival is dictated by different calendars (Passover the lunar one and Easter by the[ Gregorian one](http://en.wikipedia.org/wiki/Gregorian_calendar)) both commemorate emerging values in an ancient world. Values like liberty and equality that are also hallmarks of secular ethical frameworks in the contemporary western world.

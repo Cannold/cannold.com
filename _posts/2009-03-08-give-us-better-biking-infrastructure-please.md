@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-03-08
-tags: ~
+tag: writings
 title: Give Us Better Biking Infrastructure, Please!
 ---
 I was centimeters away from death or serious injury. Millimeters, even.

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-05-23
-tags: ~
+tag: writings
 title: Corruption Is Never Harmless, in the Church or State
 ---
 Corruption is the most serious moral scandal of our time. Why? Because

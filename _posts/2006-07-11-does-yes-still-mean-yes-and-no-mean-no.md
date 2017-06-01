@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-07-11
-tags: ~
+tag: writings
 title: !!perl/scalar:binary |
   RG9lcyDigJx5ZXPigJ0gc3RpbGwgbWVhbiDigJx5ZXPigJ0gYW5kIOKAnG5v
   4oCdIG1lYW4g4oCcbm/igJ0/

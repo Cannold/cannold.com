@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-07-30
-tags: ~
+tag: writings
 title: 'Would we judge Top Cop Nixon any differently if she were a man? '
 ---
 I admired Christine Nixon throughout her nine-year tenure as Victoria's chief commissioner of police and then head of Victoria's Bushfire Reconstruction and Recovery Authority. Recently, we were on the same flight to Queensland. While disembarking, I tapped her on the shoulder, introduced myself, and told her so.

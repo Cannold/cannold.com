@@ -1,8 +1,9 @@
 ---
 assets: ~
 excerpt: '*How do we judge what someone might do in the future? *'
+link: ''
 published: 2011-11-16 19:57:07
-tags: ~
+tag: writings
 title: Abortion & Tony Abbott - It is Black and White
 ---
 How do we judge what someone might do in the future? Usually it’s a combination of what we know they’ve done in the past, our judgement of their character and how much we trust assurances about what they say they’ll do.

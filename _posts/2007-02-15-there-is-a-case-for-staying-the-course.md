@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2007-02-15
-tags: ~
+tag: writings
 title: There is a Case for Staying the Course
 ---
 I marched on the streets of Melbourne to express my opposition to the

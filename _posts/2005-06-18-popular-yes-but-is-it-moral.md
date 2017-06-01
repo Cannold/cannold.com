@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-06-18
-tags: ~
+tag: writings
 title: Popular, yes - but is it moral?
 ---
 It’s been driving me crazy for years, but John Howard’s comments in

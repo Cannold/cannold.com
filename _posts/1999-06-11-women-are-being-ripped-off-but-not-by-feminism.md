@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-06-11
-tags: ~
+tag: writings
 title: Women are being ripped off, but not by feminism
 ---
 Don’t blame the movement, blame the system.

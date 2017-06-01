@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://youtu.be/FxI6HGpaP3Q
 published: 2012-10-04
-tags: ~
+tag: in-the-media
 title: Leslie's Courageous & Inspiring TEDx Video Goes Live
 ---
 "I had an abortion, or maybe I didn't". In this challenging talk, given to a sold-out audience at Tedx Canberra on 8 September 2012 , Leslie takes us on a 360 around shame. She asks us to question our most deeply held assumptions and prejudices about one of the world's safest and most common medical procedures. 

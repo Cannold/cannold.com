@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.theage.com.au/national/education/push-to-kick-religion-out-of-schools-20110430-1e234.html
 published: 2011-04-30
-tags: ~
+tag: in-the-media
 title: 'Leslie''s Acceptance Speech for Humanist of the Year Award '
 ---
 The Age's Michael Bachelard [covers](http://www.theage.com.au/national/education/push-to-kick-religion-out-of-schools-20110430-1e234.html) Leslie's acceptance of Humanist of the Year Award. 

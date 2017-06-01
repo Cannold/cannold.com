@@ -13,8 +13,9 @@ excerpt: ' It’s a big year for books on prostitution, with Call Me Elizabeth a
   want, but who women really are. Exposes of the secret worlds of women who appear
   average or even respectable on the outside tantalises us with the prospect of finding
   out.'
+link: ''
 published: 2005-08-20
-tags: ~
+tag: writings
 title: Book Review - Call Me Elizabeth and Callgirl
 ---
 Call Me Elizabeth: Wife, mother, escort A true story by Dawn Annandale

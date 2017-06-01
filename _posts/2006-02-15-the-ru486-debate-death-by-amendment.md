@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-02-15
-tags: ~
+tag: writings
 title: 'THE RU486 DEBATE: Death by Amendment'
 ---
 As I write, the Therapeutic Goods Amendment (Repeal of Ministerial

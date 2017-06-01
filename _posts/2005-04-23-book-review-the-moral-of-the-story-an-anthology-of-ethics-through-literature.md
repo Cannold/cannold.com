@@ -13,8 +13,9 @@ excerpt: Over my (far too) many years of studentship and academic employment, I 
   with wife Renata, he does it again, compiling an anthology that students, academic
   philosophers and writers interested in ethics (and what writer isn’t) will pull
   off the shelf to thumb through again and again.
+link: ''
 published: 2005-04-23
-tags: ~
+tag: writings
 title: 'Book Review - The Moral of the Story: An anthology of ethics through literature'
 ---
 The Moral of the Story: An anthology of ethics through literature edited

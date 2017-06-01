@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.theage.com.au/opinion/society-and-culture/lets-celebrate-integrity-20130209-2e4ys.html
 published: 2013-02-19
-tags: ~
+tag: writings
 title: 'Does Australia Need A National Integrity Day? '
 ---
 Two young Australian reporters refuse to reveal their sources and face jail for contempt of court. A former customs official is convicted for leaking reports about security breaches at Sydney Airport to the media. Allegations of undue interference in a police investigation of a young woman's rape by an AFL footballer are vindicated, but still no charges are laid.

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2013-02-02
-tags: ~
+tag: in-the-media
 title: 'Catholic Hospitals Put Human Rights Push at Risk '
 ---
 CATHOLIC hospitals fear patients will use new anti-discrimination laws to demand abortions, vasectomies and IVF treatments now banned for religious reasons.

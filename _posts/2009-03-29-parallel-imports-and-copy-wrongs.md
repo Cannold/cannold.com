@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-03-29
-tags: ~
+tag: writings
 title: Parallel Imports and Copy Wrongs
 ---
 Australian publishing is a success story. In contrast to the uneven

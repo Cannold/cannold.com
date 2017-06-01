@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-07-22
-tags: ~
+tag: writings
 title: Why women need a workplace revolution
 ---
 Reproductive technology will never provide the answer to inequality.

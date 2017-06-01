@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-07-05
-tags: ~
+tag: writings
 title: Gene Patents Violate Civil Liberties
 ---
 There’s a question that’s been around for about 30 years: whether

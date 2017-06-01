@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-11-07
-tags: ~
+tag: writings
 title: Who Has the Courage to Stand Up for State Schooling?
 ---
 Are there big ideas in Australian politics any more? Or big politicians

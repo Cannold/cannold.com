@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-05-20
-tags: ~
+tag: writings
 title: Victims of a Lost Puritanism
 ---
 Book Review - Lost: Illegal abortion stories. Edited by Jo Wainer,

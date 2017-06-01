@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-04-18
-tags: ~
+tag: in-the-media
 title: "Leslie listed as one of Australiaâ\x80\x99s \"most talked about brains\""
 ---
 Leslie has appeared in the list of 20 nominated by *The Age* as Australia’s celebrity - or public - intellectuals.

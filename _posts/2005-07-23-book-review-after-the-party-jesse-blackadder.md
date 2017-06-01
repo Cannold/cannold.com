@@ -7,8 +7,9 @@ excerpt: ' Jesse Blackadder’s first novel is an exploration of the physical an
   Over a three-week period, Zac, Black Dragon, her friend Madeline and Zac’s girlfriend
   Kate roam between Sydney and Byron, searching and ultimately discovering important
   truths critical to unlocking their true vocation or potential for love.'
+link: ''
 published: 2005-07-23
-tags: ~
+tag: writings
 title: Book Review - After the Party - Jesse Blackadder
 ---
 After the Party by Jesse Blackadder. Melbourne: Hardie Grant Books,

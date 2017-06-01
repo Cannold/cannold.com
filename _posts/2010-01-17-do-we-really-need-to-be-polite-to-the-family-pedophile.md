@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-01-17
-tags: ~
+tag: writings
 title: Do We Really Need to be Polite to the Family Pedophile
 ---
 A reader seeks advice in resolving one of the most distressing dilemmas

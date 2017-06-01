@@ -2,8 +2,9 @@
 assets: ~
 excerpt: Years after this piece was published, Harvard has [joined my call](http://bit.ly/I4SSHe)
   for academics to reclaim their scholarship.
+link: ''
 published: 2012-04-25
-tags: ~
+tag: writings
 title: To Publish - or to e-publish?
 ---
 Once upon of time there was a tribe called the Very Smarts. The Very

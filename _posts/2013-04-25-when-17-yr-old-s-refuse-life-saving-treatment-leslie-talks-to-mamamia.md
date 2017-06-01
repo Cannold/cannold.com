@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2013-04-25
-tags: ~
+tag: in-the-media
 title: 'When 17 yr old''s refuse life-saving treatment - Leslie talks to Mamamia '
 ---
 A 17-year-old Jehovah’s Witness – known only as ‘X’ – is being forced to have a blood transfusion, after the NSW Supreme Court ruled that the teenager must undergo the potentially lifesaving procedure.

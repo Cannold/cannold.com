@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-08-10
-tags: ~
+tag: writings
 title: The Net Brings You The World, But Not Necessarily the Facts
 ---
 It’s enough to make you feel queasy. A recent Harris poll found that

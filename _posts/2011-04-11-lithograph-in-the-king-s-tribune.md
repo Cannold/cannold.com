@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-04-11
-tags: ~
+tag: in-the-media
 title: Lithograph in The King's Tribune
 ---
 Circular Quay on a sunny autumn day is a thing of great beauty. The harbour ripples diamond azure like a silken sheet, framed by icons at every angle. For all the cheesy postcards, the clichés and fatigued promotional footage, on the right day and with the right brain it is hard to imagine there is anywhere on Earth more sublime. Add to that a great big fuck-off platter of fresh seafood and the presence of an utterly enchanting media celebrity ethicist and your humble scribe is elevated to a plane of nirvana that losers like the Dalai Lama will never reach.

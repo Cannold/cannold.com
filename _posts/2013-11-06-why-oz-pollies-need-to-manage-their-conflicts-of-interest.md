@@ -2,8 +2,9 @@
 assets: ~
 excerpt: 'In the wake of newly elected businessman Clive Palmer''s comments about
   conflict of interest, Leslie weighs in on The Drum. '
+link: ''
 published: 2013-11-06
-tags: ~
+tag: ~
 title: 'Why Oz Pollies Need to Manage Their Conflicts of Interest '
 ---
 What moralities do Members of Parliament owe to the public and the public interest? How can these obligations be enforced? 

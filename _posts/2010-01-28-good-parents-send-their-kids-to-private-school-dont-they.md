@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-01-28
-tags: ~
+tag: writings
 title: "Good Parents Send Their Kids to Private School, Donâ\x80\x99t They?"
 ---
 The Bankwest press release was crafted to provoke controversy. “More

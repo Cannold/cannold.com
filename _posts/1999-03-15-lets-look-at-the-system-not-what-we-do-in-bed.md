@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-03-15
-tags: ~
+tag: writings
 title: "Letâ\x80\x99s look at the system, not what we do in bed"
 ---
 IN A new book, A Return to Modesty, 23-year-old American Wendy Shalit

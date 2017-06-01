@@ -3,8 +3,9 @@ assets: ~
 excerpt: At best, unregulated conscientious objection is an accident waiting to happen.
   At worst, it is a sword wielded by the pious against the vulnerable with catastrophic
   results
+link: ''
 published: 2011-03-25
-tags: ~
+tag: writings
 title: Medical Refusal Rights Must be Regulated Before More Women Die
 ---
 In 2008, Victoria repealed all abortion related sections from the Crimes Act. Among the provisions of the Abortion Law Reform Act that attracted opprobrium from the approximately 4% of Australians who oppose abortion in all circumstances was section 8, the conscience clause.

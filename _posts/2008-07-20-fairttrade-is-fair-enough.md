@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-07-20
-tags: ~
+tag: writings
 title: FairtTrade is Fair Enough
 ---
 However cynical, petty, ideological and pathetically out-of-date it may

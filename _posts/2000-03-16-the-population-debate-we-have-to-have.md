@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2000-03-16
-tags: ~
+tag: writings
 title: The population debate we have to have
 ---
 It’s easier to talk about immigration than about why we’re having fewer

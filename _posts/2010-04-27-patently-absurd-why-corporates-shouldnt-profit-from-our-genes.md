@@ -7,8 +7,9 @@ excerpt: |-
   tools. Patents provide legal protection for innovations on which
   inventors rely to recoup the investment of time and money they made to
   develop a new medication, or bring a product to market.
+link: ''
 published: 2010-04-27
-tags: ~
+tag: writings
 title: "Patently Absurd. Why Corporates Shouldnâ\x80\x99t Profit From Our Genes"
 ---
 *How can human attributes be deemed corporate property?*

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-08-22
-tags: ~
+tag: writings
 title: Men, Abortion and the Sin of Moral Arrogance
 ---
 Abortion is back in the news, with a bill now before the Victorian

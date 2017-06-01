@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-05-16
-tags: ~
+tag: writings
 title: Madness in the Method
 ---
 Start talking research methodology to journalists, and many will run

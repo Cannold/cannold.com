@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-01-14
-tags: ~
+tag: writings
 title: Why are Young Women Welcoming the Return of the Bunny?
 ---
 The Playboy symbol is enjoying a resurgence in popularity. What does

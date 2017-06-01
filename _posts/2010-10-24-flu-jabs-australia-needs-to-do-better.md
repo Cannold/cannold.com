@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-10-24
-tags: ~
+tag: writings
 title: Flu Jabs - Australia Needs to Do Better
 ---
 A report into what went wrong with this year’s seasonal flu vaccine for

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-10-21
-tags: ~
+tag: writings
 title: Raising a brood of IVF commodities
 ---
 Knowing the identity of their biological parents gives children a sense

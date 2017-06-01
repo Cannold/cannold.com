@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-06-21
-tags: ~
+tag: writings
 title: Labels Rarely Go More Than Skin-Deep
 ---
 The recent rallying of Indian migrants in Sydney and Melbourne, and last

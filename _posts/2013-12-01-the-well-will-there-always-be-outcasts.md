@@ -2,8 +2,9 @@
 assets: ~
 excerpt: 'Leslie''s piece on making outcasts and the importance of belonging published
   in *The Well* '
+link: ''
 published: 2013-12-01
-tags: ~
+tag: writings
 title: 'The Well: Will There Always Be Outcasts? '
 ---
 I've long been interested in why human societies have always had outcasts and why, even in modern times, we appear unable – or unwilling – to live without them.

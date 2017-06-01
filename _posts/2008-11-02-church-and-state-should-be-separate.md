@@ -4,8 +4,9 @@ excerpt: This week, in a rare moment of bi-partisanship, the Federal Government 
   Opposition joined forces to reject Speaker Harry Jenkins’s call for a debate on
   whether the Lord’s Prayer should continue to be said at the start of each parliamentary
   day.
+link: ''
 published: 2008-11-02
-tags: ~
+tag: writings
 title: Church and State Should be Separate
 ---
 > Our Father, who art in heaven. Hallowed be thy name.

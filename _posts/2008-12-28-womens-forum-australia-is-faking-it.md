@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-12-28
-tags: ~
+tag: writings
 title: "Womenâ\x80\x99s Forum Australia is â\x80\x9CFaking itâ\x80\x9D"
 ---
 Tune out or wise up. Late December and January is the season for

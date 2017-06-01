@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-02-15
-tags: ~
+tag: writings
 title: Full Disclosure Necessary in Abortion Law
 ---
 Many people think that the State government’s commitment to the

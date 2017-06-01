@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-01-08
-tags: ~
+tag: writings
 title: "Allâ\x80\x99s Fair in the Battle of Ideas"
 ---
 On Tuesday, Crikey broke a story about conservative magazine Quadrant’s

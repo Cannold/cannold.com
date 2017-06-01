@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2014-01-26
-tags: ~
+tag: writings
 title: 'Leslie in The Age: How to Smooth the Way for Australia''s Next Female PM '
 ---
 This weekend marks six months since Julia Gillard stepped down from the highest office in the land. With International Women's Day on the horizon, it is timely to reflect on Gillard's rise and fall.

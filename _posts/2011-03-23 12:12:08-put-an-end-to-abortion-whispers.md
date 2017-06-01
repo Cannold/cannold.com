@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-23 12:12:08
-tags: ~
+tag: writings
 title: Put an End to Abortion Whispers
 ---
 As Prime Minister John Howard put it: “You can’t have a situation where

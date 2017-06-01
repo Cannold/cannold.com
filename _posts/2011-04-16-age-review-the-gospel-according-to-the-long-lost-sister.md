@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-04-16
-tags: ~
+tag: in-the-media
 title: 'Age Review - The Gospel According to the Long-Lost Sister '
 ---
 The writers who come to mind are David Maine and Frederick Buechner as well as the New Zealander, C.K. Stead, whose find book My name was Judas moves in territory close to that of Leslie Cannold. This kind of creativity is precisely what sacred texts invite...

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://m.smh.com.au/lifestyle/life/sexism-a-young-womans-burden-20120810-23zrm.html
 published: 2012-08-13
-tags: ~
+tag: in-the-media
 title: Young Women Shocked by Chivalry?  - Leslie explains why
 ---
 Is chivalry so foreign to Gen-Y women that they can't recognise it when they see it? Apparently so.

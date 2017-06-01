@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2007-09-05
-tags: ~
+tag: writings
 title: Balancing public interest and the right to privacy
 ---
 It’s far from over, with many still shouting. But as the conga line of

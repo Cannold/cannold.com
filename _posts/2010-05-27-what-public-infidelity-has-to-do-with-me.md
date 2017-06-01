@@ -4,8 +4,9 @@ excerpt: 'At a press conference after his resignation, the former NSW Transport 
   David Campbell has this to say about revelations he had visited a gay bathhouse:  ’I
   made some personal choices which have put me and my family in this situation…I’ve
   apologised to them for it. I apologise to the community."'
+link: ''
 published: 2010-05-27
-tags: ~
+tag: writings
 title: What Public Infidelity Has to do With Me
 ---
 At a press conference after his resignation, the former NSW

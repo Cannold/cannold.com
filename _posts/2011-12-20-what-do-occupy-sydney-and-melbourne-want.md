@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-12-20
-tags: ~
+tag: writings
 title: What do Occupy Sydney and Melbourne Want?
 ---
 What do Occupy Sydney and Occupy Melbourne want? Now in its 65th day, the protest against corporate greed and its effects on the 99 per cent is under pressure.

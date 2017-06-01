@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-12-21
-tags: ~
+tag: writings
 title: Lars and the Real Girl Show Us the Way
 ---
 It’s that time of the year again. No matter what we believe or

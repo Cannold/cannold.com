@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-07-11
-tags: ~
+tag: in-the-media
 title: Leslie Co-Hosts The Conversation Hour with Raphael Epstein
 ---
 Rafael Epstein was in the hot seat today, filling in for Jon Faine, and he was ably assisted by co-host Dr Leslie Cannold, ethicist, author of [The Book of Rachael](http://cannold.com/articles/article/the-book-of-rachael/) and columnist. 

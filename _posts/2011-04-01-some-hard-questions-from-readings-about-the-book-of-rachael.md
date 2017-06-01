@@ -4,8 +4,9 @@ excerpt: Leslie Cannold, author of the critically acclaimed The Abortion Myth (2
   and What, No Baby? (2005), talks to Readings Monthly editorial assistant Phoebe
   Bond about her third book, and first work of fiction, The Book of Rachael. (Text,
   PB, $32.95, Ebook $19.95)
+link: ''
 published: 2011-04-01
-tags: ~
+tag: in-the-media
 title: 'Some Hard Questions from Readings about The Book of Rachael '
 ---
 *The Book of Rachael is set in Israel 2000 years ago. In your Author’s Note you mention that you don’t view the book as historical fiction. Where do you draw the line between fiction and historical accuracy and what historical details were important for you to get right?*

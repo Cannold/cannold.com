@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-09-07
-tags: ~
+tag: writings
 title: "PMâ\x80\x99s Cheap Answer to School Problems"
 ---
 The education revolution promised by Federal Government continues to

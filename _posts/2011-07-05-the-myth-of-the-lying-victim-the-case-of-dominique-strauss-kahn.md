@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-07-05
-tags: ~
+tag: writings
 title: The Myth of the Lying Victim - The case of Dominique Strauss-Kahn
 ---
 By anyone's estimates, the rate of sexual assault in Australia is high. In 2010, the Australia Bureau of Statistics (ABS) recorded 80 victims per 100,000.

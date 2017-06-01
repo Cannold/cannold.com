@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-04-11
-tags: ~
+tag: in-the-media
 title: Life Matters Interview on The Book of Rachael
 ---
 Whether you're religious or not, the life and times of Jesus Christ is a fascinating subject

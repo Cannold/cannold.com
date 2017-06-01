@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-11-29
-tags: ~
+tag: writings
 title: "The anti-choicersâ\x80\x99 real target is women"
 ---
 Late abortions are emotive fodder for those who deny women moral agency.

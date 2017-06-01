@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2000-08-04
-tags: ~
+tag: writings
 title: The disappearing father
 ---
 Women don’t turn to IVF lightly. Men are fleeing fatherhood.

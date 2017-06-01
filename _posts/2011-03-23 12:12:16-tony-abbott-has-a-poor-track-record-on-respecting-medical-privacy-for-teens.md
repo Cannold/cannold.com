@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-23 12:12:16
-tags: ~
+tag: writings
 title: Tony Abbott Has a Poor Track Record on Respecting Medical Privacy for Teens
 ---
 A recent legal case in Melbourne, combined with the increased likelihood

@@ -2,8 +2,9 @@
 assets: ~
 excerpt: |
   For better or worse, internet profiles affect real-world reputations
+link: http://www.theage.com.au/opinion/society-and-culture/shape-your-online-image-or-others-will-shape-it-for-you-20100602-wzmy.html
 published: 2010-06-03
-tags: ~
+tag: writings
 title: ' Shape your Online Image or Others will Shape it For You '
 ---
 My story begins with a fax machine. A fax machine in a walk-in stationery cupboard at a law firm at the start of my working life.

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-13
-tags: ~
+tag: writings
 title: We Can Only Wish Teen at Heart of Dikileaks Scandal Our Best
 ---
 We are now entering the second year of the DikiLeaks scandal. The story

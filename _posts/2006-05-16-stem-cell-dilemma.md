@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-05-16
-tags: ~
+tag: writings
 title: Stem cell dilemma
 ---
 Ethical dilemma from Virginia Trioli’s ABC Australia Radio Program.

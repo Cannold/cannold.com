@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-03-14
-tags: ~
+tag: writings
 title: To tell or not to tell
 ---
 Ethical dilemma from Virginia Trioli’s ABC Australia Radio Program.

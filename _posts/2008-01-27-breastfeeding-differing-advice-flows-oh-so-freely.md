@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-01-27
-tags: ~
+tag: writings
 title: 'Breastfeeding: differing advice flows oh so freely'
 ---
 What’s a Baby-Friendly hospital? If you don’t know, you may soon because

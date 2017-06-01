@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-05-10
-tags: ~
+tag: writings
 title: Stand Firm Against Race to the Bottom
 ---
 An Open Letter to the Greens and Senator Nick Xenophon on Australia’s

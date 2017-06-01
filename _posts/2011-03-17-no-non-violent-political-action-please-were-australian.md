@@ -4,8 +4,9 @@ excerpt: Over the long weekend just past, there were several breakouts from the 
   Island detention centre. Also, a 300 strong protest that officials said was a riot
   and quelled with beanbag rounds. Labor’s Immigration Minister Chris Bowen accused
   some of the asylum seekers of waging an “orchestrated campaign.”
+link: ''
 published: 2011-03-17
-tags: ~
+tag: writings
 title: "No Non-Violent Political Action Please. Weâ\x80\x99re Australian"
 ---
 *Civil rights, women’s rights, gay rights… it’s all wrong. Call in the

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-10-25
-tags: ~
+tag: writings
 title: Something Mad About Refugee Policies
 ---
 Even if we eliminate people smugglers, the people needing smuggling

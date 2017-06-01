@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-06-22
-tags: ~
+tag: writings
 title: Hating Gays is a Choice, Not a Biblical Dictate
 ---
 Their strength is waning, but there is still a depressingly large number

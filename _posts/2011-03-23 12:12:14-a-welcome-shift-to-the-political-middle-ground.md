@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-23 12:12:14
-tags: ~
+tag: writings
 title: A Welcome Shift to the Political Middle Ground
 ---
 Something is happening to conservative political parties in Australia

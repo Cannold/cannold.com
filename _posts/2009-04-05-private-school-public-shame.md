@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-04-05
-tags: ~
+tag: writings
 title: Private School, Public Shame
 ---
 Australia has come a long way-some might say the wrong way-when the
