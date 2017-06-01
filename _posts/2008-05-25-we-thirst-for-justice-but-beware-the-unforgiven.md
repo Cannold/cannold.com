@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-05-25
-tag: writings
 title: We Thirst for Justice, but Beware the Unforgiven
 ---
 What is unforgiveable? Are there some acts that cross the moral line in

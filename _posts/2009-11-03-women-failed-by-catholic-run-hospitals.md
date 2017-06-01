@@ -1,9 +1,9 @@
 ---
 assets: ~
+categories: writings writings
 excerpt: With no room at the Women’s, patients are at the mercy of religion
 link: http://www.theage.com.au/opinion/society-and-culture/women-are-being-failed-by-our-hospitals-20091102-htcd.html
 published: 2009-11-03
-tag: writings
 title: Women Failed by Catholic-Run Hospitals
 ---
 There is no room at the Women’s. Once the hospital saw its mission as

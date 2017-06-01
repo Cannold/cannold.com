@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-05-16
-tag: writings
 title: "Why Weâ\x80\x99ve Stopped Trusting Science"
 ---
 The 1950s was the apex of scientists and scientific credibility. My

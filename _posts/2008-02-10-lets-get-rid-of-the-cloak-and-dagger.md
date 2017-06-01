@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-02-10
-tag: writings
 title: "Letâ\x80\x99s Get Rid of the Cloak and Dagger"
 ---
 Transparency. In recent years, journalists, politicians and medical

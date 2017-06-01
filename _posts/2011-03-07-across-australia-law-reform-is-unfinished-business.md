@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: The Age prints an edited version of Leslie's Pamela Denoon lecture, delivered
   at the Australian National University 7 March 2011
 link: http://www.nationaltimes.com.au/opinion/politics/abortion-law-reform-is-still-unfinished-business-20110308-1blfw.html
 published: 2011-03-07
-tag: writings
 title: 'Across Australia, Law Reform is Unfinished Business '
 ---
 Australian women do not, in law, have a right to choose in any state other than the ACT, and Victoria (if they are not more than 24 weeks pregnant) and - in a more compromised fashion and only up to 20 weeks pregnancy - Western Australia.

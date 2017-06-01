@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-02-24
-tag: writings
 title: Women, vote for yourselves - no one else will
 ---
 I don’t like her, and it ain’t the hair. It’s the annoyingly wooden

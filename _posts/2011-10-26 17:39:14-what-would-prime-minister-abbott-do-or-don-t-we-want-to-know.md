@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-10-26 17:39:14
-tag: writings
 title: What would Prime Minister Abbott do? (or don't we want to know?)
 ---
 Not long ago I started a conversation thread on Twitter. My hope was that some of my more than 5000 followers would engage in some informed speculation about what life would be like for working-class people, Aborigines, gays, working parents and women of reproductive age if Tony Abbott became prime minister.

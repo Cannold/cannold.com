@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2013-04-25
-tag: in-the-media
 title: Sexist Men & 30 per cent
 ---
 Check out an excerpt in Crikey from Leslie's contribution to to *Destroying the Joint*, edited by Jayne Caro and published by QUP. 

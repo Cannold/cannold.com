@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:10
-tag: writings
 title: What is so wrong with having truthful advertising?
 ---
 The removal of the Federal Health Minister’s veto over RU486 last

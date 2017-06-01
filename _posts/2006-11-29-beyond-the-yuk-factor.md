@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-11-29
-tag: writings
 title: "Beyond the â\x80\x98yuk factorâ\x80\x99"
 ---
 WILL the carping of stem cell opponents never cease? First they insist

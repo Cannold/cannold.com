@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2004-07-27
-tag: writings
 title: No Sister, Feminism is Not About Choice
 ---
 *Airing a dream is to criticise and negate the opposing vision*

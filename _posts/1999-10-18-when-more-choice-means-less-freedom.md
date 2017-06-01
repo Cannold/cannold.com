@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 1999-10-18
-tag: writings
 title: When more choice means less freedom
 ---
 IVF advances may make the working lives of women harder, not easier.

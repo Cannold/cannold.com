@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-08-15
-tag: writings
 title: The Sins of Scholarship
 ---
 Few academics would have slept through the long-running Australian

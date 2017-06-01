@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: 'Leslie writes in *The Age* about her experience "live tweeting" the Family
   Planning Summit, one of the modern world''s most important development initiatives. '
 link: ''
 published: 2012-07-29
-tag: writings
 title: 'Leslie on the Life-Changing Value of Contraception to the World''s Poorest
   Women '
 ---

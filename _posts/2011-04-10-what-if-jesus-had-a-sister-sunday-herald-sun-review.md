@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2011-04-10
-tag: in-the-media
 title: What If Jesus Had a Sister? - Sunday Herald Sun Review
 ---
 Rachael of Nazareth is an extraordinary young woman. She is brave, independent and strong and lives in the world of 30AD. 

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: http://www.brisbanetimes.com.au/opinion/society-and-culture/time-for-a-reality-check--its-not-all-about-us-20110716-1hitm.html#ixzz1SJoGUeJthttp://tinyurl.com/6entszj
 published: 2011-07-17
-tag: writings
 title: Time for a Reality Check - It's not all about you
 ---
 WE WANT it all ways and we're terribly entitled. Yet many of us want to be inspired, and led, to something better.

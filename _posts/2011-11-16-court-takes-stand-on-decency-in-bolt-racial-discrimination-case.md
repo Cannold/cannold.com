@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: The Federal Court finds Australia's shock jock of the written word guilty
   of violating the Racial Discrimination Act.
 link: http://www.smh.com.au/opinion/politics/court-takes-boltedon-stance-for-decency-20111105-1n0ux.html#ixzz1drDtGBQp
 published: 2011-11-16
-tag: writings
 title: 'Court takes stand on decency in Bolt Racial Discrimination Case '
 ---
 The Federal Court recently found Andrew Bolt, one of Australia's shock jocks of the written word, guilty of violating the Racial Discrimination Act.

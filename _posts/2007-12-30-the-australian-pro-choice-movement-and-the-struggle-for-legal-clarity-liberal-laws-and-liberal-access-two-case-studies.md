@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: research
 link: ''
 published: 2007-12-30
-tag: research
 title: 'The Australian Pro-Choice Movement and the Struggle for Legal Clarity, Liberal
   Laws and Liberal Access: Two Case Studies'
 ---

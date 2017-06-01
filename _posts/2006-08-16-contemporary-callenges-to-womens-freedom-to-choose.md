@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-08-16
-tag: writings
 title: "Contemporary callenges to womenâ\x80\x99s freedom to choose"
 ---
 Leslie joins Jo Wainer in a discussion of her book Lost, and

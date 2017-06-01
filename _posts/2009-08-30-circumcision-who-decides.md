@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-08-30
-tag: writings
 title: Circumcision - Who Decides?
 ---
 Circumcision used to be the done thing. Now, only around 10 per cent of

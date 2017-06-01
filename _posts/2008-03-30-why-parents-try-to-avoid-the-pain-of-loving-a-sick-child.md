@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-03-30
-tag: writings
 title: Why Parents Try to Avoid the Pain of Loving a Sick Child
 ---
 Imagine this. You’ve spent your childhood with a brother bound to a

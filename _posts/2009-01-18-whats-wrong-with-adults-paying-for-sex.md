@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-01-18
-tag: writings
 title: Whats Wrong with Adults Paying for Sex
 ---
 This summer, Norway has quietly joined Sweden in outlawing paid sex. Men

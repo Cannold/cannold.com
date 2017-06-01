@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-06-16
-tag: writings
 title: What we Have is the Failure to Communicate
 ---
 We have a problem. Despite broad and sustained scientific consensus

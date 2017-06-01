@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-12-05
-tag: writings
 title: Lift the Ban on RU486!
 ---
 It’s beginning to look a lot like Christmas, but those who’d

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-02-03
-tag: writings
 title: Education Ethics bigger than public versus private
 ---
 There are 17 selective high schools in New South Wales, and 10 schools

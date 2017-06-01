@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: 'Who better than Anne Summers, a woman who lists among her achievements the
   best-selling book Damned Whores and God’s Police, advisor to former Prime Minister
   Keating and Officer of the Order of Australia for services to journalism and women,
@@ -8,7 +9,6 @@ excerpt: 'Who better than Anne Summers, a woman who lists among her achievements
   on women’s well-being and the nation’s capacity to reproduce itself?'
 link: ''
 published: 2003-12-20
-tag: writings
 title: "Book Review - â\x80\x9CThe End of Equality: Work, Babies and Womenâ\x80\x99s
   Choices in 21st Century Australiaâ\x80\x9D"
 ---

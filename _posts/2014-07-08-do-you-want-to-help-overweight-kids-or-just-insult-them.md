@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2014-07-08
-tag: writings
 title: Do you want to help overweight kids, or just insult them?
 ---
 *We need a positive message to give children the gift of good health, writes Leslie Cannold.*

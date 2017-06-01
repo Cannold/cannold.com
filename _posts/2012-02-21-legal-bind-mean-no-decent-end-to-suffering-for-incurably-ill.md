@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2012-02-21
-tag: writings
 title: 'Legal bind mean no decent end to suffering for incurably ill '
 ---
 SARA MONOPOLI, a non-smoker, was 34 years old - and 39 weeks pregnant - when diagnosed with terminal lung cancer. Alan Rosendorff, 56, was a successful lawyer and strapping bloke who swam kilometres in Melbourne's Port Phillip Bay to keep fit, when he learnt his recently diagnosed stomach cancer had metastasised.

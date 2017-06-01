@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-02-28
-tag: writings
 title: Support for Dying Friend our Final Gift
 ---
 A READER - a qualified scientist I’ll call Ron - asks for my view on a

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2013-12-23
-tag: in-the-media
 title: 'Leslie on Gene Science: Society Must Regulate What Happens in Lab '
 ---
 Bioethicists have raised the red flag over an American patent for a method that could allow people to choose genetic traits like eye colour in children sired from donor eggs or sperm.

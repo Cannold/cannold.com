@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2011-03-27
-tag: in-the-media
 title: "Leslieâ\x80\x99s Twitter Contribution to #DikiLeaks Scandal Noted by Sheenal
   Singh"
 ---

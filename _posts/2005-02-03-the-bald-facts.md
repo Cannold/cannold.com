@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-02-03
-tag: writings
 title: The bald facts
 ---
 WINSTON Churchill said that a fanatic was a person who couldn’t change

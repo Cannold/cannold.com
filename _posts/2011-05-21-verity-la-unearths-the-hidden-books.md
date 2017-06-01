@@ -1,9 +1,9 @@
 ---
 assets: ~
+categories: in-the-media
 excerpt: 'Alec Patric interviews Leslie for this gem of a literary blog '
 link: ''
 published: 2011-05-21
-tag: in-the-media
 title: Verity La Unearths The Hidden Books
 ---
 Alec Patric: There are books we buy and then hide afterwards. They become our secrets. Sometimes they’re so difficult to keep, we get rid of the evidence. We won’t admit to having read them even though we might be glad we did. Books that might have been instrumental in helping us better understand ourselves, to negotiate certain experiences or to help us make difficult decisions—and yet we’d be ashamed to have someone notice them on our bookshelves. You’ve written books such as these. How does it feel to be the writer of material readers prefer to keep hidden?

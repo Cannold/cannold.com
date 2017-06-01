@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-08-24
-tag: writings
 title: "Beware, itâ\x80\x99s a bitter pill we swallow"
 ---
 They’ve done it again. For the third time, scientists have found

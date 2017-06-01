@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-08-14
-tag: writings
 title: According to some, the problem with the media is YOU
 ---
 Last weekend I chaired a session at the Byron Bay Writers' Festival in which ABC Radio presenter and newspaper columnist Phillip Adams, Network Ten's Charlie Pickering and Fairfax columnist and ABC presenter Richard Glover gave an overflowing audience their views on the future of an ethical media. I was also privy to the thoughts and occasional confessions of three other journalists on this issue. Here are some points on what I was told:

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-08-29
-tag: writings
 title: Implications of Dr Suman Sood conviction for unlawful abortion
 ---
 Leslie talks about the implications of the conviction of New South

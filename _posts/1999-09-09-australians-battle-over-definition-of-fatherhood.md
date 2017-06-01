@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 1999-09-09
-tag: writings
 title: Australians Battle Over Definition of Fatherhood
 ---
 Court and legislative battles have embroiled this nation in an uneasy

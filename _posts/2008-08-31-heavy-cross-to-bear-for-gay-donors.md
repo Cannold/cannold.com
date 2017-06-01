@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-08-31
-tag: writings
 title: Heavy Cross to Bear for Gay Donors
 ---
 Political activism is often a thankless task. It’s worse when the cause

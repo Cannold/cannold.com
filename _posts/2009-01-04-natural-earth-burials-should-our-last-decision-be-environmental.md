@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-01-04
-tag: writings
 title: 'Natural Earth Burials: Should our last decision be environmental?'
 ---
 Ethical talk about the dead usually focuses on rights. The rights of the

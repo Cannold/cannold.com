@@ -1,12 +1,12 @@
 ---
 assets: ~
+categories: books
 excerpt: What, No Baby? takes us on journey into thelives of contemporary women who
   plan to have it all - marriage, motherhood and work - yet have been derailed by
   reluctant men, insatiably demanding jobs and ever-climbing expectations of what
   it takes to be a "good" mother.
 link: ''
 published: 2005-01-01
-tag: books
 title: What, No Baby?
 ---
 [[What__No_Baby_cover_art|class=right]] 

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: http://www.abc.net.au/news/2013-04-09/paid-leave-for-organ-donation-needs-monitoring/4615858
 published: 2013-05-20
-tag: in-the-media
 title: Paid Leave for Organ Donation Needs Monitoring
 ---
 One of Australia's leading medical ethicists says the Federal Government's trial program of paid leave for organ donation will need to be carefully monitored.

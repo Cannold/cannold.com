@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-07-18
-tag: writings
 title: Zealotry trumps humanity in pursuit of dubious cause
 ---
 There is no end in sight to the painful saga of the long-ago termination

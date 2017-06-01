@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-07-04
-tag: writings
 title: A Few Good Men and Stephen Milne Rape Allegations
 ---
 Important stories can hit-and develop-at the wrong time. Like in the

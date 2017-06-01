@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2004-04-13
-tag: writings
 title: The Difference between a Slut and a Stud
 ---
 Has anyone been listening to the lyrics of Eminem lately? The man is

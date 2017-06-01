@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2010-06-20
-tag: writings
 title: Protect Our Kids from Scripture Teachers and Junk Food Advertisers
 ---
 *It’s easy taking candy from a baby. That doesn’t make it right.*

@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: ' It’s a big year for books on prostitution, with Call Me Elizabeth and Callgirl
   only some of the volumes weighing down gender studies shelves across the nation.
   At the start of Callgirl Angell gives us an inkling as to the cause of the current
@@ -15,7 +16,6 @@ excerpt: ' It’s a big year for books on prostitution, with Call Me Elizabeth a
   out.'
 link: ''
 published: 2005-08-20
-tag: writings
 title: Book Review - Call Me Elizabeth and Callgirl
 ---
 Call Me Elizabeth: Wife, mother, escort A true story by Dawn Annandale

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2000-06-03
-tag: writings
 title: Best, yes, but for whom?
 ---
 BREASTFEEDING: what could be more simple? Best for mother, best for

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-12-06
-tag: writings
 title: 'We ought to worry about Australia''s Democratic Decline '
 ---
 There's been much talk recently about a decline in the ''civility'' of our public debate. This follows a long period of anxiety about ''values'' and disgruntlement about ''spin'', and - if I'm reading the tea leaves right - will soon give way to sustained fretting about what our Prime Minister recently called the ''Americanisation'' of Australian politics.

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-11-09
-tag: writings
 title: "Climate Change: Itâ\x80\x99s about the economy, stupid"
 ---
 Catastrophic climate change is the moral issue of our time. If we flub

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2004-01-21
-tag: writings
 title: Deadly price of decency
 ---
 WE still don’t know exactly what sparked the terrible flurry of violence

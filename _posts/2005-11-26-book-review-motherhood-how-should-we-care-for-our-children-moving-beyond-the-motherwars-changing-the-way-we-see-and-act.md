@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: Motherhood is the latest in a long line of cri de coeur books by baby-boom
   women about what is claimed to be the incompatibility of “feminist” ideas about
   motherhood and female emancipation and their lived experience of motherhood. Like
@@ -10,7 +11,6 @@ excerpt: Motherhood is the latest in a long line of cri de coeur books by baby-b
   need them to mother).
 link: ''
 published: 2005-11-26
-tag: writings
 title: 'Book Review - Motherhood: How should we care for our children? Moving beyond
   the motherwars - changing the way we see and act'
 ---

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-02-01
-tag: writings
 title: Let Us Decide for Ourselves on Euthanasia
 ---
 The hypocrisy of the Coalition government on issues of personal choice

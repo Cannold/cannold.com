@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2000-01-23
-tag: writings
 title: 'The bully and the bullied, chapter and verse - I confess: I was cruel in school'
 ---
 A lot has been said in the past two weeks about the devastation wrought

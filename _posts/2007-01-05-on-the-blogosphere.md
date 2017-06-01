@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-01-05
-tag: writings
 title: On the Blogosphere
 ---
 [As heard on ABC Radio National - Summer

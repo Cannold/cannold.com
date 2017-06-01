@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: Once upon a time, there were two men.  The first, Gary, had a child in a
   shaky marriage. The couple separated, but then reconciled. When Patti discovered
   she was pregnant, both knew the child could be that of the lover she took during
@@ -12,7 +13,6 @@ excerpt: Once upon a time, there were two men.  The first, Gary, had a child in 
   to a relationship with the small child.
 link: ''
 published: 2006-12-17
-tag: writings
 title: Are Fathers Parents or Progenitors?
 ---
 Once upon a time, there were two men.

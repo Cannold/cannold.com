@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-03-09
-tag: writings
 title: Stand Up and Shoulder the Consequences
 ---
 The real test of our principles is when those with whom we disagree

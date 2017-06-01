@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:17
-tag: writings
 title: "Leslie and 44 Other Signatories Warn That Quest for Womenâ\x80\x99s Equality
   Will Be Turned Back Under PM Tony Abbott"
 ---

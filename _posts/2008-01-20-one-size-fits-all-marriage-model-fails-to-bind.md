@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-01-20
-tag: writings
 title: One-Size-Fits-All Marriage Model Fails to Bind
 ---
 It’s built into our psyches. How could it not be, with marriage - and

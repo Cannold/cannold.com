@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2012-04-15
-tag: in-the-media
 title: 'Fairfax Covers''s Leslie''s Speech at The Celebration of Reason '
 ---
 JERRY deWitt ''came out'' a few months ago. It cost him his job, and nearly his house, but he could not be happier because he feels he has regained his integrity.

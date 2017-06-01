@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-11-14
-tag: writings
 title: It Matters Who You Are, and Where You Come From
 ---
 Should arguments stand or fall on their merit? Or is it critical that

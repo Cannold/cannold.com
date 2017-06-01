@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:09
-tag: writings
 title: "Letâ\x80\x99s Keep the Counsellors Honest and True"
 ---
 Pregnancy counsellors must declare their stance on abortion.

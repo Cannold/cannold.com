@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-05-03
-tag: writings
 title: We Must Respect the Wrong Decision
 ---
 Should pregnant women smoke? OK, that’s a no-brainer but here’s a harder

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-09-07
-tag: writings
 title: Conscience Votes Entail Responsibilities, Not just Rights
 ---
 Lord help me, here comes another conscience vote. This time, it’s about

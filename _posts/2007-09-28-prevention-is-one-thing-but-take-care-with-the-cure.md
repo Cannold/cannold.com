@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-09-28
-tag: writings
 title: Prevention is One Thing, But Take Care with the Cure
 ---
 Ingrates. That’s the word that keeps coming to mind when the Canberra

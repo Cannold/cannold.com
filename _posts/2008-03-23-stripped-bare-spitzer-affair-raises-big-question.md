@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-03-23
-tag: writings
 title: Stripped bare, Spitzer affair raises big question
 ---
 The facts are simple. Elliot Spitzer, who fought organised crime and

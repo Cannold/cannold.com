@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-05-19
-tag: writings
 title: Living in the public eye means living under public judgement
 ---
 Former footballer, broadcaster and TV fisherman Rex Hunt’s entanglement

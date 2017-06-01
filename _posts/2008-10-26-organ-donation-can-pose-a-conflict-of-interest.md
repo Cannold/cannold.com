@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-10-26
-tag: writings
 title: Organ Donation Can Pose a Conflict of Interest
 ---
 For millennia, religious authorities have defined death as the stilling

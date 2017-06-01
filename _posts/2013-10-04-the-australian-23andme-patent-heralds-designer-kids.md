@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: !!perl/scalar:binary "77+877+877+877+8\n"
 published: 2013-10-04
-tag: in-the-media
 title: 'The Australian: 23andMe Patent Heralds Designer Kids '
 ---
 by John Ross 

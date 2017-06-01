@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: '*Pregnancies Don’t Need Support, Women Do*  Anyone who followed the debate
   on RU486, and understood the complex politics surrounding it, knew it was coming:
   a quid pro quo for the Health Minister to soften the blow of losing his powers to
@@ -9,7 +10,6 @@ excerpt: '*Pregnancies Don’t Need Support, Women Do*  Anyone who followed the 
   Act.'
 link: ''
 published: 2006-03-06
-tag: writings
 title: Women need counselling, not coercion
 ---
 *Pregnancies Don’t Need Support, Women Do*

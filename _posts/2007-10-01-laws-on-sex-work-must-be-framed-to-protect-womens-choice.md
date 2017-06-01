@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-10-01
-tag: writings
 title: "Laws on Sex Work Must be Framed to Protect Womenâ\x80\x99s Choice"
 ---
 Sex work is back in the news. Having hardly been broached in polite

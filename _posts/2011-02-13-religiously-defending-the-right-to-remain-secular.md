@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-02-13
-tag: writings
 title: Religiously Defending the Right to Remain Secular
 ---
 This column is about lawlessness, and what your government is doing in

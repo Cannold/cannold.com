@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-09-06
-tag: writings
 title: The Tweeting Truth (according to Leslie) in the ASA Mag
 ---
 Forget the cliches. Twitter is an essential tool for Writers because it is the easiest way to raise one's profile and engage with readers.

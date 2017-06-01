@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-02-27
-tag: writings
 title: "Why Women Donâ\x80\x99t Always Support Other Women"
 ---
 A few months back I was a guest on a morning talk show. “Dr Cannold,”

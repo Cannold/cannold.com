@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:14
-tag: writings
 title: "Womenâ\x80\x99s Rights? Donâ\x80\x99t Make Me Laugh"
 ---
 It wasn’t true then, and it still isn’t now. In fact, it’s a big, fat

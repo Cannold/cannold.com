@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-05-17
-tag: writings
 title: Sex Test Engenders a Skewed Reality
 ---
 The Mother’s Day press release was cloying. The innovation it heralds is

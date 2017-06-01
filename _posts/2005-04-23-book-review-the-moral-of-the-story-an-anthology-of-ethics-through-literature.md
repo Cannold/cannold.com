@@ -1,5 +1,6 @@
 ---
 assets: ~
+categories: writings
 excerpt: Over my (far too) many years of studentship and academic employment, I have
   bought (far too) many books, (far too) many of which have stagnated on my shelves,
   growing dusty and churlish from disuse. Amongst this unedifying lot have never been
@@ -15,7 +16,6 @@ excerpt: Over my (far too) many years of studentship and academic employment, I 
   off the shelf to thumb through again and again.
 link: ''
 published: 2005-04-23
-tag: writings
 title: 'Book Review - The Moral of the Story: An anthology of ethics through literature'
 ---
 The Moral of the Story: An anthology of ethics through literature edited

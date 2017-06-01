@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-04-19
-tag: writings
 title: Collaboration Takes Sting Out of Separation and Divorce
 ---
 A kindler, gentler divorce may be a contradiction in terms, but the

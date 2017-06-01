@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-08-03
-tag: writings
 title: Hey girls, be ladies and enslave yourself to men
 ---
 Are you a foul-mouthed, domestic disaster of a young woman who cares

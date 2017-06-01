@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-12-24
-tag: writings
 title: A Man Worth Emulating
 ---
 *In our society, who best reflects Jesus’ compassion and sense of

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-03-02
-tag: writings
 title: Threat to Choice Leaves Bitter Taste in GM Debate
 ---
 Some moral questions reduce to empirical ones. Where you stand and what

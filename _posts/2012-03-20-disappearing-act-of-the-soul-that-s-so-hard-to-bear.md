@@ -1,10 +1,10 @@
 ---
 assets: ~
+categories: writings
 excerpt: 'A column about Dying with Dignity in memory to Hilda Abramson, Leslie''s
   grandmother '
 link: ''
 published: 2012-03-20
-tag: writings
 title: 'Disappearing Act of the Soul That''s So Hard to Bear '
 ---
 To have lived a good life. Everyone wants that.

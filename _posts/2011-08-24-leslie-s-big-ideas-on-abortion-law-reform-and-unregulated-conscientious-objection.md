@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: http://www.abc.net.au/tv/bigideas/stories/2011/04/05/3181750.htm
 published: 2011-08-24
-tag: in-the-media
 title: 'Leslie''s Big Ideas on Abortion Law Reform and Unregulated Conscientious Objection '
 ---
 Watch Leslie's Pamela Denoon Lecture at ANU, recorded by ABC Radio National's Big Ideas

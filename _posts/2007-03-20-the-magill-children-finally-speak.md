@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: http://bulletin.ninemsn.com.au/article.aspx?id=255563
 published: 2007-03-20
-tag: writings
 title: The Magill children finally speak
 ---
 In an exclusive report in the Bulletin, Julie-Anne Davies speak to

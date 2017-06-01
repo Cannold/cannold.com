@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2000-04-08
-tag: writings
 title: "It didnâ\x80\x99t start with a kissâ\x80¦"
 ---
 HOW DOES this generation define a transcendent relationship, a perfect

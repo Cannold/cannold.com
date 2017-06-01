@@ -1,11 +1,11 @@
 ---
 assets: ~
+categories: writings
 excerpt: WE MAY think we know the real story behind this week’s report that 67-year-old
   billionaire media magnate Rupert Murdoch intends to marry his 31-year-old girlfriend
   Wendy Deng after he divorces Anna Murdoch.
 link: ''
 published: 1998-12-04
-tag: writings
 title: The young beauty and the billionaire
 ---
 Why both women and men resent this modern parable.

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2000-02-03
-tag: writings
 title: Do nice guys finish last?
 ---
 The latest theory out of America about rape is not just wrong, it’s

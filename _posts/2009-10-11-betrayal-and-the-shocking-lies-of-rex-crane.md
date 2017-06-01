@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-10-11
-tag: writings
 title: Betrayal and the Shocking Lies of Rex Crane
 ---
 “From Hero to Zero” ran the headline, a nice one to describe the fall

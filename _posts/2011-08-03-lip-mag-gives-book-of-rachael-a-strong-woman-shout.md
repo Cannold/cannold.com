@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2011-08-03
-tag: in-the-media
 title: Lip Mag gives Book of Rachael a "strong woman" shout
 ---
 Most readers could name a book that changed their life. For many women, it will be a book that got them thinking about the kind of woman they wanted to be, and they probably read it during a time of major change in their life. These are the books that are more influence than entertainment.

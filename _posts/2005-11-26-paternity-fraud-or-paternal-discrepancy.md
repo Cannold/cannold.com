@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2005-11-26
-tag: writings
 title: Paternity Fraud or Paternal Discrepancy?
 ---
 “Paternity Fraud” implies deceptive women cuckholding men into believing

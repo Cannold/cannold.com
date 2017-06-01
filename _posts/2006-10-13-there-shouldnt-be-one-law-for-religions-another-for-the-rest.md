@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-10-13
-tag: writings
 title: "There Shouldnâ\x80\x99t Be One Law for Religions, Another for the Rest"
 ---
 Retiring sex discrimination commissioner Pru Goward’s parting comments

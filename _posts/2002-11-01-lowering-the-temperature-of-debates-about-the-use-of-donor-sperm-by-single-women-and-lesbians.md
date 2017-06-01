@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: research
 link: ''
 published: 2002-11-01
-tag: research
 title: Lowering the Temperature of Debates About the Use of Donor Sperm by Single
   Women and Lesbians
 ---

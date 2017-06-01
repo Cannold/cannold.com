@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2006-06-06
-tag: writings
 title: 'Progressive Social Movements: Is the end nigh?'
 ---
 *The challenge for feminists is to beat a system that still stifles

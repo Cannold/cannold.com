@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2009-11-03
-tag: writings
 title: "Leslie Talks to 4BC Morningâ\x80\x99s Host Greg Carey About The Capacity for
   Consent"
 ---

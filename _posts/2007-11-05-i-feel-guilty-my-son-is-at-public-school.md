@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2007-11-05
-tag: writings
 title: I Feel Guilty, My Son is at Public School
 ---
 Ive been wanting to write this column all year, but dreading it, too.

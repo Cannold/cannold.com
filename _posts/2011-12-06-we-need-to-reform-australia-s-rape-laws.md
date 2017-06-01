@@ -1,9 +1,9 @@
 ---
 assets: ~
+categories: writings
 excerpt: '*Judicial processes that are fair don''t always deliver fair outcomes*'
 link: ' '
 published: 2011-12-06
-tag: writings
 title: 'We need to reform Australia''s rape laws '
 ---
 Australians believe they ought to be ruled by laws, not by the arbitrary whims of whoever happens – by might or right – to wield power. 

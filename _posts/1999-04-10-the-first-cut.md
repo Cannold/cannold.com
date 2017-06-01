@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 1999-04-10
-tag: writings
 title: The first cut
 ---
 TO circumcise our sons or not? Before our first children were born, a

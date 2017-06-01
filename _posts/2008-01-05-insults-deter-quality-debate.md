@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-01-05
-tag: writings
 title: Insults Deter Quality Debate
 ---
 Something worrying is happening to column readers. They are becoming

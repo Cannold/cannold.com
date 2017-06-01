@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-04-06
-tag: writings
 title: "Cash is Always the Currency of Loveâ\x80\x99s Labours Lost"
 ---
 It’s always about the money. Or is it?

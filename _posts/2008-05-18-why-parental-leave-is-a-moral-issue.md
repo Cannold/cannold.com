@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-05-18
-tag: writings
 title: Why Parental Leave is a Moral Issue
 ---
 The government has ordered yet another inquiry into a paid leave scheme

@@ -1,11 +1,11 @@
 ---
 assets: ~
+categories: in-the-media
 excerpt: |
   As the world acknowledges the triumphs and tribulations of women on International Women's Day 2013 this Friday, Alana Schetzer shines the
   spotlight on Melbourne's most influential females
 link: ''
 published: 2013-03-06
-tag: in-the-media
 title: Leslie joins PM Julia Gillard on list of Melbourne's Most Influential Women
 ---
 *As the world acknowledges the triumphs and tribulations of women on International Women's Day 2013 this Friday, Alana Schetzer shines the

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: in-the-media
 link: ''
 published: 2011-05-02
-tag: in-the-media
 title: 'The Weekly Review on The Book of Rachael '
 ---
 Leslie Cannold was perplexed. Among all the documents, internet sites and books she read about the life of Jesus, there was no mention of his sisters. Even the New Testament gospels proved unhelpful.

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-10-02
-tag: writings
 title: 'Line between censors and sensibility a clear one '
 ---
 You cannot learn from books you'll never read or be inspired by ads you'll never see.

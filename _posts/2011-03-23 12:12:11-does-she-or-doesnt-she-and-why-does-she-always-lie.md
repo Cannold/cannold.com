@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2011-03-23 12:12:11
-tag: writings
 title: "Does she or doesnâ\x80\x99t she? And why does she always lie?"
 ---
 There’s always a moment of truth. For me, it came a few weeks ago, on my

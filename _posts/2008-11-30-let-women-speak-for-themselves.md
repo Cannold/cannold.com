@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: writings
 link: ''
 published: 2008-11-30
-tag: writings
 title: Let Women Speak for Themselves
 ---
 For years, we’ve been tied up in knots, unsure how to protect the rights

@@ -1,8 +1,8 @@
 ---
 assets: ~
+categories: ~
 link: http://www.abc.net.au/worldtoday/content/2015/s4304650.htm?site=riverina
 published: 2015-09-08
-tag: ~
 title: '"Baby Steps to be Welcomed": Leslie on Pope''s Forgiveness of Women who Have
   Abortions '
 ---

@@ -1,9 +1,9 @@
 ---
 assets: ~
+categories: writings in-the-media
 link: an [EVA award](http://www.evas.org.au/index.php/evas-winners/2011) for gender-sensitive
   reporting
 published: 2011-06-10
-tag: in-the-media
 title: 'Leslie Wins EVA award for Column on Sexual Assault '
 ---
 The EVAs's reward reporters who report responsibly on violence against women. In 2011, Leslie won the EVA for Best Opinion for her piece "There are many reasons women don't report rape" on the media coverage of sexual violence by elite athletes in the AFL and her own experience of sexual assault. 
