@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2012-01-21
-tags: ~
+tag: in-the-media
 title: Melinda Tankard Reist Sues (#MTRsues) A Hot Hashtag on Twitter
 ---
 Leslie was oft-quoted in the news media when academic and blogger Jennifer Wilson made public a threat by conservative Christian activist Melinda Tankard Reist to sue her for defamation. 

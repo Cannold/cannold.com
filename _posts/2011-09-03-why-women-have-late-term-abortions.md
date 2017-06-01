@@ -2,8 +2,9 @@
 assets: ~
 excerpt: |
   Late-term abortions are sought for many reasons - rarely ones that are trivial, despite what the pro-life lobby says.
+link: ''
 published: 2011-09-03
-tags: ~
+tag: writings
 title: Why Women Have "Late-Term" Abortions
 ---
 A women was taken to Box Hill Hospital last week after complications while having an abortion at a clinic in Croydon. She suffered organ failure. Whatever the connection between the abortion procedure and the woman's current condition - and there is no evidence that there is one - any incident at a clinic that provides ''late-term'' abortions raises questions in the community.

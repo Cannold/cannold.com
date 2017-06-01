@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-04-02
-tags: ~
+tag: in-the-media
 title: 'Panorama Reviews Book of Rachael '
 ---
 The Canberra Times magazine reviews *The Book of Rachael.*

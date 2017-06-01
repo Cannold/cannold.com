@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-11-20
-tags: ~
+tag: writings
 title: 'The Fat And Skinny Of Desiring Your Spouse '
 ---
 My Fat Spouse is the brainchild of an American body-builder named Chris. As the title suggests, the MFS website is a space where presumably slim spouses can bitch and worry about fat ones, as well as trade practical tips for "coping".

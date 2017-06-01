@@ -2,8 +2,9 @@
 assets: ~
 excerpt: 'Leslie quoted in Punch piece on relentless pursuit of fetal manslaughter
   laws by anti-choice Oz pollies '
+link: ''
 published: 2013-01-16
-tags: ~
+tag: in-the-media
 title: 'Making the Wrong Moves on the Rights of the Unborn '
 ---
 by Tory Shepherd

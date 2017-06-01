@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2007-12-04
-tags: ~
+tag: research
 title: 'Declining Marriage Rates and Gender Inequity in Social Institutions: Towards
   an Adequately Complex Explanation for Childlessness'
 ---

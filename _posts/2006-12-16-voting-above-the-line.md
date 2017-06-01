@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-12-16
-tags: ~
+tag: writings
 title: Voting Above the Line
 ---
 It turned out to be a storm in a teacup. In response to calls for a

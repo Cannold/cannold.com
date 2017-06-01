@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-04-10
-tags: ~
+tag: writings
 title: 'Are Christians Really the Source of Oz Values? '
 ---
 It has become commonplace for the Australian Christian Lobby and some right-wing churches to claim Christianity is the source of Australian values. Tolerance, equality of opportunity and between genders, the fair go – yep, when it comes to these and other values Christians claim to have got there first.

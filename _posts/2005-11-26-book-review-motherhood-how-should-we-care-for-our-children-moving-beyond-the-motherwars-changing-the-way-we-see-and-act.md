@@ -8,8 +8,9 @@ excerpt: Motherhood is the latest in a long line of cri de coeur books by baby-b
   - “as naturally as air”. But when their children are born, such women find they
   conflict with the way they want to mother (or as Manne prefers, the way children
   need them to mother).
+link: ''
 published: 2005-11-26
-tags: ~
+tag: writings
 title: 'Book Review - Motherhood: How should we care for our children? Moving beyond
   the motherwars - changing the way we see and act'
 ---

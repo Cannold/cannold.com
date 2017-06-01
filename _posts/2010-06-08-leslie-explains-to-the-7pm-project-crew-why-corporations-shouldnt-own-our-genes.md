@@ -1,8 +1,9 @@
 ---
 assets: ~
 excerpt: Leslie can be found 6 mins 55 seconds in.
+link: ''
 published: 2010-06-08
-tags: ~
+tag: writings
 title: "Leslie Explains to the 7Pm Project Crew Why Corporations Shouldnâ\x80\x99t
   Own Our Genes"
 ---

@@ -6,8 +6,9 @@ excerpt: 'Who better than Anne Summers, a woman who lists among her achievements
   to write about the most pressing social problem of our time: the tragic imbalance
   between work and family responsibilities, and the devastating impact it is having
   on women’s well-being and the nation’s capacity to reproduce itself?'
+link: ''
 published: 2003-12-20
-tags: ~
+tag: writings
 title: "Book Review - â\x80\x9CThe End of Equality: Work, Babies and Womenâ\x80\x99s
   Choices in 21st Century Australiaâ\x80\x9D"
 ---

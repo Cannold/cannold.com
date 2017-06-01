@@ -2,8 +2,9 @@
 assets: ~
 excerpt: Ambassadors say Let's Get on with It and call on parliament to bring the
   dying with dignity issue to a vote
+link: http://www.dwdv.org.au/LGOWI/LGOWI_Ambassadors.asp
 published: 2009-08-09
-tags: ~
+tag: in-the-media
 title: Leslie made Dying with Dignity Ambassador
 ---
 We as Ambassadors for law reform say:

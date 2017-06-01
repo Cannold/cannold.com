@@ -1,8 +1,9 @@
 ---
 assets: ~
 excerpt: History is distressingly silent on the subject of the women in Jesus’ life
+link: ''
 published: 2010-12-26
-tags: ~
+tag: writings
 title: Did Jesus Have a Sister?
 ---
 Years ago, I was watching a documentary series on ABC TV called Son of

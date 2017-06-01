@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-10-07
-tags: ~
+tag: writings
 title: 'The Bill Henson Debate: Looking After Our Children Without Hysteria'
 ---
 Yesterday was a big day for my child. The start of term at the primary

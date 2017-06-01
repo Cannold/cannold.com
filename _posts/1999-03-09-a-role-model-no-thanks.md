@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-03-09
-tags: ~
+tag: writings
 title: A role model? No thanks
 ---
 First Diana, now Monica. They became superstars, but that doesn’t make

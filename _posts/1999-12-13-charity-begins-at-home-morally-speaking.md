@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-12-13
-tags: ~
+tag: writings
 title: Charity begins at home, morally speaking
 ---
 Protecting our loved ones is only natural in a world of un-met misery.

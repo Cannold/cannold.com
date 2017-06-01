@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.perilousadventures.net/1102/CannoldReview.html
 published: 2011-06-15
-tags: ~
+tag: in-the-media
 title: 'Perilous Adventure a fan of The Book of Rachael '
 ---
 Historical fiction is a curious genre. In some sense, the pleasures of reading historical fiction are similar to those we gain from reading fiction set in exotic landscapes. The thrill of seeing men and women living lives in such different circumstances to our own. At times, historical fiction can become a kind of decorative art: more concerned with the mise en scene of bodices and buckram than the exploration of characters and lives, either fictional or non-fictional. Not all historical fiction is alike: some works use history as a backdrop, inventing characters and stories, like the hugely successful historical works of Sarah Waters (Fingersmith, Tipping the Velvet). Others take historical figures as a leaping off point, imagining into the gaps in the record, such as Geraldine Brooks (Year of Wonders, Caleb’s Crossing), or A S Byatt, whose The Children’s Book  is something of a reimagining of the life of children’s author Edith Nesbitt. Still others seek to place more or less well-known historical figures at the centre of their stories, humanising and particularising their lives while aiming to stick, more or less, to the facts. Hilary Mantel’s Wolf Hall, for example, or Philipa Gregory’s The Other Boleyn Girl.

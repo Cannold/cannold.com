@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-02-12
-tags: ~
+tag: writings
 title: The quiet renaissance in male culture
 ---
 THE evidence is everywhere. On the radio, where popular new group Cake

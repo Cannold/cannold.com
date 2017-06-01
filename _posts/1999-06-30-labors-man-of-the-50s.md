@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-06-30
-tags: ~
+tag: writings
 title: "Laborâ\x80\x99s man of the â\x80\x9950s"
 ---
 Just like John Howard, Martin Ferguson wants to take us back to the

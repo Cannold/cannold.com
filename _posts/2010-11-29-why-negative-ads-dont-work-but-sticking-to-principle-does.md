@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-11-29
-tags: ~
+tag: writings
 title: "Why Negative Ads Donâ\x80\x99t Work, but Sticking to Principle Does"
 ---
 It all comes down to Bentleigh, a Liberal strategist told me on Saturday

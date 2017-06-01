@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-23 12:12:08
-tags: ~
+tag: writings
 title: "Note to the PM: Politics Donâ\x80\x99t Belong in Medicine"
 ---
 For those who have been watching the debate about RU486, this

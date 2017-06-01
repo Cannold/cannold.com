@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-05-04
-tags: ~
+tag: writings
 title: The Dubious Morality of Women
 ---
 My speciality area of ethics is reproductive technologies. What this

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-09-02
-tags: ~
+tag: writings
 title: 'Don''t Let Disability Scheme Be Yesterday''s News '
 ---
 Just more than two weeks ago, the Australian government announced its commitment to introducing a National Disability Insurance Scheme.

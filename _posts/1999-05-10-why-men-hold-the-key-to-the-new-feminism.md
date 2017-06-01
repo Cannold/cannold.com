@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-05-10
-tags: ~
+tag: writings
 title: Why men hold the key to the new feminism
 ---
 All workers, not just parents and not just women, need a life.

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2013-03-04
-tags: ~
+tag: in-the-media
 title: '"Is it right to Judge?" Friday Talkback on ABC RN Life Matters'
 ---
 Join Leslie, Michael Jenson and academic Patrick Stokes on ABC RN's Life Matters Friday talk-back with the sparkling Natasha Mitchell to look at the rights and wrongs of judging others, and why being judged - but not judging - tends to hurt. 

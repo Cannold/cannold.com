@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-05-07
-tags: ~
+tag: writings
 title: 'Sex and the Teacher: Was Justice Done?'
 ---
 Did unconscious sexism lead to a miscarriage of justice in the case of

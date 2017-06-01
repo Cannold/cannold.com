@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-04-13
-tags: ~
+tag: writings
 title: We May Yet Avoid Frying from Global Warming
 ---
 You may not have heard of it, but my guess is, you will soon. Climate

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-10-05
-tags: ~
+tag: writings
 title: Domestic Violence is a Two-Way Street
 ---
 In the early 1990s I worked as a researcher for an organization

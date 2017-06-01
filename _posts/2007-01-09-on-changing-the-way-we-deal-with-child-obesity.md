@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2007-01-09
-tags: ~
+tag: writings
 title: On Changing the Way We Deal with Child Obesity
 ---
 [As heard on ABC Radio National - Summer

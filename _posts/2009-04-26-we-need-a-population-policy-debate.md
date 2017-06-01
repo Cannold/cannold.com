@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-04-26
-tags: ~
+tag: writings
 title: We Need a Population Policy Debate
 ---
 Tuned into the boat-people debate this week? If yes, you’ll know that

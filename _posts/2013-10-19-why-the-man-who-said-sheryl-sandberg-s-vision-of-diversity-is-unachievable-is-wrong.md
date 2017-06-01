@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2013-10-19
-tags: ~
+tag: writings
 title: Why the Man who said Sheryl Sandberg's Vision of Diversity is Unachievable
   is Wrong
 ---

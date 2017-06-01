@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-23 12:12:09
-tags: ~
+tag: writings
 title: Letters Page, The Australian, RU486
 ---
 What woman would want to have an unsafe, illegal abortion when she could

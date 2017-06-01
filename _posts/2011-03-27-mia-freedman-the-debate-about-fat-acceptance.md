@@ -3,8 +3,9 @@ assets: ~
 excerpt: 'Mia Freedman''s ''''If you have to ask, your bum does look big in that #rulesforlife''
   set off a Twitter spat where many hurtful things were said. Leslie weighs in on
   what''s fair and foul in the controversy about body image'
+link: ''
 published: 2011-03-27
-tags: ~
+tag: writings
 title: 'Mia Freedman & the Debate about Fat Acceptance '
 ---
 NOT long ago Mia Freedman tweeted, ''If you have to ask, your bum does look big in that. #rulesforlife''.

@@ -7,8 +7,9 @@ excerpt: '*Pregnancies Don’t Need Support, Women Do*  Anyone who followed the 
   package for two [pregnancy support measures]() a new counselling hotline and Medicare
   rebate. Then came the story of a push in Victoria to remove abortion from the Crimes
   Act.'
+link: ''
 published: 2006-03-06
-tags: ~
+tag: writings
 title: Women need counselling, not coercion
 ---
 *Pregnancies Don’t Need Support, Women Do*

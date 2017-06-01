@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2001-06-06
-tags: ~
+tag: writings
 title: "Staying mumâ\x80\x99s a cop-out"
 ---
 Feminists expect fathers to do domestic work, so how can they tacitly

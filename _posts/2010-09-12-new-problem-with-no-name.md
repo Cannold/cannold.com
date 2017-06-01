@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-09-12
-tags: ~
+tag: writings
 title: New Problem With No Name
 ---
 The first problem with no name was uncovered in the 1960s by a feminist

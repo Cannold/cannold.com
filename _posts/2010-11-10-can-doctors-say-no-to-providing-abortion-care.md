@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-11-10
-tags: ~
+tag: writings
 title: Can Doctors Say No to Providing Abortion Care?
 ---
 The religious rights of a small group of medical professionals do not

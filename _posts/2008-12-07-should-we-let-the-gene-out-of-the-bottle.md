@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-12-07
-tags: ~
+tag: writings
 title: Should We Let the Gene Out of the Bottle
 ---
 How much do you know about your genes? Does your genetic profile match

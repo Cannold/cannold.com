@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-08-09
-tags: ~
+tag: in-the-media
 title: "Leslie Interviewed by Fairfaxâ\x80\x99s Sunday Life Magazine"
 ---
 In the 9 August 2009 Body Issue Leslie, Federal Minister Kate Ellis, Ad

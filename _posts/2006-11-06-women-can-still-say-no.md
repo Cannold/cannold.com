@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-11-06
-tags: ~
+tag: writings
 title: "Women can still say â\x80\x9Cnoâ\x80\x9D"
 ---
 Is stem cell science really anti-woman? Can anyone who truly believes in

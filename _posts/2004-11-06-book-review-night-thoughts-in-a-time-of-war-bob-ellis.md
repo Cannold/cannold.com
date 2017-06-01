@@ -5,8 +5,9 @@ excerpt: Most people are familiar with at least some of Bob Ellis’s long and i
   Goodbye Babylon and First Abolish the Customer, he’s also written and directed features
   and documentaries including The Notradamus Kid and Bastards from the Bush. He’s
   won or been nominated for numerous honours, including the Premier’s Literary Award.
+link: ''
 published: 2004-11-06
-tags: ~
+tag: writings
 title: Book Review - Night Thoughts in a Time of War - Bob Ellis
 ---
 Night Thoughts in a Time of War by Bob Ellis, Viking, 2004.

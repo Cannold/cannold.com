@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2013-08-03
-tags: ~
+tag: in-the-media
 title: Leslie speaks on Future Politicians Segment of SYN FM
 ---
 Leslie speaks to Broede on SYN, a youth-run media org that provides training & broadcast opportunities for young people. 

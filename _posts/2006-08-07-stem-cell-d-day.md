@@ -7,8 +7,9 @@ excerpt: Late last year, the Lockhart Legislative Review Committee - the Federal
   on the basis of a cabinet vote, a backbench revolt saw the Prime Minister agree
   to a broader discussion at the first party room meeting after winter break. That
   meeting - otherwise known as Stem Cell D-Day - is today.
+link: ''
 published: 2006-08-07
-tags: ~
+tag: writings
 title: Stem Cell D-Day
 ---
 Co-authored with Dr Elizabeth Finkel

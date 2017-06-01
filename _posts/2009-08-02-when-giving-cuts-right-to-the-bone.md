@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-08-02
-tags: ~
+tag: writings
 title: When Giving Cuts Right to the Bone
 ---
 Years ago, when I was doing a Masters of Bioethics under renowned

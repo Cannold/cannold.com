@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-06-01
-tags: ~
+tag: writings
 title: 'The Bill Henson Affair: Shame on Adults for Paranoia over Adolescence'
 ---
 For a friend of mine, adolescence was no time of innocence. It was the

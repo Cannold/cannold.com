@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-05-01
-tags: ~
+tag: in-the-media
 title: 'Melbourne Weekly Profile on Leslie & The Good Book '
 ---
 AS a social commentator (among the many other caps she wears), Leslie Cannold doesn’t shy away from controversy – she welcomes it. So it’s no surprise that her first novel, The Book of Rachael, is about the women of Nazareth – in particular, the sister of Jesus.

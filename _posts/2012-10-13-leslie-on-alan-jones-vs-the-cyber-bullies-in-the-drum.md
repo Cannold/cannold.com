@@ -3,8 +3,9 @@ assets: ~
 excerpt: The power of the internet has let David have his day with Goliath in the
   Jones affair. But power corrupts no matter who wields it - a media mogul or a citizen
   group,
+link: ''
 published: 2012-10-13
-tags: ~
+tag: writings
 title: 'Leslie on Alan Jones vs the Cyber-bullies in The Drum '
 ---
 The controversy swirling around Alan Jones and the withdrawal of more than 70 sponsors and advertisers from his 2GB radio show illustrates that the absolute power of the mainstream media to determine who speaks - and what they speak about - is no more.

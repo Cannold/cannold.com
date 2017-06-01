@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.heraldsun.com.au/travel/news/beauties-caught-in-tourist-tussle/story-fn32891l-1226214572379
 published: 2011-12-06
-tags: ~
+tag: in-the-media
 title: 'Leslie Notes the Gender Inequity of the Tourism Australia Beauty Contest '
 ---
 A beauty pageant pitched as a tourism promotion has been described as an inappropriate way of selling our country.

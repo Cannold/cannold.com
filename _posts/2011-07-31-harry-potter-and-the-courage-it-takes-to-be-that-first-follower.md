@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-07-31
-tags: ~
+tag: writings
 title: 'Harry Potter and the Courage it takes to be that First Follower '
 ---
 As anyone who has followed my writings over the years knows, I cry easily. Which is why to those folks it will come as no surprise that the latest and final instalment of the Harry Potter film epic - Harry Potter and the Deathly Hallows Part 2 - made me cry. Not shuddering sobs but tears of joyful satisfaction. Here's the reason.

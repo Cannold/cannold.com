@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2012-07-13
-tags: ~
+tag: in-the-media
 title: 'Leslie joins IPA''s Patterson & and Mumble''s Brent on ABC TV''s The Drum '
 ---
 In this segment, Leslie and Peter question the Institute of Public Affair's Patterson's view that  the society = the economy, and that what's good for business is what's good for society.  

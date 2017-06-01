@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2000-02-12
-tags: ~
+tag: writings
 title: 'School hours: did feminism drop the ball?'
 ---
 Working parents may not be able to rely on the women’s movement to help

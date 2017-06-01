@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-02-26
-tags: ~
+tag: in-the-media
 title: "Leslie Cannoldâ\x80\x99s original ideas about choice may put her odds with
   other   feminists in the fertility debate"
 ---

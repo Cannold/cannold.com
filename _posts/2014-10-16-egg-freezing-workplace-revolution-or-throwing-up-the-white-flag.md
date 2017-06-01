@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.abc.net.au/news/2014-10-16/silicon-valley-egg-plan-no-revolution-ethicist/5817674
 published: 2014-10-16
-tags: ~
+tag: in-the-media
 title: 'Egg Freezing - Workplace Revolution or Throwing up the White Flag? '
 ---
 In the wake of Apple and Facebook's decision to fund egg-freezing for female employees, Leslie urges men to pursue active fatherhood and help women catalyse the workplace revolution we have to have. 

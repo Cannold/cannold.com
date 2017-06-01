@@ -2,8 +2,9 @@
 assets: ~
 excerpt: Premature babies may now have a greater chance at life, but we shouldn't
   let this welcome development be co-opted by anti-choice legislators & campaigners
+link: ''
 published: 2013-03-17
-tags: ~
+tag: writings
 title: 'What "Miracle Babies" Might Mean for Abortion Rights '
 ---
 What do medical breakthroughs slated to improve the health of premature infants have to do with abortion rights?

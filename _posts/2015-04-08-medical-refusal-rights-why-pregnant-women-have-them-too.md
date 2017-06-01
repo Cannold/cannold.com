@@ -3,8 +3,9 @@ assets: ~
 excerpt: A pregnant Sydney woman died after refusing treatment that may have saved
   her unborn baby. It’s a distressing choice, but the alternative could be just as
   troubling
+link: ''
 published: 2015-04-08
-tags: ~
+tag: writings
 title: 'Medical Refusal Rights: Why pregnant women have them, too '
 ---
 Today, we learned about the death of a 28-year-old pregnant woman from Sydney. She didn’t die today. She died last year, or perhaps even earlier. But we are hearing her story now because of a letter two of the women’s doctors have written about the case.

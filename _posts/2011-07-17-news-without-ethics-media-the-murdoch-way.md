@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ' '
 published: 2011-07-17
-tags: ~
+tag: writings
 title: 'News without Ethics: Media the Murdoch Way'
 ---
 Fish rot from the head down. So do unethical businesses and corrupt societies. This is as true when the fish is an unethical business as one of the arm of liberal democratic government – executive, judicial or legislative. It is also true of the fourth estate or free press, the often forgotten power-centre that is the key to a functioning democracy.

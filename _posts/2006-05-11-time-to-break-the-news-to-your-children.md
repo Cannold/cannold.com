@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2006-05-11
-tags: ~
+tag: writings
 title: Time to Break the News to Your Children
 ---
 Should children be told they were conceived by sperm or egg donation?

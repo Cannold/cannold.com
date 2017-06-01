@@ -1,8 +1,9 @@
 ---
 assets: ~
 excerpt: Leslie's Opinion piece in ABC Online's The Drum
+link: ''
 published: 2012-10-17
-tags: ~
+tag: writings
 title: 'Lance Armstrong & Why Cheaters Shouldn''t Prosper '
 ---
 Cheaters never prosper, or so we've been told. Yet with internet-assisted exam cheating and drugs in sport scandals back in the news, some may wonder whether modern societies have lost their way; whether in today's world you can either be honest or prosper, but you can't have it both ways.

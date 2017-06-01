@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2007-07-20
-tags: ~
+tag: writings
 title: High price to be paid if abortion reform bid fails
 ---
 I love Right to Life President Margaret Tighe. After years of dealing

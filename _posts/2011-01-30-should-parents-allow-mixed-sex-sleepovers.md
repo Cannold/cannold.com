@@ -1,8 +1,9 @@
 ---
 assets: ~
 excerpt: Mixed-sex sleepovers? Help!
+link: ''
 published: 2011-01-30
-tags: ~
+tag: writings
 title: Should Parents Allow Mixed Sex Sleepovers?
 ---
 Since reaching adolescence my boys have been keen to have girls who are “just friends” sleep at our house, and I have been just as keen to avoid it.

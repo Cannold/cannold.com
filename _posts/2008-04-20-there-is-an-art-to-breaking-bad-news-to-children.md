@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-04-20
-tags: ~
+tag: writings
 title: There is an art to breaking bad news to children
 ---
 Last year, a girl at my son’s school primary school - let’s call her

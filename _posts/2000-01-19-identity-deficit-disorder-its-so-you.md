@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2000-01-19
-tags: ~
+tag: writings
 title: "Identity deficit disorder - itâ\x80\x99s so you"
 ---
 JENNY McCARTNEY’S hand-wringing about the preoccupation of the modern

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.byronbaywritersfestival.com.au/v2/index.php
 published: 2011-08-11
-tags: ~
+tag: in-the-media
 title: 'Leslie Talks Women and Media Ethics at Byron Bay '
 ---
 If you missed the festival, listen to Leslie discuss 

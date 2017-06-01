@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-04-13
-tags: ~
+tag: in-the-media
 title: 'CityKat Talks about Abortion and Gives Leslie a Nod '
 ---
 Sigh. Somebody give me a martini and a room full of drunken celebrities and then we’ll see whose ‘private’ lifestyle choices are actually worth reporting.

@@ -1,8 +1,9 @@
 ---
 assets: ~
 excerpt: 'Leslie in Jenna Price''s wicked column on the Pie Problem '
+link: ''
 published: 2012-08-16
-tags: ~
+tag: in-the-media
 title: 'The Answer to Pay Equity - Cross Dressing! '
 ---
 Looking for a way to make sure that men and women have equal pay? The answer is cross-dressing. But before I go there, let's talk about paint samples.

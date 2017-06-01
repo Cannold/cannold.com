@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-08-15
-tags: ~
+tag: writings
 title: The National School Chaplaincy Program Is an Accident Waiting to Happen
 ---
 Around one in five young Australians suffers from mental illness. These

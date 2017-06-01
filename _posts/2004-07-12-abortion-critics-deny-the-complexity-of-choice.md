@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2004-07-12
-tags: ~
+tag: writings
 title: Abortion Critics Deny the Complexity of Choice
 ---
 British filmmaker Julia’s Black’s documentary My Foetus won’t screen in

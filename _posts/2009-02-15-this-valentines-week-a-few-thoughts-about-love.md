@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-02-15
-tags: ~
+tag: writings
 title: "This Valentineâ\x80\x99s Week, a Few Thoughts About Love"
 ---
 Philosophers struggle to define love, little less explain it in ways we

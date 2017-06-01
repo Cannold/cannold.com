@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-23 12:12:08
-tags: ~
+tag: writings
 title: "Senatorâ\x80\x99s choices could mean none for women"
 ---
 There’s only one thing I have to say about Queensland National’s Senator

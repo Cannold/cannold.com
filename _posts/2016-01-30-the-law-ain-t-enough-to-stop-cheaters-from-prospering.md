@@ -1,10 +1,10 @@
 ---
-layout: posts
 assets: ~
 excerpt: 'The scripture debate is distracting us from the simple truth that all kids
   need to be taught ethics at school '
+link: ''
 published: 2016-01-30
-tags: ~
+tag: writings
 title: 'The Law Ain''t Enough to Stop Cheaters from Prospering '
 ---
 Cheaters never prosper, or so the proverb goes. Yet over the past few weeks, revelations about match-fixing in tennis and rumours that the NSW Independent Commission Against Corruption will make no adverse findings against public officials behaving badly raises concerns that sometimes those with a case to answer may walk free.

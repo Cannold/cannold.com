@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-03-01
-tags: ~
+tag: writings
 title: Ethics in a Time of Media
 ---
 We expect a lot of our media. Not more than we should, but a decent

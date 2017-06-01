@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2005-04-18
-tags: ~
+tag: writings
 title: 'School Holidays: Give Us A Break'
 ---
 For me, school holidays are like housework: highly demanding,

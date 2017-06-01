@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://blogs.abc.net.au/nsw/2011/06/leslie-cannold.html
 published: 2011-06-08
-tags: ~
+tag: in-the-media
 title: Leslie on Catholic Hospitals refusing contraceptive advice to cancer trial
   participants
 ---

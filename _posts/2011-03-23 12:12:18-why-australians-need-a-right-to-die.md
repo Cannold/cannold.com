@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-23 12:12:18
-tags: ~
+tag: writings
 title: Why Australians Need a Right to Die
 ---
 Senator Bob Brown has been trying for some time to repeal the Euthanasia

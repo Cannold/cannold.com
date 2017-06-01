@@ -10,8 +10,9 @@ excerpt: Once upon a time, there were two men.  The first, Gary, had a child in 
   contact and both rights and obligations to the child. Ultimately, however, the court
   held that as “third parties” neither he - nor his parents - had any entitlement
   to a relationship with the small child.
+link: ''
 published: 2006-12-17
-tags: ~
+tag: writings
 title: Are Fathers Parents or Progenitors?
 ---
 Once upon a time, there were two men.

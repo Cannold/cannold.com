@@ -5,8 +5,9 @@ excerpt: Everyone’s heard of the Mummy Wars. The debate that flies out of the 
   childcare. Behind all the shouting about sample size, confidence levels and expert
   bias is a shrillness that can only come from women who feel accused of being “bad”
   mummies, or are defending their status as “good” mummies.
+link: ''
 published: 2007-11-19
-tags: ~
+tag: writings
 title: "Education is not about being a good or bad parent - itâ\x80\x99s about the
   children"
 ---

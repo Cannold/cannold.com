@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-09-21
-tags: ~
+tag: writings
 title: Whose Time is it Anyway, Peter?
 ---
 Peter Bloody Costello. Thank heavens the man is about to exit the

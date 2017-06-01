@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-03-16
-tags: ~
+tag: writings
 title: "In Death We Donâ\x80\x99t Part from our Obligations"
 ---
 Last week in New Zealand, Ivy May Ngahooro became the third body

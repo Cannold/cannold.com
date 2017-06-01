@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.iheu.org/dr-leslie-cannold-australian-humanist-year-2011
 published: 2011-04-30
-tags: ~
+tag: in-the-media
 title: 'Leslie made 2011 Australian Humanist of the Year '
 ---
 In selecting Leslie Cannold for this year’s award, The Council of Australian Humanist Societies are expressing their admiration for Leslie’s forthright views on such controversial issues as advocacy of abortion rights for women, family planning and access to assisted reproductive technologies.

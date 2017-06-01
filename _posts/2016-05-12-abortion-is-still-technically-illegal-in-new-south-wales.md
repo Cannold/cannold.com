@@ -1,8 +1,8 @@
 ---
-layout: posts
 assets: ~
+link: ''
 published: 2016-05-12
-tags: ~
+tag: in-the-media
 title: 'Abortion is still "technically illegal" in New South Wales '
 ---
 Back in 1900, a group of politicians sat down and drafted up a set of laws to govern the Australian state of New South Wales. One can only assume they were wearing wigs. And there were, of course, things they decided weren't acceptable in polite, turn-of-the-century society. Probably a lot of stuff about stealing another man's horse.
@@ -11,7 +11,7 @@ But as time passed things shifted and many of those laws—now more than 100 yea
 
 Reading like a Shakespearean sonnet, the law specifically instructs that:
 
-Whosoever, being a woman with child,
+Whosoever, being a woman with child, 
 unlawfully administers to herself any drug or noxious thing, or
 unlawfully uses any instrument or other means,
 with intent in any such case to procure her miscarriage,

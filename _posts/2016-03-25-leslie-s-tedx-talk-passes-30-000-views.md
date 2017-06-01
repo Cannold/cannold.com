@@ -1,14 +1,13 @@
 ---
-layout: posts
 assets: ~
 excerpt: 'As Leslie''s Tedx Talk on abortion stigma nears 30,000 views and has been
   featured on Speakola, and in the run-up to her 6 minutes on stage in Copenhagen
   at the Global Women Deliver conference, she provides the transcript and the link
   to the video here. '
+link: https://www.youtube.com/watch?v=FxI6HGpaP3Q
 published: 2016-03-25
-tags: ~
+tag: in-the-media
 title: Leslie's Tedx Talk Passes 30,000 views
-excerpt_separator: <!--more-->
 ---
 https://www.youtube.com/watch?v=FxI6HGpaP3Q
 

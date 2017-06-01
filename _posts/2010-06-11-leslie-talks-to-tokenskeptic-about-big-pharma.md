@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-06-11
-tags: ~
+tag: writings
 title: Leslie Talks to TokenSkeptic About Big Pharma
 ---
 Leslie and science educator Michael McRae ask how industry-funded

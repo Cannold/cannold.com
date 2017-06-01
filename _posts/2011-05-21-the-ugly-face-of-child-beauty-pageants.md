@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.theage.com.au/opinion/society-and-culture/the-ugly-face-of-child-beauty-pageants-20110521-1exnb.html
 published: 2011-05-21
-tags: ~
+tag: writings
 title: The ugly face of child beauty pageants
 ---
 Do an internet search on "child beauty pageant" but be prepared. Not just to be depressed by images of overblown, cap-toothed, heavily made-up under-fives but the obvious yet rarely commented upon fact that all these kids are girls.

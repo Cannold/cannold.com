@@ -3,8 +3,9 @@ assets: ~
 excerpt: |-
   Do multiculturalism and feminism mix? What about feminism and
   religious freedom?
+link: ''
 published: 2006-10-09
-tags: ~
+tag: writings
 title: 'Multiculturalism and Feminism: Do they Mix?'
 ---
 *This article ran in the Sydney Morning Herald essay series celebrating

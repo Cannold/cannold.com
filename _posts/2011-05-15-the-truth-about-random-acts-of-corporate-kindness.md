@@ -2,8 +2,9 @@
 assets: ~
 excerpt: Leslie tells The Age that the profit motive is behind random acts of corporate
   kindness
+link: ''
 published: 2011-05-15
-tags: ~
+tag: in-the-media
 title: 'The Truth about Random Acts of Corporate Kindness '
 ---
 The 12-metre-wide helium balloon sent by Tropicana lit up the sky above the winter-darkened town off Inuvik in the Arctic Circle.

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 1999-07-29
-tags: ~
+tag: writings
 title: Good parents or good citizens?
 ---
 Taking a tiny risk can serve overall community interests.

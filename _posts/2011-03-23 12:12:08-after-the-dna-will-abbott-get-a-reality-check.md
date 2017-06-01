@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-03-23 12:12:08
-tags: ~
+tag: writings
 title: After the DNA, will Abbott get a Reality Check?
 ---
 Having found a lost a “son”, the Minister should be less critical of

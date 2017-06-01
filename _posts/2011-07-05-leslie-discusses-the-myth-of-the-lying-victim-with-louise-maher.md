@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2011-07-05
-tags: ~
+tag: in-the-media
 title: Leslie discusses The Myth of the Lying Victim with Louise Maher
 ---
 The real fall-out from the Dominique Strauss- Kahn affair won’t be known until the matter is resolved in court.

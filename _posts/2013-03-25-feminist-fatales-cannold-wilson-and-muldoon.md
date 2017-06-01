@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: http://www.theage.com.au/national/melbourne-life/bemoaning-vagina-dilemma-20130324-2gnrl.html
 published: 2013-03-25
-tags: ~
+tag: in-the-media
 title: 'Feminist Fatales Cannold, Wilson and...Muldoon? '
 ---
 Bemoaning Vaginal Dilemma

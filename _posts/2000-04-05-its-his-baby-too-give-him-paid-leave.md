@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2000-04-05
-tags: ~
+tag: writings
 title: "Itâ\x80\x99s his baby too, give him paid leave"
 ---
 Both new parents, not just mum, should get time off work.

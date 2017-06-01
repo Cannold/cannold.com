@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2008-06-15
-tags: ~
+tag: writings
 title: Feel Good, Do Good - The Merry Makers
 ---
 OK, I admit it. I cry easily. My eldest’s grade 6 graduation ceremony

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-02-14
-tags: ~
+tag: writings
 title: Pregnancy and Job Seeking. Is it Time to Lie?
 ---
 A reader seeks advice on an acutely female ethical dilemma. She has just

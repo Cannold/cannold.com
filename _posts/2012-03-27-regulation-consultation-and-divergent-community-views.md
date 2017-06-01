@@ -2,8 +2,9 @@
 assets: ~
 excerpt: Peer Reviewed Article co-authored by Lyn Gillam published in Journal of Law
   and Medicine
+link: ''
 published: 2012-03-27
-tags: ~
+tag: research
 title: Regulation, Consultation and Divergent Community Views
 ---
 In the many countries which have some form of regulation of ART, a public consultation of some sort is a frequent feature of either the process leading up to regulation or of the regulatory mechanism itself. Not surprisingly, widely divergent views on the moral and political acceptability of ART are expressed during such consultations. And while such diversity of opinion is to be expected, and some even argue welcomed, in pluralist liberal democratic societies, it is often unclear how these divergent community views are and ought to be fed into the opinion-forming and decision-making processes of governments or the bodies that advise them.

@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2007-01-07
-tags: ~
+tag: writings
 title: 'Do we want to help overweight kids, or insult them? '
 ---
 Fat camps, prohibitions on junk food advertising, bans on sugary drinks

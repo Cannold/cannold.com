@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2009-01-11
-tags: ~
+tag: writings
 title: Why We Must Sometimes Refuse to Help
 ---
 A while back a reader-let’s call her Sharon-contacted me for help. Her

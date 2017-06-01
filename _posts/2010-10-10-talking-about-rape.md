@@ -1,7 +1,8 @@
 ---
 assets: ~
+link: ''
 published: 2010-10-10
-tags: ~
+tag: writings
 title: Talking About Rape
 ---
 It’s the end of the footy season, so everyone’s talking about rape. Or,
