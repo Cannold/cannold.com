@@ -1,31 +1,15 @@
 ---
 
 ---
-<section id="page-title">
 
- <div class="container clearfix">
 <h1>Research</h1>
-<ol class="breadcrumb">
- <li><a href="#">Home</a></li>
- <li class="active">Blog</li>
-</ol>
-</div>
-
-</section><!-- #page-title end -->
-
-<!-- Content ============================================= -->
-<section id="content">
-
-<div class="content-wrap">
-
-<div class="container clearfix">
-<!-- Posts ============================================= -->
+<section>
 <div id="posts">
 
   {% for post in site.categories.research %}
    <div class="entry clearfix">
       <div class="entry-title">
-        <p1><a href="{{ post.url }}">{{ post.title }}</a></p1>
+        <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
       </div>
       <ul class="entry-meta clearfix">
       <li><i class="icon-calendar3"></i>{{ post.date | date: "%b %d, %Y" }}</li>
