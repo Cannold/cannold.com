@@ -25,10 +25,10 @@
 	 <div id="posts">
 
 
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts limit:10 %}
    <div class="entry clearfix">
 			<div class="entry-title">
-				<h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+				<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
 			</div>
 			<ul class="entry-meta clearfix">
 			<li><i class="icon-calendar3"></i>{{ post.date | date: "%b %d, %Y" }}</li>
