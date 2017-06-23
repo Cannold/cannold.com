@@ -3,149 +3,125 @@ layout: default
 ---
 <section id="page-title">
 
-			<div class="container clearfix" style="font-family: times;">
-				<h1>{{ page.title }}</h1>
-				<ol class="breadcrumb">
-					<li><a href="#">Home</a></li>
-					<li><a href="#">Blog</a></li>
-					<li class="active">Blog Single</li>
-				</ol>
-			</div>
+ <div class="container clearfix" style="font-family: times;">
+	<h1>{{ page.title }}</h1>
+	<ol class="breadcrumb">
+		<li><a href="#">Home</a></li>
+		<li><a href="#">Blog</a></li>
+		<li class="active">Blog Single</li>
+	</ol>
+ </div>
 
-		</section>
+</section>
 
+<div class="sidebar leftmargin toppadding topmargin bottommargin col_last clearfix">
+	<div class="sidebar-widgets-wrap">
 
-		<div class="sidebar leftmargin toppadding topmargin bottommargin col_last clearfix">
-							<div class="sidebar-widgets-wrap">
-							</div>
+ 		<div class="widget widget_links clearfix">
+  		<h3>Pages</h3>
+			<ul>
+		 		<li><a href="cannold.com/index.">Home</a></li>
+		 		<li><a href="#">Blog</a></li>
+		 		<li><a href="#">Research</a></li>
+		 		<li><a href="#">Writings</a></li>
+		 		<li><a href="#">Events</a></li>
+		 		<li><a href="./showreel">Showreel</a></li>
+			</ul>
+		</div>
 
-								<div class="widget widget_links clearfix">
+		<div class="widget clearfix">
 
-									<h3>Pages</h3>
-									<ul>
-										<li><a href="cannold.com/index.">Home</a></li>
-										<li><a href="#">Blog</a></li>
-										<li><a href="#">Research</a></li>
-										<li><a href="#">Writings</a></li>
-										<li><a href="#">Events</a></li>
-										<li><a href="./showreel">Showreel</a></li>
-									</ul>
-
-								</div>
-
-								<div class="widget clearfix">
-
-									<h4>Recent Posts</h4>
-									{% for post in site.posts limit:4 %}
-									<div id="post-list-footer">
-
-										<div class="spost clearfix">
-											<div class="entry-c">
-												<div class="entry-title">
-													<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-												</div>
-												<ul class="entry-meta">
-													<li>{{ post.date | date: "%d %B %Y"  }}</li>
-													<br>
-												</ul>
-											</div>
-										</div>
-										{% endfor %}
-									</div>
-								</div>
-
-								</div>
-
-								<div class="widget clearfix">
-
-									<h4>Connect with Us</h4>
-									<a href="#" class="social-icon si-colored si-small si-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
-										<i class="icon-facebook"></i>
-										<i class="icon-facebook"></i>
-									</a>
-
-
-									<a href="#" class="social-icon si-colored si-small si-linkedin" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linked In">
-										<i class="icon-linkedin"></i>
-										<i class="icon-linkedin"></i>
-									</a>
-
-
-
-									<a href="#" class="social-icon si-colored si-small si-skype" data-toggle="tooltip" data-placement="top" title="" data-original-title="Skype">
-										<i class="icon-skype"></i>
-										<i class="icon-skype"></i>
-									</a>
-
-									<a href="#" class="social-icon si-colored si-small si-twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
-									</a>
-
-									<a href="#" class="social-icon si-colored si-small si-youtube" data-toggle="tooltip" data-placement="top" title="" data-original-title="Youtube">
-										<i class="icon-youtube"></i>
-										<i class="icon-youtube"></i>
-									</a>
-
-								</div>
-
-
-							</div>
+			<h4>Recent Posts</h4>
+				<div id="post-list-footer">
+					{% for post in site.posts limit:4 %}
+        	<div class="spost clearfix">
+						<div class="entry-c">
+					 		<div class="entry-title">
+								<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+					 		</div>
+					 		<ul class="entry-meta">
+					  		<li>{{ post.date | date: "%d %B %Y"  }}</li>
+							</ul>
 						</div>
 					</div>
-<br>
-<br>
-<br>
+				</div>
+			 {% endfor %}
+		
+
+<div class="widget clearfix">
+
+	<h4>Connect with Us</h4>
+	<a href="#" class="social-icon si-colored si-small si-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
+		<i class="icon-facebook"></i>
+		<i class="icon-facebook"></i>
+	</a>
+
+	<a href="#" class="social-icon si-colored si-small si-linkedin" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linked In">
+		<i class="icon-linkedin"></i>
+		<i class="icon-linkedin"></i>
+	</a>
+
+	<a href="#" class="social-icon si-colored si-small si-skype" data-toggle="tooltip" data-placement="top" title="" data-original-title="Skype">
+		<i class="icon-skype"></i>
+		<i class="icon-skype"></i>
+	</a>
+
+	<a href="#" class="social-icon si-colored si-small si-twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter">
+		<i class="icon-twitter"></i>
+		<i class="icon-twitter"></i>
+	</a>
+
+	<a href="#" class="social-icon si-colored si-small si-youtube" data-toggle="tooltip" data-placement="top" title="" data-original-title="Youtube">
+		<i class="icon-youtube"></i>
+		<i class="icon-youtube"></i>
+	</a>
+
+</div>
+
 <section>
-<div class="entry-content notopmargin">
+	<div class="entry-content notopmargin">
 
-<div class="divcenter left" style="max-width: 1150px; font-family: times; font-size: 18px">
-    <p>{{ page.introduction }}</p>
+	<div class="divcenter left" style="max-width: 1150px; font-family: times; font-size: 18px">
+		<p>{{ page.introduction }}</p>
 
-    {{ content }}
-
-
+	     {{ content }}
 
 
-
-
-<!-- Post Single - Share
-============================================= -->
-<div class="si-share noborder right clearfix">
-	<span>Share this Post:</span>
-	<div>
-		<a href="#" class="social-icon si-borderless si-facebook">
-			<i class="icon-facebook"></i>
-			<i class="icon-facebook"></i>
-		</a>
-		<a href="#" class="social-icon si-borderless si-twitter">
-			<i class="icon-twitter"></i>
-			<i class="icon-twitter"></i>
-		</a>
-		<a href="#" class="social-icon si-borderless si-pinterest">
-			<i class="icon-pinterest"></i>
-			<i class="icon-pinterest"></i>
-		</a>
-		<a href="#" class="social-icon si-borderless si-gplus">
-			<i class="icon-gplus"></i>
-			<i class="icon-gplus"></i>
-		</a>
-		<a href="#" class="social-icon si-borderless si-rss">
-			<i class="icon-rss"></i>
-			<i class="icon-rss"></i>
-		</a>
-		<a href="#" class="social-icon si-borderless si-email3">
-			<i class="icon-email3"></i>
-			<i class="icon-email3"></i>
-		</a>
+	<!-- Post Single - Share
+	============================================= -->
+	<div class="si-share noborder right clearfix">
+		<span>Share this Post:</span>
+		<div>
+			<a href="#" class="social-icon si-borderless si-facebook">
+				<i class="icon-facebook"></i>
+				<i class="icon-facebook"></i>
+			</a>
+			<a href="#" class="social-icon si-borderless si-twitter">
+				<i class="icon-twitter"></i>
+				<i class="icon-twitter"></i>
+			</a>
+			<a href="#" class="social-icon si-borderless si-pinterest">
+				<i class="icon-pinterest"></i>
+				<i class="icon-pinterest"></i>
+			</a>
+			<a href="#" class="social-icon si-borderless si-gplus">
+				<i class="icon-gplus"></i>
+				<i class="icon-gplus"></i>
+			</a>
+			<a href="#" class="social-icon si-borderless si-rss">
+				<i class="icon-rss"></i>
+				<i class="icon-rss"></i>
+			</a>
+			<a href="#" class="social-icon si-borderless si-email3">
+				<i class="icon-email3"></i>
+				<i class="icon-email3"></i>
+			</a>
+		</div>
+	</div><!-- Post Single - Share End -->
 	</div>
-</div><!-- Post Single - Share End -->
-</div>
-</div>
+	</div>
 </section><!-- #content end -->
 
-<br>
-<br>
-<br>
+
 
 								<!-- Post Single - Content End -->
