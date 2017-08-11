@@ -14,86 +14,35 @@ layout: default
 
 </section>
 
-<div class="sidebar leftmargin toppadding topmargin bottommargin col_last clearfix">
+<div class="sidebar leftmargin rightmargin rightpadding  bottommargin col_last">
 
 	<div class="sidebar-widgets-wrap">
+    <div class="widget">
 
- 		<div class="widget widget_links clearfix">
-  		<h3>Pages</h3>
-			<ul>
-		 		<li><a href="cannold.com/index.">Home</a></li>
-		 		<li><a href="#">Blog</a></li>
-		 		<li><a href="#">Research</a></li>
-		 		<li><a href="#">Writings</a></li>
-		 		<li><a href="#">Events</a></li>
-		 		<li><a href="./showreel">Showreel</a></li>
-			</ul>
-		</div>
-
-		<div class="widget clearfix">
-
-			<h4>Recent Posts</h4>
-			<div id="post-list-footer">
-				{% for post in site.posts limit:4 %}
-        	<div class="spost clearfix">
-					<div class="entry-c">
-				 		<div class="entry-title">
-							<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-				 		</div>
-				 		<ul class="entry-meta">
-				  		<li>{{ post.date | date: "%d %B %Y"  }}</li>
-						</ul>
-					</div>
-				</div>
-        {% endfor %}
-			</div>
-    </div>
-
-
-    <div class="widget clearfix">
-
-    	<h4>Connect with Us</h4>
-    	<a href="#" class="social-icon si-colored si-small si-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
-    		<i class="icon-facebook"></i>
-    		<i class="icon-facebook"></i>
-    	</a>
-
-    	<a href="#" class="social-icon si-colored si-small si-linkedin" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linked In">
-    		<i class="icon-linkedin"></i>
-    		<i class="icon-linkedin"></i>
-    	</a>
-
-    	<a href="#" class="social-icon si-colored si-small si-skype" data-toggle="tooltip" data-placement="top" title="" data-original-title="Skype">
-    		<i class="icon-skype"></i>
-    		<i class="icon-skype"></i>
-    	</a>
-
-    	<a href="#" class="social-icon si-colored si-small si-twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter">
-    		<i class="icon-twitter"></i>
-    		<i class="icon-twitter"></i>
-    	</a>
-
-    	<a href="#" class="social-icon si-colored si-small si-youtube" data-toggle="tooltip" data-placement="top" title="" data-original-title="Youtube">
-    		<i class="icon-youtube"></i>
-    		<i class="icon-youtube"></i>
-    	</a>
+    	<a class="twitter-timeline" data-width="250" data-height="1200" data-theme="dark" href="https://twitter.com/LeslieCannold">Tweets by LeslieCannold</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
     </div>
   </div>
 </div>
 
+
+
+
 <section>
 	<div class="entry-content notopmargin">
 
-	<div class="divcenter left" style="max-width: 1150px; font-family: times; font-size: 18px">
+	 <div class="divcenter left" style="max-width: 1150px; font-family: times; font-size: 18px">
 		<p>{{ page.introduction }}</p>
 
 	     {{ page.content }}
+   </div>
+  </div>
 </section>
 
 
 	<!-- Post Single - Share
 	============================================= -->
+  <section>
 	<div class="si-share noborder right clearfix">
 		<span>Share this Post:</span>
 		<div>
@@ -123,8 +72,6 @@ layout: default
 			</a>
 		</div>
 	</div><!-- Post Single - Share End -->
-	</div>
-	</div>
 </section><!-- #content end -->
 
 
