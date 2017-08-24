@@ -28,7 +28,7 @@
   {% for post in paginator.posts limit:10 %}
    <div class="entry clearfix">
 			<div class="entry-title">
-				<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+				<h4>{{ post.title }}</h4>
 			</div>
 			<ul class="entry-meta clearfix">
 			<li><i class="icon-calendar3"></i>{{ post.date | date: "%b %d, %Y" }}</li>
@@ -38,7 +38,7 @@
 
 
 	  <div class="entry-content">
-		{{ post.excerpt }} <br></br>
+      <p>{{ post.excerpt | strip_html }}</p>
 		<a href="{{ post.url }}" class="more-link">Read more</a>
 	  </div><!--/.entry-content-->
 	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
@@ -63,13 +63,13 @@
     <span class="next ">Next</span>
   {% endif %}
 </div>
-
+<div>
 <br>
 <a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">Research</a>
 <a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">Events</a>
 <a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">Writings</a>
 <a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">In the Media</a>
-
+</div>
              </div>
             </div>
 					</div><!-- #posts end -->
