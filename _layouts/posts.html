@@ -6,34 +6,19 @@ layout: default
  <div class="container clearfix" style="font-family: times;">
 	<h1>{{ page.title }}</h1>
 	<ol class="breadcrumb">
-		<li><a href="#">Home</a></li>
-		<li><a href="#">Blog</a></li>
+		<li><a href="/">Home</a></li>
+		<li><a href="/blog">Blog</a></li>
 		<li class="active">Blog Single</li>
 	</ol>
  </div>
 
 </section>
 
-<div class="sidebar leftmargin rightpadding bottommargin col_last">
-	 <div class="sidebar-widgets-wrap">
-     <div class="widget">
-
-    	<a class="twitter-timeline rightpadding" data-width="250" data-height="1200" data-theme="dark" href="https://twitter.com/LeslieCannold">Tweets by LeslieCannold</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-     </div>
-  </div>
-</div>
-
-
-
 
 <section>
 	<div class="entry-content notopmargin">
 
-	 <div class="divcenter left" style="max-width: 1150px; font-family: times; font-size: 18px">
-		<p>{{ page.introduction }}</p>
-    <br>
-
+	 <div class="divcenter left topmargin" style="max-width: 1150px; font-family: times; ">
 	     {{ page.content }}
    </div>
   </div>
@@ -47,29 +32,21 @@ layout: default
 	<!-- Post Single - Share
 	============================================= -->
   <section>
-	<div class="si-share noborder right clearfix">
-		<div>
-			<a href="#" class="social-icon si-borderless si-facebook">
+	<div class="si-share rightmargin noborder right clearfix">
+		<div>{{ site.url }}
+			<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | url_encode }}{{ page.url | url_encode }}" class="social-icon si-borderless si-facebook">
 				<i class="icon-facebook"></i>
 				<i class="icon-facebook"></i>
 			</a>
-			<a href="#" class="social-icon si-borderless si-twitter">
+			<a href="https://twitter.com/home?status={{ site.url | url_encode }}{{ page.url | url_encode }}" class="social-icon si-borderless si-twitter">
 				<i class="icon-twitter"></i>
 				<i class="icon-twitter"></i>
 			</a>
-			<a href="#" class="social-icon si-borderless si-pinterest">
-				<i class="icon-pinterest"></i>
-				<i class="icon-pinterest"></i>
+			<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url | url_encode }}{{ page.url | url_encode }}&title={{ page.title | url_encode }}" class="social-icon si-borderless si-linkedin">
+				<i class="icon-linkedin"></i>
+				<i class="icon-linkedin"></i>
 			</a>
-			<a href="#" class="social-icon si-borderless si-gplus">
-				<i class="icon-gplus"></i>
-				<i class="icon-gplus"></i>
-			</a>
-			<a href="#" class="social-icon si-borderless si-rss">
-				<i class="icon-rss"></i>
-				<i class="icon-rss"></i>
-			</a>
-			<a href="#" class="social-icon si-borderless si-email3">
+			<a href="mailto:?&subject={{ page.title }}&body={{ site.url | url_encode }}{{ page.url | url_encode }}" class="social-icon si-borderless si-email3">
 				<i class="icon-email3"></i>
 				<i class="icon-email3"></i>
 			</a>

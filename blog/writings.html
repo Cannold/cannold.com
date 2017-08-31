@@ -6,9 +6,8 @@
 
  <div class="container clearfix">
 	<h1>Writings</h1>
-	 <span>Insert text here</span>
 		<ol class="breadcrumb">
-		 <li><a href="#">Home</a></li>
+		 <li><a href="/">Home</a></li>
 		 <li class="active">Blog</li>
 	  </ol>
  </div>
@@ -24,10 +23,10 @@
 <!-- Posts ============================================= -->
 	 <div id="posts">
 
-  {% for post in site.categories.writings limit:10 %}
+  {% for post in site.categories.writings %}
    <div class="entry clearfix">
       <div class="entry-title">
-        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <h4>{{ post.title }}</a></h4>
       </div>
       <ul class="entry-meta clearfix">
       <li><i class="icon-calendar3"></i>{{ post.date | date: "%b %d, %Y" }}</li>
@@ -44,10 +43,5 @@
 {% endfor %}
 
 
-
-
-{% for post in site.categories.writings %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
 </div>
 </section>

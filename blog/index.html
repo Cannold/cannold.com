@@ -8,7 +8,7 @@
 	<h1>Blog</h1>
 	 <span>Leslie's Latest News</span>
 		<ol class="breadcrumb">
-		 <li><a href="#">Home</a></li>
+		 <li><a href="/">Home</a></li>
 		 <li class="active">Blog</li>
 	  </ol>
  </div>
@@ -32,7 +32,7 @@
 			</div>
 			<ul class="entry-meta clearfix">
 			<li><i class="icon-calendar3"></i>{{ post.date | date: "%b %d, %Y" }}</li>
-			<li><i class="icon-folder-open"></i> <a href="#">{{ post.categories }}</a></li>
+			<li><i class="icon-folder-open"></i> <a href="/blog/{{ post.categories }}/">{{ post.categories }}</a></li>
 		</ul>
 
 
@@ -65,14 +65,14 @@
 </div>
 <div>
 <br>
-<a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">Research</a>
-<a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">Events</a>
-<a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">Writings</a>
-<a href="/index.html" class="btn btn-default topmargin-sm  center uppercase">In the Media</a>
+<a href="/blog/research" class="btn btn-default topmargin-sm  center uppercase">Research</a>
+<a href="/blog/events" class="btn btn-default topmargin-sm  center uppercase">Events</a>
+<a href="/blog/writings" class="btn btn-default topmargin-sm  center uppercase">Writings</a>
+<a href="/blog/in-the-media" class="btn btn-default topmargin-sm  center uppercase">In the Media</a>
 </div>
-             </div>
-            </div>
-					</div><!-- #posts end -->
-     </section>
+  </div>
+    </div>
+      </div><!-- #posts end -->
+</section>
 
 <!--content end-->
