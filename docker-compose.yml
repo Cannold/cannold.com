@@ -1,0 +1,6 @@
+version: '2.3'
+services:
+  site:
+    image: stratdat/cannold.com
+    build:
+      context: .
