@@ -4,3 +4,5 @@ services:
     image: stratdat/cannold.com
     build:
       context: .
+    volumes:
+      - ./_site:/build/_site
