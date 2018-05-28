@@ -1,7 +1,8 @@
 # Permalinks
 permalink:           pretty
 
-gems: jekyll-paginate
+plugins:
+  - jekyll-paginate
 
 # Setup
 title:               Leslie Cannold
