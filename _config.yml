@@ -26,6 +26,12 @@ exclude:
   - '*.sh'
   - nginx.d
   - blueprint
+  - 2000-cannold-com.tgz
+  - builder.dockerfile
+  - Dockerfile
+  - docker-compose.yml
+  - cannold.com.tgz
+  - Gemfile*
 
 paginate: 10
 paginate_path: "/blog/page:num/"
