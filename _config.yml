@@ -5,7 +5,7 @@ plugins:
   - jekyll-paginate
 
 # Setup
-title:               Leslie Cannold
+title:               Dr Leslie Cannold
 url:                 'https://www.cannold.com'
 
 # About/contact
