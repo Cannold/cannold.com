@@ -8,7 +8,7 @@
 
 ## Deploying
 
-`rsync -avz -e ssh --progress --delete \_site/ cannold.com:./cannold.com/``
+`rsync -avz -e ssh --progress --delete \_site/ cannold.com:./cannold.com/`
 
 ## References
 
