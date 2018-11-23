@@ -3,11 +3,11 @@
 require_once 'include/rs-plugin/php/youtube/class-youtube.php';
 
 // YOUTUBE PLAYLIST ID
-$playlist_id = '';
+$playlist_id = 'PLiENd6US8xnyhFA-9KxMqrHiqG3GCTMad';
 
 // API DATA
-$api_key = '';
-$channel_id = '';
+$api_key = 'AIzaSyCHSxcf2cATTtKY_44hLJ2eOEAq-E5PHnM';
+$channel_id = 'UCMtpv523H8X26k7I9Qn1SaA';
 
 // GET VIDEOS
 $youtube = new TP_youtube($api_key,$channel_id);
@@ -40,9 +40,6 @@ $autoplay = "on";
 
 	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
 
 	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
 	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />

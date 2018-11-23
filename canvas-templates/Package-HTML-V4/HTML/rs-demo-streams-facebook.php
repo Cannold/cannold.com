@@ -9,8 +9,8 @@
 
 	// API DATA
 	// Create App ID and Secret -> https://developers.facebook.com/apps/?action=create
-	$app_id = '';
-	$app_secret = '';
+	$app_id = '226255957385129';
+	$app_secret = '45cb77ce9db4a334e61cb6fded80611b';
 
 	// GET POSTS
 	$post_feed = $facebook->get_post_feed($user_id,$app_id,$app_secret,5);
@@ -35,9 +35,6 @@
 
 	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
 
 	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
 	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />

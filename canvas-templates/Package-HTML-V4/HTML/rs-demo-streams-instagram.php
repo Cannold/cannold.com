@@ -4,10 +4,10 @@ require_once 'include/rs-plugin/php/instagram/class-instagram.php';
 
 
 // INSTAGRAM USER
-$search_user_id = '';
+$search_user_id = '5834720953';
 
 // API DATA
-$api_key = '';
+$api_key = '5834720953.1677ed0.a0a26ba4c90845f9a844d64c316bf77a';
 
 // GET PHOTOS
 $instagram = new TP_instagram($api_key);
@@ -32,9 +32,6 @@ $photos = $instagram->get_public_photos($search_user_id);
 
 	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
 
 	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
 	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />

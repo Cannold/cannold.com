@@ -254,6 +254,15 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content { display: block; 
 	margin: 0;
 }
 
+#primary-menu ul li .mega-menu-content {
+	display: -ms-flex;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-ms-flex-align: stretch;
+	align-items: stretch;
+}
+
 #primary-menu ul ul:not(.mega-menu-column) ul {
 	top: -2px !important;
 	left: @primary-menu-submenu-width - 2;
@@ -359,7 +368,9 @@ body.stretched #header.full-header #primary-menu ul li.mega-menu .mega-menu-cont
 
 #primary-menu ul li .mega-menu-content ul.mega-menu-column.col-5 {
 	width: 20%;
-	max-width: none;
+	-ms-flex: 0 0 20%;
+	flex: 0 0 20%;
+	max-width: 20%;
 }
 
 #primary-menu ul li .mega-menu-content ul:not(.mega-menu-column) { width: 100%; }

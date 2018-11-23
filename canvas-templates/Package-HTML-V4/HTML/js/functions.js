@@ -215,7 +215,7 @@ var SEMICOLON = SEMICOLON || {};
 			if( !elementScrollSpeed ) { elementScrollSpeed = 700; }
 			if( !elementScrollEasing ) { elementScrollEasing = 'easeOutQuad'; }
 
-			$goToTopEl.click(function() {
+			$goToTopEl.off( 'click' ).on( 'click', function() {
 				$('body,html').stop(true).animate({
 					'scrollTop': 0
 				}, Number( elementScrollSpeed ), elementScrollEasing );
@@ -1032,13 +1032,8 @@ var SEMICOLON = SEMICOLON || {};
 						megaMenuContent.find('.owl-carousel').removeClass('customjs');
 						SEMICOLON.widget.carousel();
 					}
-
-					if( megaMenuContent.hasClass('mega-menu-content') && megaMenuContent.find('.widget').length > 0 ) {
-						if( $body.hasClass('device-xl') || $body.hasClass('device-lg') ) {
-							setTimeout( function(){ SEMICOLON.initialize.commonHeight( megaMenuContent ); }, 200);
-						} else {
-							megaMenuContent.children().height('');
-						}
+					if( megaMenuContent.find('.grid-container').length > 0 ) {
+						megaMenuContent.find('.grid-container').isotope('layout');
 					}
 				}
 			});
@@ -1118,7 +1113,7 @@ var SEMICOLON = SEMICOLON || {};
 
 				$( '#primary-menu ul li:has(ul)' ).append('<a href="#" class="wn-submenu-trigger"><i class="icon-angle-down"></i></a>');
 
-				$( '#primary-menu ul li.sub-menu' ).children('a.wn-submenu-trigger').click( function(e){
+				$( '#primary-menu ul li.sub-menu' ).children('a.wn-submenu-trigger').off( 'click' ).on( 'click', function(e){
 					$(this).parent().toggleClass('open');
 					$(this).parent().find('> ul, > .mega-menu-content').stop(true,true).toggle();
 					return false;
@@ -1199,14 +1194,14 @@ var SEMICOLON = SEMICOLON || {};
 		},
 
 		sideHeader: function(){
-			$("#header-trigger").click(function(){
+			$("#header-trigger").off( 'click' ).on( 'click', function(){
 				$('body.open-header').toggleClass("side-header-open");
 				return false;
 			});
 		},
 
 		sidePanel: function(){
-			$(".side-panel-trigger").click(function(){
+			$(".side-panel-trigger").off( 'click' ).on( 'click', function(){
 				$body.toggleClass("side-panel-open");
 				if( $body.hasClass('device-touch') && $body.hasClass('side-push-panel') ) {
 					$body.toggleClass("ohidden");
@@ -1224,7 +1219,7 @@ var SEMICOLON = SEMICOLON || {};
 				if( !onePageSpeed ) { onePageSpeed = 1000; }
 				if( !onePageEasing ) { onePageEasing = 'easeOutQuad'; }
 
-				$onePageMenuEl.find('a[data-href]').click(function(){
+				$onePageMenuEl.find('a[data-href]').off( 'click' ).on( 'click', function(){
 					var element = $(this),
 						divScrollToAnchor = element.attr('data-href'),
 						divScrollSpeed = element.attr('data-speed'),
@@ -1417,7 +1412,7 @@ var SEMICOLON = SEMICOLON || {};
 				if (!$(event.target).closest('#primary-menu.mobile-menu-off-canvas > div > ul').length) { $('#primary-menu.mobile-menu-off-canvas > div > ul').toggleClass('d-block', false); }
 			});
 
-			$("#top-search-trigger").click(function(e){
+			$("#top-search-trigger").off( 'click' ).on( 'click', function(e){
 				$body.toggleClass('top-search-open');
 				$topCart.toggleClass('top-cart-open', false);
 				$( '#primary-menu > ul, #primary-menu > div > ul' ).toggleClass('d-block', false);
@@ -1433,7 +1428,7 @@ var SEMICOLON = SEMICOLON || {};
 
 		topcart: function(){
 
-			$("#top-cart-trigger").click(function(e){
+			$("#top-cart-trigger").off( 'click' ).on( 'click', function(e){
 				$pagemenu.toggleClass('pagemenu-active', false);
 				$topCart.toggleClass('top-cart-open');
 				e.stopPropagation();
@@ -1754,7 +1749,7 @@ var SEMICOLON = SEMICOLON || {};
 
 		swiperSliderMenu: function( onWinLoad ){
 			onWinLoad = typeof onWinLoad !== 'undefined' ? onWinLoad : false;
-			if( $body.hasClass('device-xl') || $body.hasClass('device-lg') ) {
+			if( $body.hasClass('device-xl') || $body.hasClass('device-lg') || ( $header.hasClass('transparent-header-responsive') && !$body.hasClass('primary-menu-open') ) ) {
 				var activeSlide = $slider.find('.swiper-slide.swiper-slide-active');
 				SEMICOLON.slider.headerSchemeChanger(activeSlide, onWinLoad);
 			}
@@ -1762,7 +1757,7 @@ var SEMICOLON = SEMICOLON || {};
 
 		revolutionSliderMenu: function( onWinLoad ){
 			onWinLoad = typeof onWinLoad !== 'undefined' ? onWinLoad : false;
-			if( $body.hasClass('device-xl') || $body.hasClass('device-lg') ) {
+			if( $body.hasClass('device-xl') || $body.hasClass('device-lg') || ( $header.hasClass('transparent-header-responsive') && !$body.hasClass('primary-menu-open') ) ) {
 				var activeSlide = $slider.find('.active-revslide');
 				SEMICOLON.slider.headerSchemeChanger(activeSlide, onWinLoad);
 			}
@@ -1889,7 +1884,7 @@ var SEMICOLON = SEMICOLON || {};
 
 				if( !elementActiveClass ) { elementActiveClass = 'activeFilter'; }
 
-				element.find('a').click(function(){
+				element.find('a').off( 'click' ).on( 'click', function(){
 					element.find('li').removeClass( elementActiveClass );
 					$(this).parent('li').addClass( elementActiveClass );
 					var selector = $(this).attr('data-filter');
@@ -1914,7 +1909,7 @@ var SEMICOLON = SEMICOLON || {};
 
 			if( $('.portfolio-shuffle').length < 1 ) { return true; }
 
-			$('.portfolio-shuffle').click(function(){
+			$('.portfolio-shuffle').off( 'click' ).on( 'click', function(){
 				var element = $(this),
 					elementContainer = element.attr('data-container');
 
@@ -1952,7 +1947,7 @@ var SEMICOLON = SEMICOLON || {};
 		},
 
 		ajaxload: function(){
-			$('.portfolio-ajax .portfolio-item a.center-icon').click( function(e) {
+			$('.portfolio-ajax .portfolio-item a.center-icon').off( 'click' ).on( 'click', function(e) {
 				var portPostId = $(this).parents('.portfolio-item').attr('id');
 				if( !$(this).parents('.portfolio-item').hasClass('portfolio-active') ) {
 					SEMICOLON.portfolio.loadItem(portPostId, prevPostPortId);
@@ -2057,7 +2052,7 @@ var SEMICOLON = SEMICOLON || {};
 		initializeAjax: function( portPostId ){
 			prevPostPortId = $('#' + portPostId);
 
-			$('#next-portfolio, #prev-portfolio').click( function() {
+			$('#next-portfolio, #prev-portfolio').off( 'click' ).on( 'click', function() {
 				var portPostId = $(this).attr('data-id');
 				$portfolioItems.removeClass('portfolio-active');
 				$('#' + portPostId).addClass('portfolio-active');
@@ -2065,7 +2060,7 @@ var SEMICOLON = SEMICOLON || {};
 				return false;
 			});
 
-			$('#close-portfolio').click( function() {
+			$('#close-portfolio').off( 'click' ).on( 'click', function() {
 				$portfolioDetailsContainer.fadeOut('600', function(){
 					$portfolioDetails.find('#portfolio-ajax-single').remove();
 				});
@@ -2496,7 +2491,7 @@ var SEMICOLON = SEMICOLON || {};
 						element.children('.togglet').addClass("toggleta");
 					}
 
-					element.children('.togglet').click(function(){
+					element.children('.togglet').off( 'click' ).on( 'click', function(){
 						$(this).toggleClass('toggleta').next('.togglec').slideToggle(300);
 						return true;
 					});
@@ -2520,7 +2515,7 @@ var SEMICOLON = SEMICOLON || {};
 						element.find('.acctitle:eq('+ Number(accordionActive) +')').addClass('acctitlec').next().show();
 					}
 
-					element.find('.acctitle').click(function(){
+					element.find('.acctitle').off( 'click' ).on( 'click', function(){
 						if( $(this).next().is(':hidden') ) {
 							element.find('.acctitle').removeClass('acctitlec').next().slideUp("normal");
 							var clickTarget = $(this);
@@ -2926,7 +2921,7 @@ var SEMICOLON = SEMICOLON || {};
 							$(this).children('ul').delay(250).slideUp( Number(elementSpeed), elementEasing);
 						});
 					} else {
-						element.find( 'ul li:has(ul) > a' ).click( function(e){
+						element.find( 'ul li:has(ul) > a' ).off( 'click' ).on( 'click', function(e){
 							var childElement = $(this);
 							element.find( 'ul li' ).not(childElement.parents()).removeClass('active');
 							childElement.parent().children('ul').slideToggle( Number(elementSpeed), elementEasing, function(){
@@ -3134,17 +3129,19 @@ var SEMICOLON = SEMICOLON || {};
 
 					var tRotater = $(this).find('.t-rotate');
 
-					tRotater.Morphext({
+					var pluginData = tRotater.Morphext({
 						animation: trRotate,
 						separator: trSeparator,
 						speed: Number(trSpeed)
 					});
+
+					console.log( pluginData );
 				});
 			}
 		},
 
 		linkScroll: function(){
-			$("a[data-scrollto]").click(function(){
+			$("a[data-scrollto]").off( 'click' ).on( 'click', function(){
 				var element = $(this),
 					divScrollToAnchor = element.attr('data-scrollto'),
 					divScrollSpeed = element.attr('data-speed'),
@@ -3494,7 +3491,7 @@ var SEMICOLON = SEMICOLON || {};
 					$cookieNotification.css({ bottom: 0, opacity: 1 });
 				}
 
-				$('.cookie-accept').click( function(){
+				$('.cookie-accept').off( 'click' ).on( 'click', function(){
 					$cookieNotification.css({ bottom: -cookieNotificationHeight, opacity: 0 });
 					Cookies.set('websiteUsesCookies', 'yesConfirmed', { expires: 30 });
 					return false;
@@ -3504,7 +3501,7 @@ var SEMICOLON = SEMICOLON || {};
 
 		cartQuantity: function(){
 
-			$(".plus").click(function(){
+			$(".plus").off( 'click' ).on( 'click', function(){
 				var productQuantity = $(this).parents('.quantity').find('.qty').val(),
 					intRegex = /^\d+$/;
 
@@ -3518,7 +3515,7 @@ var SEMICOLON = SEMICOLON || {};
 				return false;
 			});
 
-			$(".minus").click(function(){
+			$(".minus").off( 'click' ).on( 'click', function(){
 				var productQuantity = $(this).parents('.quantity').find('.qty').val(),
 					intRegex = /^\d+$/;
 
@@ -3555,7 +3552,7 @@ var SEMICOLON = SEMICOLON || {};
 				e.preventDefault();
 			});
 
-			$('#primary-menu-trigger,#overlay-menu-close').click(function() {
+			$('#primary-menu-trigger,#overlay-menu-close').off( 'click' ).on( 'click', function() {
 				if( $('#primary-menu').find('ul.mobile-primary-menu').length > 0 ) {
 					$( '#primary-menu > ul.mobile-primary-menu, #primary-menu > div > ul.mobile-primary-menu' ).toggleClass('d-block');
 				} else {
@@ -3564,12 +3561,12 @@ var SEMICOLON = SEMICOLON || {};
 				$body.toggleClass("primary-menu-open");
 				return false;
 			});
-			$('#page-submenu-trigger').click(function() {
+			$('#page-submenu-trigger').off( 'click' ).on( 'click', function() {
 				$body.toggleClass('top-search-open', false);
 				$pagemenu.toggleClass("pagemenu-active");
 				return false;
 			});
-			$pagemenu.find('nav').click(function(e){
+			$pagemenu.find('nav').off( 'click' ).on( 'click', function(e){
 				$body.toggleClass('top-search-open', false);
 				$topCart.toggleClass('top-cart-open', false);
 			});

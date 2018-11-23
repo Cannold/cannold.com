@@ -31,9 +31,6 @@
 
 	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
 
 	<!-- External JavaScripts
 	============================================= -->
@@ -204,6 +201,7 @@
 							</li>
 							<li><a href="#docs-changelog">Changelog</a>
 								<ul class="one-page-menu" data-offset="110" data-easing="easeInOutExpo" data-speed="1250">
+									<li><a href="#" data-href="#docs-changelog-v5-4">Version 5.4</a></li>
 									<li><a href="#" data-href="#docs-changelog-v5-3">Version 5.3</a></li>
 									<li><a href="#" data-href="#docs-changelog-v5-2">Version 5.2</a></li>
 									<li><a href="#" data-href="#docs-changelog-v5-1">Version 5.1</a></li>
@@ -1997,16 +1995,16 @@
 								<p>This is a Very Interesting Feature of Canvas of defining Responsive Heights. But it is recommended that it is used only on the Absolutely positioned elements as the Relatively positioned elements are auto-heights. You can define Responsive Heights for an Element using the <code>data-height</code> attribute:</p>
 
 								<ul>
-									<li><code>data-height-lg</code> - Height for Large Devices >=1200px</li>
-									<li><code>data-height-md</code> - Height for Medium Devices >=992px to 1199px</li>
-									<li><code>data-height-sm</code> - Height for Tablets</li>
-									<li><code>data-height-xs</code> - Height for Landscape Mobiles or Phablets</li>
-									<li><code>data-height-xxs</code> - Height for Portrait Mobiles</li>
+									<li><code>data-height-xl</code> - Height for Large Devices >=1200px</li>
+									<li><code>data-height-lg</code> - Height for Medium Devices >=992px to 1199px</li>
+									<li><code>data-height-md</code> - Height for Tablets</li>
+									<li><code>data-height-sm</code> - Height for Landscape Mobiles or Phablets</li>
+									<li><code>data-height-xs</code> - Height for Portrait Mobiles</li>
 								</ul>
 
 								<p><strong>Sample Code:</strong></p>
 
-<pre>&lt;div style="position: relative; margin-bottom: -60px;" class="ohidden" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183"&gt;
+<pre>&lt;div style="position: relative; margin-bottom: -60px;" class="ohidden" data-height-xl="426" data-height-lg="567" data-height-md="470" data-height-sm="287" data-height-xs="183"&gt;
 	&lt;img src="images/services/main-fbrowser.png" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="100" alt="Chrome"&gt;
 	&lt;img src="images/services/main-fmobile.png" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="400" alt="iPad"&gt;
 &lt;/div&gt;</pre>
@@ -2020,16 +2018,16 @@
 								<p>Now you can add Responsive Classes to an Element that switches on Different Devices. You can define Responsive Classes for an Element using the <code>data-class</code> attribute:</p>
 
 								<ul>
-									<li><code>data-class-lg</code> - Classes for Large Devices >=1200px</li>
-									<li><code>data-class-md</code> - Classes for Medium Devices >=992px to 1199px</li>
-									<li><code>data-class-sm</code> - Classes for Tablets</li>
-									<li><code>data-class-xs</code> - Classes for Landscape Mobiles or Phablets</li>
-									<li><code>data-class-xxs</code> - Classes for Portrait Mobiles</li>
+									<li><code>data-class-xl</code> - Classes for Large Devices >=1200px</li>
+									<li><code>data-class-lg</code> - Classes for Medium Devices >=992px to 1199px</li>
+									<li><code>data-class-md</code> - Classes for Tablets</li>
+									<li><code>data-class-sm</code> - Classes for Landscape Mobiles or Phablets</li>
+									<li><code>data-class-xs</code> - Classes for Portrait Mobiles</li>
 								</ul>
 
 								<p><strong></strong>Sample Code:</p>
 
-<pre>&lt;a href="#" class="button" data-class-lg="button-large" data-class-md="" data-class-sm="button-xlarge" data-class-xs="button-small" data-class-xxs="button-mini"&gt;Button&lt;/a&gt;</pre>
+<pre>&lt;a href="#" class="button" data-class-lg="button-large" data-class-lg="" data-class-md="button-xlarge" data-class-sm="button-small" data-class-xs="button-mini"&gt;Button&lt;/a&gt;</pre>
 
 								<p><span class="label label-danger">Note:</span> Make sure that if you intend to use the Responsive Classes Functionality, then you add the <code>data-class-*</code> Variations for all the Devices, since this will ensure that your Defined Classes are Applied on Window Load of that Particular Device as well.</p>
 
@@ -3137,7 +3135,7 @@
 
 								<p>You can add an Owl Carousel on any Page using the Code below:</p>
 
-<pre>&lt;div class=&quot;owl-carousel image-carousel carousel-widget&quot; data-margin=&quot;20&quot; data-nav=&quot;true&quot; data-pagi=&quot;false&quot; data-items-xxs=&quot;2&quot; data-items-xs=&quot;3&quot; data-items-sm=&quot;4&quot; data-items-md=&quot;5&quot;&gt;
+<pre>&lt;div class=&quot;owl-carousel image-carousel carousel-widget&quot; data-margin=&quot;20&quot; data-nav=&quot;true&quot; data-pagi=&quot;false&quot; data-items-xs=&quot;2&quot; data-items-sm=&quot;3&quot; data-items-md=&quot;4&quot; data-items-lg=&quot;5&quot;&gt;
 
 &#x9;&lt;div class=&quot;oc-item&quot;&gt;
 &#x9;&#x9;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;images.jpg&quot; alt=&quot;Image 1&quot;&gt;&lt;/a&gt;
@@ -3167,11 +3165,11 @@
 
 								<ul>
 									<li><code>data-items</code> - No. of Items to display in the Carousel. Eg. 5</li>
-									<li><code>data-items-lg</code> - No. of Items to display in the Carousel on Desktops/Laptops. Eg. <strong>5</strong></li>
-									<li><code>data-items-md</code> - No. of Items to display in the Carousel on Netbooks. Eg. <strong>5</strong></li>
-									<li><code>data-items-sm</code> - No. of Items to display in the Carousel on iPads/Tablets. Eg. <strong>4</strong></li>
-									<li><code>data-items-xs</code> - No. of Items to display in the Carousel on Mobile Landscape. Eg. <strong>3</strong></li>
-									<li><code>data-items-xxs</code> - No. of Items to display in the Carousel on Mobile Portrait. Eg. <strong>2</strong></li>
+									<li><code>data-items-xl</code> - No. of Items to display in the Carousel on Desktops/Laptops. Eg. <strong>5</strong></li>
+									<li><code>data-items-lg</code> - No. of Items to display in the Carousel on Netbooks. Eg. <strong>5</strong></li>
+									<li><code>data-items-md</code> - No. of Items to display in the Carousel on iPads/Tablets. Eg. <strong>4</strong></li>
+									<li><code>data-items-sm</code> - No. of Items to display in the Carousel on Mobile Landscape. Eg. <strong>3</strong></li>
+									<li><code>data-items-xs</code> - No. of Items to display in the Carousel on Mobile Portrait. Eg. <strong>2</strong></li>
 									<li><code>data-loop</code> - Enable/Disable Loop. Eg. <strong>true/false</strong></li>
 									<li><code>data-autoplay</code> - Autoplay timer in milliseconds. Eg. <strong>5000</strong></li>
 									<li><code>data-speed</code> - Speed of the Carousel Animation in millisconds. Eg. <strong>700</strong></li>
@@ -5396,6 +5394,140 @@ $listId = 'xxxxxxxx'; // Your MailChimp List ID</pre>
 
 
 						<div id="docs-changelog">
+
+							<div id="docs-changelog-v5-4" class="docs-content-inner page-section">
+
+								<h1>Version 5.4</h1>
+
+								<p>Released on <strong>23rd November, 2018</strong></p>
+
+								<h3>Added:</h3>
+
+								<ul>
+									<li>SEO Niche Demo</li>
+									<li>Shop Niche Demo</li>
+									<li>New Header: Floating Main Header with Transparent Topbar</li>
+									<li>Ability to use Transparent Menus on Mobile Devices</li>
+									<li>Ability to use Semi-Transparent Menus on Mobile Devices</li>
+								</ul>
+
+								<h3>Updated:</h3>
+
+								<ul>
+									<li>Documentation on Responsive Utilities</li>
+								</ul>
+
+								<h3>Improved:</h3>
+
+								<ul>
+									<li>Mega Menu Column Handling</li>
+									<li>jQuery Click Handlers/Events</li>
+								</ul>
+
+								<h3>Fixed:</h3>
+
+								<ul>
+									<li>Issue with Youtube Videos not playing on Revolution Sliders</li>
+									<li>Issue with Custom Grid Columns on Medium Devices</li>
+									<li>Removed css3-mediaqueries.js JS File Linking</li>
+								</ul>
+
+								<h3>Changed Files:</h3>
+
+								<ul>
+									<li>
+										<h5>CSS</h5>
+										<ul>
+											<li><code>style.css</code>
+												<ul>
+													<li><span class="label label-success">Added</span> <code>#primary-menu ul li .mega-menu-content</code> Related CSS Blocks</li>
+													<li><span class="label label-info">Code Updated</span> <code>#primary-menu ul li .mega-menu-content ul.mega-menu-column.col-5</code> CSS Block</li>
+												</ul>
+											</li>
+											<li><code>css/responsive.css</code>
+												<ul>
+													<li><span class="label label-info">Code Updated</span> <code>#primary-menu ul li .mega-menu-content ul.mega-menu-column</code> related CSS Blocks</li>
+													<li><span class="label label-danger">Code Deleted</span> <code>.col_last { float: none; }</code> CSS Block from the <code>@media (max-width: 991.98px)</code> Media Query</li>
+													<li><span class="label label-info">Code Updated</span> <code>.sidebar.col_last</code> CSS Block inside the <code>@media (max-width: 991.98px)</code> Media Query</li>
+													<li><span class="label label-success">Added</span> <code>.col_last { float: none; }</code> inside the <code>@media (max-width: 767.98px)</code> Media Query</li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<h5>JS</h5>
+										<ul>
+											<li><code>js/function.js</code>
+												<ul>
+													<li><span class="label label-info">Code Updated</span> <code>superfish: function()</code> Function Block</li>
+													<li><span class="label label-info">Code Updated</span> Updated all <code>$.click</code> with <code>.off( 'click' ).on( 'click' )</code></li>
+													<li><span class="label label-info">Code Updated</span> <code>swiperSliderMenu: function( onWinLoad )</code> Function Block</li>
+													<li><span class="label label-info">Code Updated</span> <code>revolutionSliderMenu: function( onWinLoad )</code> Function Block</li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<h5>LESS & SASS & Imports</h5>
+										<ul>
+											<li><span class="label label-info">Files Updated</span> Files updated according to the Main CSS changes</li>
+										</ul>
+									</li>
+									<li>
+										<h5>HTML</h5>
+										<ul>
+											<li><code>demo-seo.html</code>
+												<ul>
+													<li><span class="label label-success">File Added</span> SEO Niche Demo Template</li>
+												</ul>
+											</li>
+											<li><code>demo-shop.html</code>
+												<ul>
+													<li><span class="label label-success">File Added</span> Shop Niche Demo Template</li>
+												</ul>
+											</li>
+											<li><code>header-transparent-responsive.html</code>
+												<ul>
+													<li><span class="label label-success">File Added</span> Transparent Header Responsive Demo Template</li>
+												</ul>
+											</li>
+											<li><code>header-semi-transparent-responsive.html</code>
+												<ul>
+													<li><span class="label label-success">File Added</span> Semi Transparent Header Responsive Demo Template</li>
+												</ul>
+											</li>
+											<li><code>header-floating-with-topbar.html</code>
+												<ul>
+													<li><span class="label label-success">File Added</span> Floating Header with Topbar Demo Template</li>
+												</ul>
+											</li>
+											<li><code>mega-menu.html</code>
+												<ul>
+													<li><span class="label label-info">Code Updated</span> Mega Menu related Codes</li>
+												</ul>
+											</li>
+											<li>Fixed Issue with Youtube Videos not playing on Revolution Sliders
+												<ul>
+													<li><span class="label label-info">File Updated</span> rs-demo-carousel-media.html</li>
+													<li><span class="label label-info">File Updated</span> rs-demo-gallery-youtube.html</li>
+													<li><span class="label label-info">File Updated</span> rs-demo-hero-youtube.html</li>
+													<li><span class="label label-info">File Updated</span> rs-demo-premium-4kvideos.html</li>
+													<li><span class="label label-info">File Updated</span> rs-demo-slider-media.html</li>
+													<li><span class="label label-info">File Updated</span> rs-demos.html</li>
+												</ul>
+											</li>
+											<li>All HTML Files with <code>css3-mediaqueries.js</code> JS File Linking
+												<ul>
+													<li><span class="label label-danger">Deleted</span> Remove the JS Linking line of code</li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+								</ul>
+
+							</div>
+
+							<div class="line"></div>
 
 							<div id="docs-changelog-v5-3" class="docs-content-inner page-section">
 

@@ -8,7 +8,7 @@
 #logo a { position: relative; }
 
 #logo a:not(.noversion):after {
-	content: '5.3.1';
+	content: '5.4';
 	position: absolute;
 	top: 20px;
 	left: 125px;

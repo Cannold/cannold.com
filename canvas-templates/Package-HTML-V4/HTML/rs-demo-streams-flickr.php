@@ -7,7 +7,7 @@ $user_url = 'https://www.flickr.com/photos/we-are-envato/';
 
 // API DATA
 # get flickr key -> http://weblizar.com/get-flickr-api-key/
-$api_key = '';
+$api_key = 'af11a2e7c676379d90e31acbd7a637cd';
 
 // GET PHOTOS
 $flickr = new TP_flickr($api_key);
@@ -34,9 +34,6 @@ $photos = $flickr->get_public_photos($user_id,15);
 
 	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
 
 	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
 	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
