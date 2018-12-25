@@ -5,6 +5,13 @@
 	Overwriting Default Theme Styles for Better Hanlding Updates
 -----------------------------------------------------------------*/
 
+/*Patches for small fixes*/
 
+/* Hamburger Menu Desktop Version */
 
-
+@media (min-width: 992px) {
+  .overlay-menu:not(.top-search-open) .full-header #primary-menu-trigger {
+      right: 40px!important;
+      top: 45px!important;
+  }
+}

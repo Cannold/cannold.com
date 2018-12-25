@@ -13608,3 +13608,21 @@ body:not(.no-transition) #wrapper,
 	margin:0!important;
 	padding:0!important
 }
+
+/*Patches for small fixes*/
+
+/* Hamburger Menu Desktop Version */
+@media (min-width: 992px) {
+  .overlay-menu:not(.top-search-open) .full-header #primary-menu-trigger {
+      right: 40px!important;
+      top: 45px!important;
+  }
+}
+
+/* Top Margin Fbox */
+
+.fbox_pt {padding-top:10px;}
+
+#section-topics {
+	padding-bottom:60px!important;
+}
