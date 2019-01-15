@@ -13623,6 +13623,6 @@ body:not(.no-transition) #wrapper,
 
 .fbox_pt {padding-top:10px;}
 
-#section-topics {
-	padding-bottom:60px!important;
+#copyrights {
+	background-color:black!important;
 }
