@@ -6,9 +6,19 @@
 2. Edit away
 3. See your changes at http://localhost:4000
 
+### Update rubygems
+
+`docker-compose run site bundle update`
+
+## Build only
+
+`docker-compose run site jekyll build`
+
 ## Deploying
 
-`rsync -avz -e ssh --progress --exclude .well-known/ --delete \_site/ cannold.com:./cannold.com/`
+`docker-compose run site jekyll build`
+
+`rsync -avz -e ssh --progress --exclude .well-known/ --delete \_site/ cannold01@cannold.com:./cannold.com/`
 
 ## References
 
