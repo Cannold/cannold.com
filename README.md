@@ -2,7 +2,7 @@
 
 ## Development
 
-1. `docker-compose up -d`
+1. `docker-compose up`
 2. Edit away
 3. See your changes at http://localhost:4000
 
