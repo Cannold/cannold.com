@@ -174,9 +174,15 @@
 
 	<!-- Footer Scripts
 	============================================= -->
-	<script type="text/javascript" src="/js/functions.js"></script>
+	<script src="/js/functions.js"></script>
 
-	<script type="text/javascript">
+	<script src="https://unpkg.com/@tryghost/content-api@1.2.7/umd/content-api.min.js"></script>
+	<script>
+		const api = new GhostContentAPI({
+			// authenticate here
+	  });
+
+		// code to get post and stuff goes here
 
 
 	</script>
