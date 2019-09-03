@@ -74,31 +74,6 @@
 
 					<div class="clear"></div>
 
-					<script>
-
-						ghost_api = new GhostContentAPI({
-						  url: 'https://lesliecannold.ghost.io',
-						  key: 'fbe6c30c6505148dba4aeaf23c',
-						  version: 'v2'
-						});
-
-			    	ghost_api.posts.browse({
-				    	limit: '1',
-				    	filter: 'status:published+tag:Splash',
-				    })
-				    .then((posts) => {
-				    	posts.forEach((post) => {
-								document.getElementById("splash-title").innerHTML = post.title;
-								document.getElementById("splash-html").innerHTML = post.html;
-								$('#splash-html').find('p').addClass('lead divcenter').css({"max-width":"800px"});
-							});
-						})
-				  	.catch((err) => {
-				  		console.error(err);
-						});
-
-					</script>
-
 			</div>
 		</div>
 	</div>
