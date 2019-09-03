@@ -48,9 +48,10 @@
 
 			<div class="container clearfix nopadding">
 
-				<h2 class="divcenter font-body" style="max-width: 700px; font-size: 40px;">The Banking and Finance Royal Commission: Will this time be different?</h2>
+				<h2 id="splash-title" class="divcenter font-body" style="max-width: 700px; font-size: 40px;">The Banking and Finance Royal Commission: Will this time be different?</h2>
 
-				<p class="lead divcenter bottommargin" style="max-width: 800px;">
+			  <div id="splash-html">
+
 					<p class="lead divcenter" style="max-width: 800px;">The imputations of Commissioner Kenneth Hayne’s final report on the Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry were
 						blistering. The Banking and Finance industry are led and staffed by the greedy who are more than willing and able to exploit the needy.
 					</p>
@@ -67,17 +68,34 @@
 					<p class="lead divcenter bottommargin" style="max-width: 800px;">You can hear Leslie Cannold speak at The BFO Crossroads Conference on Thursday 8 August 2019 at Westpac, Barangaroo, Sydney.
 						The Program, full list of speakers and tickets are available <a href="https://campaign.finsia.com/BFO-Conference-2019-BFO">here.</a></p>
 
-						<p class="bottommargin" style="font-size: 16px;"><a href="#" data-scrollto="#booking" data-easing="easeInOutExpo" data-speed="1250" data-offset="70" class="more-link">Book Leslie for your event <i class="icon-angle-right"></i></a></p>
+				</div>
+
+				<p class="bottommargin" style="font-size: 16px;"><a href="#" data-scrollto="#booking" data-easing="easeInOutExpo" data-speed="1250" data-offset="70" class="more-link">Book Leslie for your event <i class="icon-angle-right"></i></a></p>
 
 					<div class="clear"></div>
 
 					<script>
-						const api = new GhostContentAPI({
-							// authenticate here
-					  });
 
-						// code to get post and stuff goes here
+						ghost_api = new GhostContentAPI({
+						  url: 'https://lesliecannold.ghost.io',
+						  key: 'fbe6c30c6505148dba4aeaf23c',
+						  version: 'v2'
+						});
 
+			    	ghost_api.posts.browse({
+				    	limit: '1',
+				    	filter: 'status:published+tag:Splash',
+				    })
+				    .then((posts) => {
+				    	posts.forEach((post) => {
+								document.getElementById("splash-title").innerHTML = post.title;
+								document.getElementById("splash-html").innerHTML = post.html;
+								$('#splash-html').find('p').addClass('lead divcenter').css({"max-width":"800px"});
+							});
+						})
+				  	.catch((err) => {
+				  		console.error(err);
+						});
 
 					</script>
 
@@ -509,11 +527,6 @@
 				</div>
 			</div>
 		</div>
-
-
-
-
-
 
 		<!--	<h2 class="center uppercase t300 ls3 font-body">Events</h2>
 					 <h4 class="center">parouse Leslie's upcoming events</h4>
