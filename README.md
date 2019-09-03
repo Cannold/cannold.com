@@ -14,7 +14,7 @@
 
 `docker-compose run site jekyll build`
 
-## Deploying
+## Deploying - making it live
 
 `docker-compose run site jekyll build`
 
