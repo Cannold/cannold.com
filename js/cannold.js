@@ -7,7 +7,7 @@ const ghostAPI = new GhostContentAPI({
 function updateSplash() {
   ghostAPI.posts.browse({
     limit: '1',
-    filter: 'status:published+tag:Splash',
+    filter: 'status:published+tag:#splash',
   })
   .then((posts) => {
     posts.forEach((post) => {
