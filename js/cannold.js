@@ -5,16 +5,21 @@ const ghostAPI = new GhostContentAPI({
 });
 
 function updateSplash() {
+
   ghostAPI.posts.browse({
     limit: '1',
-    filter: 'status:published+tag:#splash',
+    filter: 'status:published+tag:splash',
   })
   .then((posts) => {
     posts.forEach((post) => {
-      document.getElementById("splash-title").innerHTML = post.title;
-      document.getElementById("splash-html").innerHTML = post.html;
-      // HACK - replace the next line with CSS
-      $('#splash-html').find('p').addClass('lead divcenter').css({"max-width":"800px"});
+
+      // TODO This is where you would put an if block to test for
+      // a new post
+
+      $('#splash-title').html(post.title);
+      $('#splash-html').html(post.html);
+      // HACK LIAM - replace the next line with CSS
+      // $('#splash-html').find('p').addClass('lead divcenter').css({"max-width":"800px"});
     });
   })
   .catch((err) => {
@@ -23,31 +28,50 @@ function updateSplash() {
 }
 
 function updateBlogPreview() {
+
+  $('#ghost-latest-posts').html(''); // we want it blanked out
+
+  var latestPostsHTML = "";
+
   ghostAPI.posts.browse({
-    limit: 'SETASENSIBLELIMIT',
-    filter: 'status:published+tag:SEARCHFORBLOGSTUFF',
+    limit: '4',
+    filter: 'tags:-[splash,Events]',
   })
   .then((posts) => {
+
     posts.forEach((post) => {
-      // The business happens here
+
+      // use jQuery to dyamically add the post elements
+
+      latestPostsHTML = '<div>';
+      latestPostsHTML += '<h3>' + post.title + '</h3>';
+      
+      latestPostsHTML += '</div>';
+
+      $('#ghost-latest-posts').append(latestPostsHTML);
+
     });
+
+   // id is ghost-latest-posts
+
+    // this is where the page update happens
+
   })
   .catch((err) => {
     console.error(err);
   });
+
 }
 
 function updateGhostContent() {
-  updateSplash;
-  updateBlogPreview;
+  updateSplash();
+  updateBlogPreview();
 }
 
-$(document).ready( updateSplash );
-// replace the above line with the below when both functions work.
-// $(document).ready( updateGhostContent );
+$(document).ready( updateGhostContent() );
 
-// Bonus points, set a javascript timer to update the blogs and splash
-// conent every 5 minutes
+// LIAM Bonus points, set a javascript timer to update the blogs and splash
+// content every 5 minutes
 
-// Bonus bounus points. Only do call the update functions if
+// LIAM Bonus bounus points. Only do call the update functions if
 // there have been changes

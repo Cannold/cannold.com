@@ -48,25 +48,13 @@
 
 			<div class="container clearfix nopadding">
 
-				<h2 id="splash-title" class="divcenter font-body" style="max-width: 700px; font-size: 40px;">The Banking and Finance Royal Commission: Will this time be different?</h2>
+				<h2 id="splash-title" class="divcenter font-body" style="max-width: 700px; font-size: 40px;">Splash Title</h2>
 
 			  <div id="splash-html">
 
-					<p class="lead divcenter" style="max-width: 800px;">The imputations of Commissioner Kenneth Hayne’s final report on the Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry were
-						blistering. The Banking and Finance industry are led and staffed by the greedy who are more than willing and able to exploit the needy.
+					<p class="lead divcenter" style="max-width: 800px;">
+						Splash body goes here.
 					</p>
-
-					<p class="lead divcenter" style="max-width: 800px;">The industries’ systems are fine-tuned to measure profit – their profit – and to be inexcusably blind to the losses worn by those whose interests they claim and are bound to
-						protect. Namely, their customers. Despite knowing these facts for many years courtesy of multiple government reports, business as usual continues to prevail while some banking executives and the regulators meant to oversight them minimise and
-						excuse this behaviour as careless “administrative errors.”
-					</p>
-
-					<p class="lead divcenter" style="max-width: 800px;">Hayne was having none of it. In lucid prose marked by restraint, he was brave and outraged enough to deploy precisely the non-Weasel words the industry hates to call a spade a
-						spade: “In the Interim Report, I identified several considerations that pointed towards the conclusion that the root cause of the fees for no service conduct was greed: greed by licensees, and greed by advisers.”
-					<a href="https://www.thebfo.org/Blog/July-2019-(1)/The-Banking-and-Finance-Royal-Commission-Will-this">more ...</a></p>
-
-					<p class="lead divcenter bottommargin" style="max-width: 800px;">You can hear Leslie Cannold speak at The BFO Crossroads Conference on Thursday 8 August 2019 at Westpac, Barangaroo, Sydney.
-						The Program, full list of speakers and tickets are available <a href="https://campaign.finsia.com/BFO-Conference-2019-BFO">here.</a></p>
 
 				</div>
 
@@ -434,28 +422,16 @@
 				<div class="container clearfix">
 					<div class="row topmargin clearfix">
 
-						{% for post in site.posts limit:4 %}
-						<div class="ipost col-sm-3 leftpadding left bottommargin clearfix">
-							<div class="row">
-								<div class="col-md-8 leftpadding" style="margin-top: 20px;">
-									<span class="before-heading" style="font-style: normal;">{{ post.categories }}</span>
 
-									<div class="entry-title">
-										<h3 class="t400" style="font-size: 22px;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-									</div>
-
-									<div class="entry-content">
-
-										<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-										<div>{{ post.excerpt |truncatehtml | truncatewords: 20 }}</div>
-
-										<a href="{{ post.url }}" class="more-link">Read more <i class="icon-angle-right"></i></a>
-									</div>
-
-								</div>
-							</div>
+						<div id="ghost-latest-posts">
+							<!-- LIAM TODO
+							Make the JS put the 4 latest blogs in here
+							-->
+							<p>
+							Something is wrong.	
+							</p>
 						</div>
-						{% endfor %}
+
 					</div>
 				</div>
 				<br>
