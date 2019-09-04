@@ -116,6 +116,20 @@
 }
 
 
+/* splash
+---------------------------------------------------------------------------- */
+
+#splash-html {
+
+	font-size: 20px;
+	font-style: normal;
+	margin: 0 0 0 5px;
+	line-height: 1;
+	font-family: inherit;
+	font-weight: 200;
+
+}
+
 /* Side Panel
 ---------------------------------------------------------------------------- */
 
@@ -707,4 +721,3 @@ textarea.border-form-control {
 	.overlay-menu #primary-menu.dark ul { background-color: transparent; }
 
 }
-
