@@ -29,6 +29,7 @@ function updateSplash() {
 
 function updateBlogPreview() {
 
+
   $('#ghost-latest-posts').html(''); // we want it blanked out
 
   var latestPostsHTML = "";
@@ -45,7 +46,8 @@ function updateBlogPreview() {
 
       latestPostsHTML = '<div>';
       latestPostsHTML += '<h3>' + post.title + '</h3>';
-      
+      latestPostsHTML += '<p>' + post.html + '</p>';
+
       latestPostsHTML += '</div>';
 
       $('#ghost-latest-posts').append(latestPostsHTML);
@@ -53,6 +55,7 @@ function updateBlogPreview() {
     });
 
    // id is ghost-latest-posts
+
 
     // this is where the page update happens
 
