@@ -46,8 +46,9 @@ function updateBlogPreview() {
 
       latestPostsHTML = '<div>';
       latestPostsHTML += '<h3>' + post.title + '</h3>';
-      latestPostsHTML += '<p>' + post.html + '</p>';
-
+      latestPostsHTML += '<p>' + post.excerpt;
+      
+      latestPostsHTML += '</p>';
       latestPostsHTML += '</div>';
 
       $('#ghost-latest-posts').append(latestPostsHTML);
