@@ -44,12 +44,11 @@ function updateBlogPreview() {
 
       // use jQuery to dyamically add the post elements
 
-      latestPostsHTML = '<div>';
+      latestPostsHTML = '<a href="' + post.url + '">';
+      latestPostsHTML += '<div>';
       latestPostsHTML += '<h3>' + post.title + '</h3>';
-      latestPostsHTML += '<p>' + post.excerpt;
-      latestPostsHTML += post.url; 
-      latestPostsHTML += '</p>';
-      latestPostsHTML += '</div>';
+      latestPostsHTML += '<p>' + post.excerpt + '</p>';
+      latestPostsHTML += '</div></a>';
 
       $('#ghost-latest-posts').append(latestPostsHTML);
 
