@@ -47,7 +47,7 @@ function updateBlogPreview() {
       latestPostsHTML = '<div>';
       latestPostsHTML += '<h3>' + post.title + '</h3>';
       latestPostsHTML += '<p>' + post.excerpt;
-      
+      latestPostsHTML += post.url; 
       latestPostsHTML += '</p>';
       latestPostsHTML += '</div>';
 
