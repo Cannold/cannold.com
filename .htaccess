@@ -1,4 +1,6 @@
 RewriteEngine On
+
+RewriteRule "^(articles/article|events/event)/(.+)$" "https://blog.cannold.com/$2" [L,R=301]
+
 RewriteCond %{HTTPS} !=on
-RewriteRule ^/[articles\/article|\/events\/event]\/(.*)$ https://blog.cannold.com/$1/ [R=301,L]
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
