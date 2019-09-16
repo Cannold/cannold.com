@@ -45,11 +45,15 @@ function updateBlogPreview() {
 
       // use jQuery to dyamically add the post elements
 
-      latestPostsHTML = '<a href="' + post.url + '">';
+      latestPostsHTML = '<div>';
+      latestPostsHTML += '<div>';
+      latestPostsHTML += '<a href="' + post.url + '">';
       latestPostsHTML += '<div>';
       latestPostsHTML += '<h3>' + post.title + '</h3>';
       latestPostsHTML += '<p>' + post.excerpt + '</p>';
       latestPostsHTML += '</div></a>';
+      latestPostsHTML += '</div>';
+      latestPostsHTML += '</div>';
 
       $('#ghost-latest-posts').append(latestPostsHTML);
 
@@ -87,11 +91,15 @@ function updateBlogPreview() {
 
       // use jQuery to dyamically add the post elements
 
-      latestPostsHTML = '<a href="' + post.url + '">';
+      latestPostsHTML = '<div>';
+      latestPostsHTML += '<div>';
+      latestPostsHTML += '<a href="' + post.url + '">';
       latestPostsHTML += '<div>';
       latestPostsHTML += '<h3>' + post.title + '</h3>';
       latestPostsHTML += '<p>' + post.excerpt + '</p>';
       latestPostsHTML += '</div></a>';
+      latestPostsHTML += '</div>';
+      latestPostsHTML += '</div>';
 
       $('#ghost-latest-posts').append(latestPostsHTML);
 
@@ -122,7 +130,7 @@ function updateEventPreview() {
   ghostAPI.posts.browse({
     limit: '4',
     filter: 'tags:[Events]',
-    
+
   })
   .then((posts) => {
 
@@ -130,11 +138,16 @@ function updateEventPreview() {
 
       // use jQuery to dyamically add the post elements
 
-      latestEventsHTML = '<a href="' + post.url + '">';
+      latestEventsHTML = '<div>';
+      latestEventsHTML += '<div>';
+      latestEventsHTML += '<a href="' + post.url + '">';
       latestEventsHTML += '<div>';
       latestEventsHTML += '<h3>' + post.title + '</h3>';
       latestEventsHTML += '<p>' + post.excerpt + '</p>';
       latestEventsHTML += '</div></a>';
+      latestEventsHTML += '</div>';
+      latestEventsHTML += '</div>';
+
 
       $('#ghost-latest-events').append(latestEventsHTML);
 
