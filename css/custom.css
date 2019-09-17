@@ -80,11 +80,11 @@ div#ghost-latest-events>div>div>a>div>p, div#ghost-latest-posts>div>div>a>div>p 
 }
 
 .ghostbg {
-  background: #f4f8fb;
+  background: #383838;
 }
 
 .ghostbg h4 {
-  color: #444;
+  color: white;
 }
 
 .ghostbg a.btn {
