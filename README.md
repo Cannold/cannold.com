@@ -2,9 +2,10 @@
 
 ## Development
 
+1. Create a branch for your changes
 1. `docker compose up`
-2. Edit away
-3. See your changes at http://localhost:4000
+1. Edit away
+1. See your changes at http://localhost:4000
 
 ### Update rubygems
 
@@ -16,9 +17,10 @@
 
 ## Deploying - making it live
 
-`docker compose run site jekyll build`
-
-`rsync -avz -e ssh --progress --exclude .well-known/ --delete \_site/ cannold01@cannold.com:./cannold.com/`
+1. Goto https://github.com/Cannold/cannold.com
+1. Create a PR
+1. Merge your PR
+1. Done! This will cause a GitHub action to build and deplpoy the changes. The site will update within a few minutes.
 
 ## References
 
