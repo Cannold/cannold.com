@@ -1,5 +1,0 @@
-    <%= @page.lineage(" → ") { |page|
-      page == @page ? page.title.upcase : link_to_page(page.title.upcase, page)
-    } %>
- 
-

@@ -1,7 +1,0 @@
-<h1><%= @page.title %> archive</h1>
-
-<%= list_news_post_titles_by_month(@posts) %>
-
-<p class="back">
-  <%= link_to_page("&#x2190; Back to #{@page.title} index", @page) %>
-</p

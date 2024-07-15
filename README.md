@@ -2,21 +2,21 @@
 
 ## Development
 
-1. `docker-compose up`
+1. `docker compose up`
 2. Edit away
 3. See your changes at http://localhost:4000
 
 ### Update rubygems
 
-`docker-compose run site bundle update`
+`docker compose run site bundle update`
 
 ## Build only
 
-`docker-compose run site jekyll build`
+`docker compose run site jekyll build`
 
 ## Deploying - making it live
 
-`docker-compose run site jekyll build`
+`docker compose run site jekyll build`
 
 `rsync -avz -e ssh --progress --exclude .well-known/ --delete \_site/ cannold01@cannold.com:./cannold.com/`
 
